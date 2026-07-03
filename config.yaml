@@ -1,0 +1,46 @@
+# Job search criteria for Aimee
+criteria:
+  max_post_age_days: 10
+  min_salary: 28000
+  assistant_min_salary: 30000
+  exclude_companies:
+    - Li-Ning
+    - 李寧
+  title_keywords:
+    - hr officer
+    - human resources officer
+    - senior hr
+  exclude_title_keywords:
+    - receptionist
+    - clerk
+    - secretary
+    - admin manager
+    - hr manager
+  preferred_locations:
+    - North Point
+    - Quarry Bay
+    - Taikoo
+    - Causeway Bay
+    - Wan Chai
+    - Chai Wan
+    - Central
+    - Aberdeen
+    - 北角
+    - 鰂魚涌
+    - 太古城
+    - 銅鑼灣
+    - 灣仔
+    - 柴灣
+    - 中環
+  boost_companies:
+    - Kerry
+    - Savills
+    - Ark Group
+    - 太興
+    - Roctec
+    - Compass
+    - ESF
+    - THEi
+
+sources:
+  ctgoodjobs_url: https://jobs.ctgoodjobs.hk/jobs/hr-officer-jobs-in-human-resources

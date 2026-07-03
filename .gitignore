@@ -1,0 +1,9 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/cache.json
+data/job_detail_cache.json
+data/applied_jobs.json
+data/telegram_state.json
+logs/
