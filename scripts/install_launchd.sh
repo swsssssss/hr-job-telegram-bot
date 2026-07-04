@@ -1,6 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
+# Local Mac scheduler. Prefer cloud instead: bash scripts/setup_cloud.sh
+
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 PY="$ROOT/venv/bin/python"
 MAIN="$ROOT/src/main.py"

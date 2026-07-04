@@ -1,0 +1,66 @@
+name: HR Job Reminders
+
+on:
+  schedule:
+    # 08:00 HKT (UTC+8)
+    - cron: "0 0 * * *"
+    # 20:00 HKT
+    - cron: "0 12 * * *"
+    # 20:05 HKT applied summary
+    - cron: "5 12 * * *"
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: Reminder slot
+        required: true
+        default: morning
+        type: choice
+        options:
+          - morning
+          - evening
+          - applied_summary
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hr-job-bot-data
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve slot
+        id: slot
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 0 * * *") echo "slot=morning" >> "$GITHUB_OUTPUT" ;;
+            "0 12 * * *") echo "slot=evening" >> "$GITHUB_OUTPUT" ;;
+            "5 12 * * *") echo "slot=applied_summary" >> "$GITHUB_OUTPUT" ;;
+            *)
+              echo "slot=${{ github.event.inputs.slot || 'morning' }}" >> "$GITHUB_OUTPUT"
+              ;;
+          esac
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure Telegram env
+        run: |
+          {
+            echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}"
+            echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}"
+          } > .env
+
+      - name: Send reminder
+        run: python src/main.py --slot "${{ steps.slot.outputs.slot }}"
+
+      - name: Commit bot data
+        run: bash scripts/commit_bot_data.sh "Update bot data after ${{ steps.slot.outputs.slot }} reminder [skip ci]"
