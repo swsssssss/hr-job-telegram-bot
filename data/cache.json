@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T13:10:36.686278",
-  "slot": "evening",
+  "updated_at": "2026-07-06T03:38:24.055897",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -13,25 +13,11 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 4 days ago (2026-07-01)"
+        "Posted 5 days ago (2026-07-01)"
       ]
     },
     {
       "rank": 2,
-      "title": "HR Officer / Senior HR Officer",
-      "company": "Compass Offices",
-      "location": "Causeway Bay",
-      "url": "https://jobs.ctgoodjobs.hk/job/10162714/hr-officer-senior-hr-officer",
-      "posted_date": "2026-06-25",
-      "score": 32,
-      "reasons": [
-        "preferred location",
-        "preferred company",
-        "Posted 10 days ago (2026-06-25)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HR Officer - HRBP team $28K",
       "company": "Michael Page (agency)",
       "location": "Central",
@@ -41,11 +27,11 @@
       "reasons": [
         "salary ~$28,000",
         "preferred location",
-        "Posted 6 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Senior HR Officer",
       "company": "Ark Group International",
       "location": "Hong Kong Island",
@@ -54,11 +40,11 @@
       "score": 28,
       "reasons": [
         "preferred company",
-        "Posted 7 days ago (2026-06-28)"
+        "Posted 8 days ago (2026-06-28)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "HR Senior Officer / Officer",
       "company": "Tai Hing",
       "location": "Quarry Bay",
@@ -67,11 +53,11 @@
       "score": 26,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "HR Officer (EOI)",
       "company": "ESF",
       "location": "Hong Kong",
@@ -81,11 +67,11 @@
       "reasons": [
         "preferred company",
         "institution-like role",
-        "Posted 3 days ago (2026-07-02)"
+        "Posted 4 days ago (2026-07-02)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Sr HR Officer / HR Officer  -  Insurance company",
       "company": "Harvest Personnel (insurance)",
       "location": "Wan Chai",
@@ -94,11 +80,11 @@
       "score": 26,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Senior HR & Administrative Officer   高級人事及行政主任",
       "company": "InspiringHK Sports Foundation Limited",
       "location": "Quarry Bay",
@@ -107,20 +93,34 @@
       "score": 13,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Expressions of Interest: HR Officer - All ESF Schools",
+      "company": "The English Schools Foundation (ESF)",
+      "location": "Hong Kong",
+      "url": "https://jobs.ctgoodjobs.hk/job/10170527/expressions-of-interest-hr-officer-all-esf-schools",
+      "posted_date": "2026-07-02",
+      "score": 10,
+      "reasons": [
+        "preferred company",
+        "institution-like role",
+        "Posted 4 days ago (2026-07-02)"
       ]
     },
     {
       "rank": 9,
-      "title": "Senior HR Officer - C&B $30K",
-      "company": "Michael Page",
+      "title": "Expressions of Interest: HR Officer - All ESF Schools",
+      "company": "ENGLISH SCHOOLS FOUNDATION",
       "location": "Hong Kong",
-      "url": "https://jobs.ctgoodjobs.hk/job/10163284/senior-hr-officer-cb-30k",
-      "posted_date": "2026-06-25",
-      "score": 11,
+      "url": "https://jobs.ctgoodjobs.hk/job/10171244/expressions-of-interest-hr-officer-all-esf-schools",
+      "posted_date": "2026-07-02",
+      "score": 4,
       "reasons": [
-        "salary ~$30,000",
-        "Posted 10 days ago (2026-06-25)"
+        "institution-like role",
+        "Posted 4 days ago (2026-07-02)"
       ]
     },
     {
@@ -132,7 +132,7 @@
       "posted_date": "2026-06-26",
       "score": 3,
       "reasons": [
-        "Posted 9 days ago (2026-06-26)"
+        "Posted 10 days ago (2026-06-26)"
       ]
     }
   ]
