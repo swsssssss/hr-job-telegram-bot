@@ -3,12 +3,11 @@
 from __future__ import annotations
 
 import html
-from datetime import datetime
 from typing import List, Tuple
 
 import requests
 
-from src.date_utils import format_posted_label
+from src.date_utils import format_now_hkt, format_posted_label
 from src.enrich_jobs import normalize_source
 from src.fetch_jobs import Job
 
@@ -20,10 +19,10 @@ def build_message(
     ranked: List[Tuple[Job, int, List[str]]],
     slot_label: str,
 ) -> str:
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = format_now_hkt()
     lines = [
-        f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>",
-        f"📅 {html.escape(now)}",
+        f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>（香港時間）",
+        f"📅 送出：{html.escape(now)}",
         "",
         "<b>Top 10 建議申請（10 日內 post）：</b>",
         "",
@@ -70,10 +69,10 @@ def build_message(
 
 
 def build_applied_message(applied_entries: list[dict]) -> str:
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = format_now_hkt()
     lines = [
-        "📋 <b>20:05 已 Apply 清單</b>",
-        f"📅 {html.escape(now)}",
+        "📋 <b>20:05 已 Apply 清單</b>（香港時間）",
+        f"📅 送出：{html.escape(now)}",
         "",
     ]
 

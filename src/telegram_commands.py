@@ -77,7 +77,7 @@ def _help_message() -> Reply:
             "<b>取消</b>",
             "<code>undo 1</code> — 取消 apply 記錄",
             "",
-            "每日自動 send：08:00 / 20:00 Top 10，20:05 已 apply 清單",
+            "每日自動 send（香港時間）：08:00 / 20:00 Top 10，20:05 已 apply 清單",
         ]
     )
     return "HTML", text
