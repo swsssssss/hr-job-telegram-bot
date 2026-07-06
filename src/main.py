@@ -21,6 +21,7 @@ from src.enrich_jobs import enrich_jobs  # noqa: E402
 from src.fetch_jobs import fetch_ctgoodjobs, load_seed_jobs  # noqa: E402
 from src.filter_jobs import rank_jobs  # noqa: E402
 from src.telegram_commands import process_telegram_commands  # noqa: E402
+from src.send_guard import already_sent_today, mark_sent_today  # noqa: E402
 from src.telegram_notify import (  # noqa: E402
     build_applied_message,
     build_message,
@@ -102,7 +103,16 @@ def main() -> int:
         action="store_true",
         help="Print message without sending to Telegram",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Send even if this slot was already sent today",
+    )
     args = parser.parse_args()
+
+    if not args.dry_run and not args.force and already_sent_today(ROOT, args.slot):
+        print(f"Already sent {args.slot} today ({SLOT_LABELS[args.slot]}), skipping.")
+        return 0
 
     load_dotenv(ROOT / ".env")
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -131,6 +141,7 @@ def main() -> int:
         return 1
 
     send_telegram_message(token, chat_id, message)
+    mark_sent_today(ROOT, args.slot)
     if args.slot == "applied_summary":
         print(f"Sent {slot_label} applied summary with {count} jobs.")
     else:

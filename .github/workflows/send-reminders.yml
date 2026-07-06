@@ -2,12 +2,18 @@ name: HR Job Reminders
 
 on:
   schedule:
-    # 08:00 HKT (UTC+8)
+    # 08:00 HKT — primary + backup (GitHub cron can be late or skipped)
     - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
+    - cron: "0 1 * * *"
     # 20:00 HKT
     - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 13 * * *"
     # 20:05 HKT applied summary
     - cron: "5 12 * * *"
+    - cron: "35 12 * * *"
+    - cron: "5 13 * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -19,6 +25,14 @@ on:
           - morning
           - evening
           - applied_summary
+      force:
+        description: Send even if already sent today
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
 
 permissions:
   contents: write
@@ -37,9 +51,9 @@ jobs:
         id: slot
         run: |
           case "${{ github.event.schedule }}" in
-            "0 0 * * *") echo "slot=morning" >> "$GITHUB_OUTPUT" ;;
-            "0 12 * * *") echo "slot=evening" >> "$GITHUB_OUTPUT" ;;
-            "5 12 * * *") echo "slot=applied_summary" >> "$GITHUB_OUTPUT" ;;
+            "0 0 * * *"|"30 0 * * *"|"0 1 * * *") echo "slot=morning" >> "$GITHUB_OUTPUT" ;;
+            "0 12 * * *"|"30 12 * * *"|"0 13 * * *") echo "slot=evening" >> "$GITHUB_OUTPUT" ;;
+            "5 12 * * *"|"35 12 * * *"|"5 13 * * *") echo "slot=applied_summary" >> "$GITHUB_OUTPUT" ;;
             *)
               echo "slot=${{ github.event.inputs.slot || 'morning' }}" >> "$GITHUB_OUTPUT"
               ;;
@@ -60,7 +74,12 @@ jobs:
           } > .env
 
       - name: Send reminder
-        run: python src/main.py --slot "${{ steps.slot.outputs.slot }}"
+        run: |
+          FORCE_FLAG=""
+          if [[ "${{ github.event.inputs.force }}" == "true" ]]; then
+            FORCE_FLAG="--force"
+          fi
+          python src/main.py --slot "${{ steps.slot.outputs.slot }}" $FORCE_FLAG
 
       - name: Commit bot data
         run: bash scripts/commit_bot_data.sh "Update bot data after ${{ steps.slot.outputs.slot }} reminder [skip ci]"
