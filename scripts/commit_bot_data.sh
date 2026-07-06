@@ -11,7 +11,7 @@ git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 mkdir -p data
 
-for file in applied_jobs.json telegram_state.json cache.json; do
+for file in applied_jobs.json telegram_state.json cache.json last_sent_slots.json; do
   if [[ ! -f "data/$file" ]]; then
     case "$file" in
       applied_jobs.json) echo "{}" > "data/$file" ;;
@@ -21,7 +21,7 @@ for file in applied_jobs.json telegram_state.json cache.json; do
 done
 
 files=()
-for file in applied_jobs.json telegram_state.json cache.json; do
+for file in applied_jobs.json telegram_state.json cache.json last_sent_slots.json; do
   if [[ -f "data/$file" ]]; then
     files+=("data/$file")
   fi
