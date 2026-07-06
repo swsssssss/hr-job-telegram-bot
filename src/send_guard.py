@@ -3,10 +3,10 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-HKT = timezone(timedelta(hours=8))
+from src.date_utils import today_hkt
+
 STATE_FILE = "last_sent_slots.json"
 
 
@@ -15,7 +15,7 @@ def _state_path(root: Path) -> Path:
 
 
 def _today_hkt() -> str:
-    return datetime.now(HKT).strftime("%Y-%m-%d")
+    return today_hkt().isoformat()
 
 
 def already_sent_today(root: Path, slot: str) -> bool:

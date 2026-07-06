@@ -2,18 +2,33 @@ name: HR Job Reminders
 
 on:
   schedule:
-    # 08:00 HKT — primary + backup (GitHub cron can be late or skipped)
+    # 08:00 HKT (00:00 UTC) + backups every 30 min until 11:30 HKT
     - cron: "0 0 * * *"
     - cron: "30 0 * * *"
     - cron: "0 1 * * *"
-    # 20:00 HKT
+    - cron: "30 1 * * *"
+    - cron: "0 2 * * *"
+    - cron: "30 2 * * *"
+    - cron: "0 3 * * *"
+    - cron: "30 3 * * *"
+    # 20:00 HKT (12:00 UTC) + backups every 30 min until 23:30 HKT
     - cron: "0 12 * * *"
     - cron: "30 12 * * *"
     - cron: "0 13 * * *"
-    # 20:05 HKT applied summary
+    - cron: "30 13 * * *"
+    - cron: "0 14 * * *"
+    - cron: "30 14 * * *"
+    - cron: "0 15 * * *"
+    - cron: "30 15 * * *"
+    # 20:05 HKT (12:05 UTC) + backups
     - cron: "5 12 * * *"
     - cron: "35 12 * * *"
     - cron: "5 13 * * *"
+    - cron: "35 13 * * *"
+    - cron: "5 14 * * *"
+    - cron: "35 14 * * *"
+    - cron: "5 15 * * *"
+    - cron: "35 15 * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -47,21 +62,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Resolve slot
-        id: slot
-        run: |
-          case "${{ github.event.schedule }}" in
-            "0 0 * * *"|"30 0 * * *"|"0 1 * * *") echo "slot=morning" >> "$GITHUB_OUTPUT" ;;
-            "0 12 * * *"|"30 12 * * *"|"0 13 * * *") echo "slot=evening" >> "$GITHUB_OUTPUT" ;;
-            "5 12 * * *"|"35 12 * * *"|"5 13 * * *") echo "slot=applied_summary" >> "$GITHUB_OUTPUT" ;;
-            *)
-              echo "slot=${{ github.event.inputs.slot || 'morning' }}" >> "$GITHUB_OUTPUT"
-              ;;
-          esac
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Resolve slot
+        id: slot
+        run: |
+          SLOT=$(python scripts/resolve_slot.py "${{ github.event.schedule }}" "${{ github.event.inputs.slot || 'morning' }}")
+          echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
+          echo "Resolved slot: $SLOT (cron: ${{ github.event.schedule }})"
 
       - name: Install dependencies
         run: pip install -r requirements.txt

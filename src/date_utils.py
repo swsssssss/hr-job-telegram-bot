@@ -2,8 +2,22 @@
 
 from __future__ import annotations
 
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from typing import Optional, Union
+
+HKT = timezone(timedelta(hours=8))
+
+
+def now_hkt() -> datetime:
+    return datetime.now(HKT)
+
+
+def today_hkt() -> date:
+    return now_hkt().date()
+
+
+def format_now_hkt() -> str:
+    return now_hkt().strftime("%Y-%m-%d %H:%M HKT")
 
 
 def parse_posted_date(value: Union[str, date, datetime, None]) -> Optional[date]:
@@ -36,7 +50,7 @@ def days_since_posted(value: Union[str, date, datetime, None], today: Optional[d
     posted = parse_posted_date(value)
     if posted is None:
         return None
-    ref = today or date.today()
+    ref = today or today_hkt()
     return (ref - posted).days
 
 
