@@ -62,7 +62,7 @@ def save_cache(root: Path, ranked, slot: str = "manual") -> None:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
 
-def build_job_list_message(root: Path, slot_label: str = "Now") -> str:
+def build_job_list_message(root: Path, slot_label: str = "即時") -> str:
     ranked = build_ranked_jobs(root, limit=10)
     save_cache(root, ranked, slot="manual")
     return build_message(ranked, slot_label)

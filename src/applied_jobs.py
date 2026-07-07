@@ -78,12 +78,62 @@ def unmark_applied(root: Path, url: str) -> bool:
     return True
 
 
+def _normalize_company(name: str) -> str:
+    lowered = name.lower().strip()
+    for token in (
+        "limited",
+        "ltd",
+        "company",
+        "co.",
+        "group",
+        "international",
+        "hong kong",
+        "（",
+        "(",
+        "|",
+        "  ",
+    ):
+        lowered = lowered.replace(token, " ")
+    return " ".join(lowered.split())
+
+
+def _company_matches(applied_name: str, job_company: str) -> bool:
+    applied = _normalize_company(applied_name)
+    company = _normalize_company(job_company)
+    if not applied or not company:
+        return False
+    return applied in company or company in applied
+
+
+def _load_applied_companies(root: Path) -> List[str]:
+    config_path = root / "config.yaml"
+    if not config_path.exists():
+        return []
+    import yaml
+
+    with open(config_path, encoding="utf-8") as f:
+        config = yaml.safe_load(f) or {}
+    return list(config.get("criteria", {}).get("applied_companies", []))
+
+
 def filter_unapplied(jobs: List[Job], root: Path) -> List[Job]:
     applied = load_applied(root)
-    if not applied:
-        return jobs
     applied_keys = set(applied.keys())
-    return [job for job in jobs if job_key(job.url) not in applied_keys]
+    applied_names = [
+        entry.get("company", "")
+        for entry in applied.values()
+        if entry.get("company")
+    ]
+    applied_names.extend(_load_applied_companies(root))
+
+    filtered: List[Job] = []
+    for job in jobs:
+        if job_key(job.url) in applied_keys:
+            continue
+        if any(_company_matches(name, job.company) for name in applied_names):
+            continue
+        filtered.append(job)
+    return filtered
 
 
 def load_last_sent_jobs(root: Path) -> List[dict]:

@@ -121,7 +121,7 @@ def handle_text_command(text: str, root: Path) -> Optional[Reply]:
         return _help_message()
 
     if lowered in ("list", "top10", "top 10", "搵工", "清單"):
-        return "HTML", build_job_list_message(root, slot_label="Now")
+        return "HTML", build_job_list_message(root, slot_label="即時")
 
     if lowered in ("applied list", "已apply list", "已申請 list", "appliedlist"):
         return "HTML", build_applied_list_message(root)
