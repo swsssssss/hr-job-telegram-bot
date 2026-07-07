@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T17:34:00.771754",
-  "slot": "evening",
+  "updated_at": "2026-07-07T03:29:38.272038",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -22,12 +22,12 @@
       "company": "Michael Page (agency)",
       "location": "Central",
       "url": "https://jobs.ctgoodjobs.hk/job/10165795/hr-officer-hrbp-team-28k",
-      "posted_date": "2026-06-28",
+      "posted_date": "2026-06-29",
       "score": 32,
       "reasons": [
         "salary ~$28,000",
         "preferred location",
-        "Posted 9 days ago (2026-06-28)"
+        "Posted 8 days ago (2026-06-29)"
       ]
     },
     {
@@ -128,12 +128,12 @@
       "company": "The English Schools Foundation (ESF)",
       "location": "Hong Kong",
       "url": "https://jobs.ctgoodjobs.hk/job/10170527/expressions-of-interest-hr-officer-all-esf-schools",
-      "posted_date": "2026-07-01",
+      "posted_date": "2026-07-02",
       "score": 10,
       "reasons": [
         "preferred company",
         "institution-like role",
-        "Posted 6 days ago (2026-07-01)"
+        "Posted 5 days ago (2026-07-02)"
       ]
     }
   ]
