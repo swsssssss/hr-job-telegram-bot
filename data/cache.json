@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T03:29:38.272038",
-  "slot": "morning",
+  "updated_at": "2026-07-06T14:19:53.324458",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 6 days ago (2026-07-01)"
+        "Posted 5 days ago (2026-07-01)"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "reasons": [
         "salary ~$28,000",
         "preferred location",
-        "Posted 8 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "score": 28,
       "reasons": [
         "preferred company",
-        "Posted 9 days ago (2026-06-28)"
+        "Posted 8 days ago (2026-06-28)"
       ]
     },
     {
@@ -53,7 +53,7 @@
       "score": 26,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "reasons": [
         "preferred company",
         "institution-like role",
-        "Posted 5 days ago (2026-07-02)"
+        "Posted 4 days ago (2026-07-02)"
       ]
     },
     {
@@ -76,11 +76,11 @@
       "company": "Harvest Personnel (insurance)",
       "location": "Wan Chai",
       "url": "https://jobs.ctgoodjobs.hk/job/10166743/sr-hr-officer-hr-officer-insurance-company",
-      "posted_date": "2026-06-28",
+      "posted_date": "2026-06-29",
       "score": 26,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-06-28)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
@@ -93,47 +93,46 @@
       "score": 13,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-06-29)"
+        "Posted 7 days ago (2026-06-29)"
       ]
     },
     {
       "rank": 8,
-      "title": "Sr HR Officer / HR Officer  -  Insurance company",
-      "company": "Harvest Personnel Agency",
-      "location": "Wan Chai",
-      "url": "https://jobs.ctgoodjobs.hk/job/10172269/sr-hr-officer-hr-officer-insurance-company",
-      "posted_date": "2026-07-02",
-      "score": 13,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-07-02)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior HR Officer - C&B $30K",
-      "company": "Michael Page",
-      "location": "Hong Kong",
-      "url": "https://jobs.ctgoodjobs.hk/job/10172573/senior-hr-officer-cb-30k",
-      "posted_date": "2026-07-02",
-      "score": 11,
-      "reasons": [
-        "salary ~$30,000",
-        "Posted 5 days ago (2026-07-02)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Expressions of Interest: HR Officer - All ESF Schools",
       "company": "The English Schools Foundation (ESF)",
       "location": "Hong Kong",
       "url": "https://jobs.ctgoodjobs.hk/job/10170527/expressions-of-interest-hr-officer-all-esf-schools",
-      "posted_date": "2026-07-02",
+      "posted_date": "2026-07-01",
       "score": 10,
       "reasons": [
         "preferred company",
         "institution-like role",
-        "Posted 5 days ago (2026-07-02)"
+        "Posted 5 days ago (2026-07-01)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Expressions of Interest: HR Officer - All ESF Schools",
+      "company": "ENGLISH SCHOOLS FOUNDATION",
+      "location": "Hong Kong",
+      "url": "https://jobs.ctgoodjobs.hk/job/10171244/expressions-of-interest-hr-officer-all-esf-schools",
+      "posted_date": "2026-07-01",
+      "score": 4,
+      "reasons": [
+        "institution-like role",
+        "Posted 5 days ago (2026-07-01)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior Human Resources Officer",
+      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
+      "location": "Wong Chuk Hang",
+      "url": "https://jobs.ctgoodjobs.hk/job/10173386/senior-human-resources-officer",
+      "posted_date": "2026-07-03",
+      "score": 0,
+      "reasons": [
+        "Posted 3 days ago (2026-07-03)"
       ]
     }
   ]

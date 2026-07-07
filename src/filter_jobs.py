@@ -52,10 +52,16 @@ def score_job(job: Job, config: Dict) -> Tuple[int, List[str]]:
     title = job.title or ""
     company = job.company or ""
     location = job.location or ""
-    blob = f"{title} {company} {location} {job.note}"
 
     if _contains_any(company, criteria.get("exclude_companies", [])):
         return -999, ["excluded company"]
+
+    blob = f"{title} {company} {location} {job.note}"
+    if _contains_any(blob, criteria.get("exclude_company_keywords", [])):
+        return -999, ["excluded agency/recruiter"]
+
+    if _contains_any(blob, criteria.get("exclude_institution_keywords", [])):
+        return -999, ["excluded institution"]
 
     if not _title_matches(title, criteria.get("title_keywords", [])):
         return -999, ["title mismatch"]
@@ -90,10 +96,6 @@ def score_job(job: Job, config: Dict) -> Tuple[int, List[str]]:
     if _contains_any(company, criteria.get("boost_companies", [])):
         score += 6
         reasons.append("preferred company")
-
-    if _contains_any(blob, ["university", "college", "school", "esf", "thei", "vtc", "院校"]):
-        score += 4
-        reasons.append("institution-like role")
 
     if _contains_any(title, ["senior hr", "sr hr"]):
         score += 3

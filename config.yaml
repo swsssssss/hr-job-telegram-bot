@@ -6,6 +6,37 @@ criteria:
   exclude_companies:
     - Li-Ning
     - 李寧
+  exclude_company_keywords:
+    - agency
+    - recruitment
+    - personnel
+    - randstad
+    - michael page
+    - pagegroup
+    - manpower
+    - adecco
+    - robert walters
+    - hays
+    - ambition
+    - 代招
+    - 獵頭
+  exclude_institution_keywords:
+    - university
+    - college
+    - school
+    - esf
+    - vtc
+    - thei
+    - institute
+    - polytechnic
+    - academy
+    - kindergarten
+    - 院校
+    - 大學
+    - 學院
+    - 學校
+    - 教育機構
+    - english schools foundation
   title_keywords:
     - hr officer
     - human resources officer
@@ -39,8 +70,6 @@ criteria:
     - 太興
     - Roctec
     - Compass
-    - ESF
-    - THEi
 
 sources:
   ctgoodjobs_url: https://jobs.ctgoodjobs.hk/jobs/hr-officer-jobs-in-human-resources
