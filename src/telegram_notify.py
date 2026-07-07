@@ -21,8 +21,8 @@ def build_message(
 ) -> str:
     now = format_now_hkt()
     lines = [
-        f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>（香港時間）",
-        f"📅 送出：{html.escape(now)}",
+        f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>",
+        f"📅 送出時間（香港）：{html.escape(now)}",
         "",
         "<b>Top 10 建議申請（10 日內 post）：</b>",
         "",
@@ -60,7 +60,7 @@ def build_message(
     lines.extend(
         [
             "⏰ <b>記得今日申請未 apply 嘅職位！</b>",
-            "📝 已 apply：回覆 <code>applied 1</code> 或 <code>applied 2 3</code>",
+            "📝 已 apply：回覆 <code>applied 1</code> 或 <code>applied kerry</code>",
             "💰 表格填 expected salary：<b>$32,000</b>",
             "🎯 面試底線：<b>$28,000</b>",
         ]
@@ -71,8 +71,8 @@ def build_message(
 def build_applied_message(applied_entries: list[dict]) -> str:
     now = format_now_hkt()
     lines = [
-        "📋 <b>20:05 已 Apply 清單</b>（香港時間）",
-        f"📅 送出：{html.escape(now)}",
+        "📋 <b>晚間已 Apply 清單</b>",
+        f"📅 送出時間（香港）：{html.escape(now)}",
         "",
     ]
 

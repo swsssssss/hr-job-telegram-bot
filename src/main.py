@@ -29,9 +29,9 @@ from src.telegram_notify import (  # noqa: E402
 )
 
 SLOT_LABELS = {
-    "morning": "08:00",
-    "evening": "20:00",
-    "applied_summary": "20:05",
+    "morning": "朝早",
+    "evening": "晚間",
+    "applied_summary": "晚間已 Apply",
 }
 
 
