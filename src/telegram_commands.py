@@ -71,13 +71,14 @@ def _help_message() -> Reply:
             "<code>applied https://...</code> — Mark job link",
             "",
             "<b>查詢</b>",
-            "<code>list</code> — 即時 Top 10（未 apply）",
+            "<code>list</code> — 即時符合條件嘅職位（未 apply）",
             "<code>applied list</code> — 已 apply 清單",
             "",
             "<b>取消</b>",
             "<code>undo 1</code> — 取消 apply 記錄",
             "",
-            "每日自動 send（香港時間）：08:00 / 20:00 Top 10，20:05 已 apply 清單",
+            "每日自動 send（香港時間）：08:00 / 20:00",
+            "（9 日內 post｜唔包院校/agency｜Assistant 要 >$30K）",
         ]
     )
     return "HTML", text

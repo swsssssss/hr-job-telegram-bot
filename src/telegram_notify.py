@@ -21,15 +21,20 @@ def build_message(
 ) -> str:
     now = format_now_hkt()
     count = len(ranked)
-    if count >= 10:
-        list_heading = "<b>Top 10 建議申請（9 日內 post）：</b>"
-    elif count == 0:
+    if count == 0:
         list_heading = "<b>今日暫無符合條件嘅職位</b>"
     else:
-        list_heading = f"<b>Top {count} 建議申請（9 日內 post，符合條件嘅工暫時得 {count} 個）：</b>"
+        list_heading = f"<b>符合條件嘅職位（9 日內 post，共 {count} 個）：</b>"
+
+    if slot_label == "朝早":
+        title_line = "🕗 <b>朝早 08:00 HR 搵工提醒</b>"
+    elif slot_label == "晚間":
+        title_line = "🕗 <b>晚間 20:00 HR 搵工提醒</b>"
+    else:
+        title_line = f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>"
 
     lines = [
-        f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>",
+        title_line,
         f"📅 送出時間（香港）：{html.escape(now)}",
         "🔄 每次 send 都會重新 fetch 最新職位",
         "",

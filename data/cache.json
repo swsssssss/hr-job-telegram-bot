@@ -1,68 +1,18 @@
 {
-  "updated_at": "2026-07-07T11:49:30.672344",
-  "slot": "evening",
+  "updated_at": "2026-07-09T14:05:29.437705",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior HR Officer",
-      "company": "Ark Group International",
-      "location": "Hong Kong Island",
-      "url": "https://hk.jobsdb.com/job/92718457",
-      "posted_date": "2026-06-28",
-      "score": 28,
-      "reasons": [
-        "preferred company",
-        "Posted 9 days ago (2026-06-28)"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "HR Senior Officer / Officer",
-      "company": "Tai Hing",
-      "location": "Quarry Bay",
-      "url": "https://hk.jobsdb.com/job/92547786",
-      "posted_date": "2026-06-29",
-      "score": 26,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-06-29)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Senior HR & Administrative Officer   高級人事及行政主任",
       "company": "InspiringHK Sports Foundation Limited",
       "location": "Quarry Bay",
       "url": "https://jobs.ctgoodjobs.hk/job/10168864/senior-hr-administrative-officer-%e9%ab%98%e7%b4%9a%e4%ba%ba%e4%ba%8b%e5%8f%8a%e8%a1%8c%e6%94%bf%e4%b8%bb%e4%bb%bb",
-      "posted_date": "2026-06-29",
+      "posted_date": "2026-06-30",
       "score": 13,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-06-29)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Senior Human Resources Officer",
-      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10173386/senior-human-resources-officer",
-      "posted_date": "2026-07-02",
-      "score": 0,
-      "reasons": [
-        "Posted 5 days ago (2026-07-02)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Human Resources Officer",
-      "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10173324/human-resources-officer",
-      "posted_date": "2026-07-02",
-      "score": 0,
-      "reasons": [
-        "Posted 5 days ago (2026-07-02)"
+        "Posted 9 days ago (2026-06-30)"
       ]
     }
   ]
