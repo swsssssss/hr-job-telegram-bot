@@ -72,23 +72,14 @@ def score_job(job: Job, config: Dict, *, relaxed: bool = False) -> Tuple[int, Li
     salary = _extract_salary(blob)
     if _is_assistant_hr_role(title):
         assistant_min = criteria.get("assistant_min_salary", 30000)
-        if salary is not None and salary < assistant_min:
-            return -999, [f"assistant role needs ${assistant_min:,}+ salary"]
-        if salary is None and not relaxed:
+        if salary is None or salary < assistant_min:
             return -999, [f"assistant role needs ${assistant_min:,}+ salary"]
 
-    max_post_age_days = (
-        criteria.get("max_post_age_relaxed_days", 21)
-        if relaxed
-        else criteria.get("max_post_age_days", 14)
-    )
+    max_post_age_days = criteria.get("max_post_age_days", 9)
     if not is_within_max_age(job.posted_date, max_post_age_days):
         if job.posted_date:
             return -999, [f"posted over {max_post_age_days} days ago"]
-        if not relaxed:
-            return -999, ["post date unknown"]
-        score -= 2
-        reasons.append("post date unknown")
+        return -999, ["post date unknown"]
 
     if salary is not None:
         if salary >= criteria.get("min_salary", 28000):
@@ -119,31 +110,16 @@ def score_job(job: Job, config: Dict, *, relaxed: bool = False) -> Tuple[int, Li
 
 
 def rank_jobs(jobs: List[Job], config: Dict, limit: int = 10) -> List[Tuple[Job, int, List[str]]]:
-    def collect(relaxed: bool) -> List[Tuple[Job, int, List[str]]]:
-        ranked: List[Tuple[Job, int, List[str]]] = []
-        seen = set()
-        for job in jobs:
-            key = job.key()
-            if key in seen:
-                continue
-            seen.add(key)
-            score, reasons = score_job(job, config, relaxed=relaxed)
-            if score >= 0:
-                ranked.append((job, score, reasons))
-        ranked.sort(key=lambda row: row[1], reverse=True)
-        return ranked
+    ranked: List[Tuple[Job, int, List[str]]] = []
+    seen = set()
+    for job in jobs:
+        key = job.key()
+        if key in seen:
+            continue
+        seen.add(key)
+        score, reasons = score_job(job, config)
+        if score >= 0:
+            ranked.append((job, score, reasons))
 
-    strict = collect(relaxed=False)
-    if len(strict) >= limit:
-        return strict[:limit]
-
-    seen_keys = {job.key() for job, _, _ in strict}
-    relaxed = collect(relaxed=True)
-    merged = list(strict)
-    for row in relaxed:
-        if row[0].key() not in seen_keys:
-            merged.append(row)
-            seen_keys.add(row[0].key())
-        if len(merged) >= limit:
-            break
-    return merged[:limit]
+    ranked.sort(key=lambda row: row[1], reverse=True)
+    return ranked[:limit]

@@ -22,11 +22,11 @@ def build_message(
     now = format_now_hkt()
     count = len(ranked)
     if count >= 10:
-        list_heading = "<b>Top 10 建議申請（14 日內 post）：</b>"
+        list_heading = "<b>Top 10 建議申請（9 日內 post）：</b>"
     elif count == 0:
         list_heading = "<b>今日暫無符合條件嘅職位</b>"
     else:
-        list_heading = f"<b>Top {count} 建議申請（14 日內 post，符合條件嘅工暫時得 {count} 個）：</b>"
+        list_heading = f"<b>Top {count} 建議申請（9 日內 post，符合條件嘅工暫時得 {count} 個）：</b>"
 
     lines = [
         f"🕗 <b>{html.escape(slot_label)} HR 搵工提醒</b>",
