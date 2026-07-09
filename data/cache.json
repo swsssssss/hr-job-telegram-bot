@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-07-09T03:22:55.331833",
-  "slot": "morning",
+  "updated_at": "2026-07-07T11:49:30.672344",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer",
+      "company": "Ark Group International",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/92718457",
+      "posted_date": "2026-06-28",
+      "score": 28,
+      "reasons": [
+        "preferred company",
+        "Posted 9 days ago (2026-06-28)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "HR Senior Officer / Officer",
       "company": "Tai Hing",
       "location": "Quarry Bay",
@@ -12,11 +25,11 @@
       "score": 26,
       "reasons": [
         "preferred location",
-        "Posted 10 days ago (2026-06-29)"
+        "Posted 8 days ago (2026-06-29)"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Senior HR & Administrative Officer   高級人事及行政主任",
       "company": "InspiringHK Sports Foundation Limited",
       "location": "Quarry Bay",
@@ -25,7 +38,31 @@
       "score": 13,
       "reasons": [
         "preferred location",
-        "Posted 10 days ago (2026-06-29)"
+        "Posted 8 days ago (2026-06-29)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior Human Resources Officer",
+      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
+      "location": "Wong Chuk Hang",
+      "url": "https://jobs.ctgoodjobs.hk/job/10173386/senior-human-resources-officer",
+      "posted_date": "2026-07-02",
+      "score": 0,
+      "reasons": [
+        "Posted 5 days ago (2026-07-02)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Human Resources Officer",
+      "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
+      "location": "Wong Chuk Hang",
+      "url": "https://jobs.ctgoodjobs.hk/job/10173324/human-resources-officer",
+      "posted_date": "2026-07-02",
+      "score": 0,
+      "reasons": [
+        "Posted 5 days ago (2026-07-02)"
       ]
     }
   ]

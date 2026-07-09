@@ -61,6 +61,43 @@ def fetch_ctgoodjobs(url: str) -> List[Job]:
     return jobs
 
 
+def fetch_jobsdb_search(keyword: str = "hr officer") -> List[Job]:
+    """Parse JobsDB search results page for job links."""
+    slug = keyword.strip().lower().replace(" ", "-")
+    url = f"https://hk.jobsdb.com/{slug}-jobs"
+    response = requests.get(
+        url,
+        headers={"User-Agent": USER_AGENT, "Accept-Language": "zh-HK,en;q=0.9"},
+        timeout=TIMEOUT,
+    )
+    if response.status_code >= 400:
+        return []
+
+    html = response.text
+    patterns = [
+        re.compile(r"https://hk\.jobsdb\.com/job/(\d+)"),
+        re.compile(r'"jobId"\s*:\s*"(\d+)"'),
+    ]
+    jobs: List[Job] = []
+    seen = set()
+    for pattern in patterns:
+        for match in pattern.finditer(html):
+            job_id = match.group(1)
+            if job_id in seen:
+                continue
+            seen.add(job_id)
+            jobs.append(
+                Job(
+                    title="",
+                    company="",
+                    location="",
+                    url=f"https://hk.jobsdb.com/job/{job_id}",
+                    source="JobsDB",
+                )
+            )
+    return jobs
+
+
 def load_seed_jobs(path: str) -> List[Job]:
     import json
 

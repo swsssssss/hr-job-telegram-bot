@@ -18,7 +18,7 @@ sys.path.insert(0, str(ROOT))
 
 from src.applied_jobs import filter_unapplied, list_applied_entries  # noqa: E402
 from src.enrich_jobs import enrich_jobs  # noqa: E402
-from src.fetch_jobs import fetch_ctgoodjobs, load_seed_jobs  # noqa: E402
+from src.fetch_jobs import fetch_ctgoodjobs, fetch_jobsdb_search, load_seed_jobs  # noqa: E402
 from src.filter_jobs import rank_jobs  # noqa: E402
 from src.telegram_commands import process_telegram_commands  # noqa: E402
 from src.send_guard import already_sent_today, mark_sent_today  # noqa: E402
@@ -47,6 +47,12 @@ def collect_jobs(config: dict) -> list:
         jobs.extend(live)
     except Exception as exc:
         print(f"[warn] CTgoodjobs fetch failed: {exc}", file=sys.stderr)
+    try:
+        jobsdb = fetch_jobsdb_search("hr officer")
+        jobs.extend(jobsdb)
+        print(f"[info] JobsDB search returned {len(jobsdb)} jobs.", file=sys.stderr)
+    except Exception as exc:
+        print(f"[warn] JobsDB fetch failed: {exc}", file=sys.stderr)
     return enrich_jobs(jobs, ROOT)
 
 

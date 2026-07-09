@@ -1,6 +1,7 @@
 # Job search criteria for Aimee
 criteria:
-  max_post_age_days: 10
+  max_post_age_days: 14
+  max_post_age_relaxed_days: 21
   min_salary: 28000
   assistant_min_salary: 30000
   exclude_companies:
