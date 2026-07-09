@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T16:03:48.562568",
-  "slot": "evening",
+  "updated_at": "2026-07-09T03:22:55.331833",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -26,18 +26,6 @@
       "reasons": [
         "preferred location",
         "Posted 10 days ago (2026-06-29)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Human Resources Officer",
-      "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10173324/human-resources-officer",
-      "posted_date": "2026-07-02",
-      "score": 0,
-      "reasons": [
-        "Posted 7 days ago (2026-07-02)"
       ]
     }
   ]
