@@ -9,7 +9,7 @@ import yaml
 
 from src.applied_jobs import filter_unapplied
 from src.enrich_jobs import enrich_jobs
-from src.fetch_jobs import fetch_ctgoodjobs, load_seed_jobs
+from src.fetch_jobs import fetch_ctgoodjobs, fetch_jobsdb_search, load_seed_jobs
 from src.filter_jobs import rank_jobs
 from src.telegram_notify import build_applied_message, build_message
 
@@ -24,6 +24,10 @@ def collect_jobs(config: dict, root: Path) -> list:
     try:
         live = fetch_ctgoodjobs(config["sources"]["ctgoodjobs_url"])
         jobs.extend(live)
+    except Exception:
+        pass
+    try:
+        jobs.extend(fetch_jobsdb_search("hr officer"))
     except Exception:
         pass
     return enrich_jobs(jobs, root)

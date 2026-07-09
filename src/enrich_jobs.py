@@ -15,7 +15,7 @@ import requests
 from src.date_utils import parse_posted_date
 from src.fetch_jobs import Job, TIMEOUT, USER_AGENT
 
-CACHE_TTL = timedelta(hours=12)
+CACHE_TTL = timedelta(hours=4)
 JOBPOSTING_RE = re.compile(r'<script type="application/ld\+json">(.*?)</script>', re.S)
 DATE_RE = re.compile(r'"datePosted"\s*:\s*"([^"]+)"')
 TITLE_RE = re.compile(r'"title"\s*:\s*"([^"]+)"')
@@ -115,10 +115,10 @@ def _parse_jobposting(html: str) -> dict:
 
 def fetch_job_details_from_url(url: str) -> dict:
     host = urlparse(url).netloc.lower()
-    if "jobsdb.com" in host:
-        return {}
-
-    if not any(domain in host for domain in ("ctgoodjobs.hk", "recruit.com.hk")):
+    if not any(
+        domain in host
+        for domain in ("ctgoodjobs.hk", "recruit.com.hk", "jobsdb.com")
+    ):
         return {}
 
     response = requests.get(
@@ -138,9 +138,10 @@ def _looks_mojibake(text: str) -> bool:
 
 def _needs_detail_fetch(job: Job) -> bool:
     host = urlparse(job.url).netloc.lower()
-    if "jobsdb.com" in host:
-        return False
-    if not any(domain in host for domain in ("ctgoodjobs.hk", "recruit.com.hk")):
+    if not any(
+        domain in host
+        for domain in ("ctgoodjobs.hk", "recruit.com.hk", "jobsdb.com")
+    ):
         return False
     if job.company in ("", "(see listing)"):
         return True
