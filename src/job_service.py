@@ -33,7 +33,7 @@ def collect_jobs(config: dict, root: Path) -> list:
     return enrich_jobs(jobs, root)
 
 
-def build_ranked_jobs(root: Path, limit: int = 10) -> list:
+def build_ranked_jobs(root: Path, limit: int | None = None) -> list:
     config = load_config(root)
     jobs = collect_jobs(config, root)
     jobs = filter_unapplied(jobs, root)
@@ -67,7 +67,7 @@ def save_cache(root: Path, ranked, slot: str = "manual") -> None:
 
 
 def build_job_list_message(root: Path, slot_label: str = "即時") -> str:
-    ranked = build_ranked_jobs(root, limit=10)
+    ranked = build_ranked_jobs(root)
     save_cache(root, ranked, slot="manual")
     return build_message(ranked, slot_label)
 

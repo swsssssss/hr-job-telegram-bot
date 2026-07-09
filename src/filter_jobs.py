@@ -44,7 +44,7 @@ def _is_assistant_hr_role(title: str) -> bool:
     return bool(re.search(r"\bassistant\b", lowered) and ("hr" in lowered or "human resources" in lowered))
 
 
-def score_job(job: Job, config: Dict, *, relaxed: bool = False) -> Tuple[int, List[str]]:
+def score_job(job: Job, config: Dict) -> Tuple[int, List[str]]:
     criteria = config["criteria"]
     reasons: List[str] = []
     score = job.score_boost
@@ -72,8 +72,8 @@ def score_job(job: Job, config: Dict, *, relaxed: bool = False) -> Tuple[int, Li
     salary = _extract_salary(blob)
     if _is_assistant_hr_role(title):
         assistant_min = criteria.get("assistant_min_salary", 30000)
-        if salary is None or salary < assistant_min:
-            return -999, [f"assistant role needs ${assistant_min:,}+ salary"]
+        if salary is None or salary <= assistant_min:
+            return -999, [f"assistant role needs >${assistant_min:,} salary"]
 
     max_post_age_days = criteria.get("max_post_age_days", 9)
     if not is_within_max_age(job.posted_date, max_post_age_days):
@@ -109,7 +109,13 @@ def score_job(job: Job, config: Dict, *, relaxed: bool = False) -> Tuple[int, Li
     return score, reasons
 
 
-def rank_jobs(jobs: List[Job], config: Dict, limit: int = 10) -> List[Tuple[Job, int, List[str]]]:
+def rank_jobs(
+    jobs: List[Job],
+    config: Dict,
+    limit: int | None = None,
+) -> List[Tuple[Job, int, List[str]]]:
+    if limit is None:
+        limit = int(config.get("criteria", {}).get("list_limit", 0))
     ranked: List[Tuple[Job, int, List[str]]] = []
     seen = set()
     for job in jobs:
@@ -122,4 +128,6 @@ def rank_jobs(jobs: List[Job], config: Dict, limit: int = 10) -> List[Tuple[Job,
             ranked.append((job, score, reasons))
 
     ranked.sort(key=lambda row: row[1], reverse=True)
-    return ranked[:limit]
+    if limit > 0:
+        return ranked[:limit]
+    return ranked

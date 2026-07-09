@@ -2,33 +2,14 @@ name: HR Job Reminders
 
 on:
   schedule:
-    # 08:00 HKT (00:00 UTC) + backups every 30 min until 11:30 HKT
-    - cron: "0 0 * * *"
-    - cron: "30 0 * * *"
-    - cron: "0 1 * * *"
-    - cron: "30 1 * * *"
-    - cron: "0 2 * * *"
-    - cron: "30 2 * * *"
-    - cron: "0 3 * * *"
-    - cron: "30 3 * * *"
-    # 20:00 HKT (12:00 UTC) + backups every 30 min until 23:30 HKT
-    - cron: "0 12 * * *"
-    - cron: "30 12 * * *"
-    - cron: "0 13 * * *"
-    - cron: "30 13 * * *"
-    - cron: "0 14 * * *"
-    - cron: "30 14 * * *"
-    - cron: "0 15 * * *"
-    - cron: "30 15 * * *"
-    # 20:05 HKT (12:05 UTC) + backups
-    - cron: "5 12 * * *"
-    - cron: "35 12 * * *"
-    - cron: "5 13 * * *"
-    - cron: "35 13 * * *"
-    - cron: "5 14 * * *"
-    - cron: "35 14 * * *"
-    - cron: "5 15 * * *"
-    - cron: "35 15 * * *"
+    # 08:00 HKT window (00:00–00:55 UTC) — every 5 min, schedule_guard sends once ~08:00
+    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 0 * * *"
+    # 20:00 HKT window (12:00–12:55 UTC)
+    - cron: "0,5,10,15,20,25,30,35,40,45,50,55 12 * * *"
+  repository_dispatch:
+    types:
+      - morning_reminder
+      - evening_reminder
   workflow_dispatch:
     inputs:
       slot:
@@ -39,9 +20,8 @@ on:
         options:
           - morning
           - evening
-          - applied_summary
       force:
-        description: Send even if already sent today
+        description: Send even if already sent today or outside HKT window
         required: false
         default: "false"
         type: choice
@@ -66,12 +46,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Resolve slot
+      - name: Resolve slot and flags
         id: slot
         run: |
-          SLOT=$(python scripts/resolve_slot.py "${{ github.event.schedule }}" "${{ github.event.inputs.slot || 'morning' }}")
+          FORCE=""
+          if [[ "${{ github.event_name }}" == "repository_dispatch" ]]; then
+            case "${{ github.event.action }}" in
+              morning_reminder) SLOT="morning"; FORCE="--force" ;;
+              evening_reminder) SLOT="evening"; FORCE="--force" ;;
+              *) SLOT="morning" ;;
+            esac
+          else
+            SLOT=$(python scripts/resolve_slot.py "${{ github.event.schedule }}" "${{ github.event.inputs.slot || 'morning' }}")
+            if [[ "${{ github.event.inputs.force }}" == "true" ]]; then
+              FORCE="--force"
+            fi
+          fi
           echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
-          echo "Resolved slot: $SLOT (cron: ${{ github.event.schedule }})"
+          echo "force=$FORCE" >> "$GITHUB_OUTPUT"
+          echo "Resolved slot=$SLOT force=$FORCE"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -84,12 +77,7 @@ jobs:
           } > .env
 
       - name: Send reminder
-        run: |
-          FORCE_FLAG=""
-          if [[ "${{ github.event.inputs.force }}" == "true" ]]; then
-            FORCE_FLAG="--force"
-          fi
-          python src/main.py --slot "${{ steps.slot.outputs.slot }}" $FORCE_FLAG
+        run: python src/main.py --slot "${{ steps.slot.outputs.slot }}" ${{ steps.slot.outputs.force }}
 
       - name: Commit bot data
         run: bash scripts/commit_bot_data.sh "Update bot data after ${{ steps.slot.outputs.slot }} reminder [skip ci]"
