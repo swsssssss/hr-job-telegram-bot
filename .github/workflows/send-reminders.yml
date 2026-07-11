@@ -53,8 +53,8 @@ jobs:
           FORCE=""
           if [[ "${{ github.event_name }}" == "repository_dispatch" ]]; then
             case "${{ github.event.action }}" in
-              morning_reminder) SLOT="morning"; FORCE="--force" ;;
-              evening_reminder) SLOT="evening"; FORCE="--force" ;;
+              morning_reminder) SLOT="morning" ;;
+              evening_reminder) SLOT="evening" ;;
               *) SLOT="morning" ;;
             esac
           else
