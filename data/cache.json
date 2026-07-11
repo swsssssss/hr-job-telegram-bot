@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T08:21:29.867889",
-  "slot": "morning",
+  "updated_at": "2026-07-11T08:27:17.883589",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -32,10 +32,10 @@
       "company": "CITIC CLSA",
       "location": "Hong Kong",
       "url": "https://jobs.ctgoodjobs.hk/job/10175117/hr-officer-human-resources",
-      "posted_date": "2026-07-06",
+      "posted_date": "2026-07-05",
       "score": 0,
       "reasons": [
-        "Posted 5 days ago (2026-07-06)"
+        "Posted 6 days ago (2026-07-05)"
       ]
     }
   ]
