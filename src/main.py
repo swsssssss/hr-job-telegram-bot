@@ -21,7 +21,6 @@ from src.enrich_jobs import enrich_jobs  # noqa: E402
 from src.fetch_jobs import fetch_ctgoodjobs, fetch_jobsdb_search, load_seed_jobs  # noqa: E402
 from src.filter_jobs import rank_jobs  # noqa: E402
 from src.telegram_commands import process_telegram_commands  # noqa: E402
-from src.schedule_guard import should_send_slot  # noqa: E402
 from src.send_guard import already_sent_today, mark_sent_today  # noqa: E402
 from src.telegram_notify import (  # noqa: E402
     build_applied_message,
@@ -116,14 +115,6 @@ def main() -> int:
         help="Send even if this slot was already sent today",
     )
     args = parser.parse_args()
-
-    if not args.dry_run and not args.force and not should_send_slot(args.slot, force=args.force):
-        print(
-            f"Outside Hong Kong send window for {args.slot} "
-            f"({SLOT_LABELS[args.slot]}). Skipping.",
-            file=sys.stderr,
-        )
-        return 0
 
     if not args.dry_run and not args.force and already_sent_today(ROOT, args.slot):
         print(f"Already sent {args.slot} today ({SLOT_LABELS[args.slot]}), skipping.")
