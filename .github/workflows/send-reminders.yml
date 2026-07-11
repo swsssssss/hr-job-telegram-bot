@@ -2,7 +2,8 @@ name: HR Job Reminders
 
 on:
   schedule:
-    # 08:00 HKT window (00:00–00:55 UTC) — every 5 min, schedule_guard sends once ~08:00
+    # 08:00 HKT (00:xx UTC) and 20:00 HKT (12:xx UTC). GitHub may run late;
+    # already_sent_today ensures one morning + one evening send per day.
     - cron: "0,5,10,15,20,25,30,35,40,45,50,55 0 * * *"
     # 20:00 HKT window (12:00–12:55 UTC)
     - cron: "0,5,10,15,20,25,30,35,40,45,50,55 12 * * *"
