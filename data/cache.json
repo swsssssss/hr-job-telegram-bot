@@ -1,21 +1,9 @@
 {
-  "updated_at": "2026-07-12T00:02:56.610904",
-  "slot": "morning",
+  "updated_at": "2026-07-12T12:01:29.421679",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior Human Resources Officer",
-      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10182571/senior-human-resources-officer",
-      "posted_date": "2026-07-10",
-      "score": 0,
-      "reasons": [
-        "Posted 2 days ago (2026-07-10)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Human Resources Officer",
       "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
       "location": "Wong Chuk Hang",
@@ -24,6 +12,18 @@
       "score": 0,
       "reasons": [
         "Posted 3 days ago (2026-07-09)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior Human Resources Officer",
+      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
+      "location": "Wong Chuk Hang",
+      "url": "https://jobs.ctgoodjobs.hk/job/10182571/senior-human-resources-officer",
+      "posted_date": "2026-07-10",
+      "score": 0,
+      "reasons": [
+        "Posted 2 days ago (2026-07-10)"
       ]
     },
     {
@@ -44,10 +44,10 @@
       "company": "J4G HR Limited",
       "location": "Hong Kong",
       "url": "https://jobs.ctgoodjobs.hk/job/10176014/hr-admin-officer-japanese-mnc-stable-5-day",
-      "posted_date": "2026-07-07",
+      "posted_date": "2026-07-06",
       "score": 0,
       "reasons": [
-        "Posted 5 days ago (2026-07-07)"
+        "Posted 6 days ago (2026-07-06)"
       ]
     }
   ]
