@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T00:01:25.481306",
-  "slot": "morning",
+  "updated_at": "2026-07-13T12:01:29.793136",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior Human Resources Officer",
-      "company": "Harriman Property Management Limited 夏利文物業管理有限公司",
+      "title": "Human Resources Officer",
+      "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
       "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10182571/senior-human-resources-officer",
+      "url": "https://jobs.ctgoodjobs.hk/job/10182464/human-resources-officer",
       "posted_date": "2026-07-09",
       "score": 0,
       "reasons": [
@@ -16,30 +16,18 @@
     },
     {
       "rank": 2,
-      "title": "Human Resources Officer",
-      "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10182464/human-resources-officer",
-      "posted_date": "2026-07-10",
-      "score": 0,
-      "reasons": [
-        "Posted 3 days ago (2026-07-10)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HR Officer/ Sr. HR Officer",
       "company": "P & A Consultant Limited",
       "location": "Wong Chuk Hang",
       "url": "https://jobs.ctgoodjobs.hk/job/10173933/hr-officer-sr-hr-officer",
-      "posted_date": "2026-07-05",
+      "posted_date": "2026-07-06",
       "score": 0,
       "reasons": [
-        "Posted 8 days ago (2026-07-05)"
+        "Posted 7 days ago (2026-07-06)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "HR & Admin Officer (Japanese MNC / Stable / 5-day)",
       "company": "J4G HR Limited",
       "location": "Hong Kong",
