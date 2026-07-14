@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-07-13T12:01:29.793136",
-  "slot": "evening",
+  "updated_at": "2026-07-14T00:01:34.515795",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
+      "title": "APAC HR Officer",
+      "company": "Donnelley Financial Solutions Hong Kong Limited",
+      "location": "Central and Western District",
+      "url": "https://jobs.ctgoodjobs.hk/job/10180499/apac-hr-officer",
+      "posted_date": "2026-07-10",
+      "score": 10,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-07-10)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Human Resources Officer",
       "company": "Wheelock Properties (Hong Kong) Limited   會德豐地產 (香港) 有限公司",
       "location": "Wong Chuk Hang",
@@ -11,19 +24,7 @@
       "posted_date": "2026-07-09",
       "score": 0,
       "reasons": [
-        "Posted 4 days ago (2026-07-09)"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "HR Officer/ Sr. HR Officer",
-      "company": "P & A Consultant Limited",
-      "location": "Wong Chuk Hang",
-      "url": "https://jobs.ctgoodjobs.hk/job/10173933/hr-officer-sr-hr-officer",
-      "posted_date": "2026-07-06",
-      "score": 0,
-      "reasons": [
-        "Posted 7 days ago (2026-07-06)"
+        "Posted 5 days ago (2026-07-09)"
       ]
     },
     {
@@ -32,10 +33,22 @@
       "company": "J4G HR Limited",
       "location": "Hong Kong",
       "url": "https://jobs.ctgoodjobs.hk/job/10176014/hr-admin-officer-japanese-mnc-stable-5-day",
-      "posted_date": "2026-07-07",
+      "posted_date": "2026-07-06",
       "score": 0,
       "reasons": [
-        "Posted 6 days ago (2026-07-07)"
+        "Posted 8 days ago (2026-07-06)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "人力資源主任 (HR Officer)",
+      "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
+      "location": "Hong Kong",
+      "url": "https://jobs.ctgoodjobs.hk/job/10180523/%e4%ba%ba%e5%8a%9b%e8%b3%87%e6%ba%90%e4%b8%bb%e4%bb%bb-hr-officer",
+      "posted_date": "2026-07-10",
+      "score": 0,
+      "reasons": [
+        "Posted 4 days ago (2026-07-10)"
       ]
     }
   ]
