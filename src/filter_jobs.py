@@ -109,6 +109,15 @@ def score_job(job: Job, config: Dict) -> Tuple[int, List[str]]:
     return score, reasons
 
 
+def _fingerprint(job: Job) -> str:
+    title = re.sub(r"\s+", " ", (job.title or "").lower()).strip()
+    company = re.sub(r"\s+", " ", (job.company or "").lower()).strip()
+    for token in ("limited", "ltd", "company", "co.", "group", "international"):
+        company = company.replace(token, " ")
+    company = re.sub(r"\s+", " ", company).strip()
+    return f"{company}|{title}"
+
+
 def rank_jobs(
     jobs: List[Job],
     config: Dict,
@@ -117,17 +126,28 @@ def rank_jobs(
     if limit is None:
         limit = int(config.get("criteria", {}).get("list_limit", 0))
     ranked: List[Tuple[Job, int, List[str]]] = []
-    seen = set()
+    seen_urls = set()
     for job in jobs:
         key = job.key()
-        if key in seen:
+        if key in seen_urls:
             continue
-        seen.add(key)
+        seen_urls.add(key)
         score, reasons = score_job(job, config)
         if score >= 0:
             ranked.append((job, score, reasons))
 
     ranked.sort(key=lambda row: row[1], reverse=True)
+
+    # Prefer one listing per company+title across JobsDB/LinkedIn duplicates.
+    deduped: List[Tuple[Job, int, List[str]]] = []
+    seen_fingerprints = set()
+    for row in ranked:
+        fingerprint = _fingerprint(row[0])
+        if fingerprint in seen_fingerprints:
+            continue
+        seen_fingerprints.add(fingerprint)
+        deduped.append(row)
+
     if limit > 0:
-        return ranked[:limit]
-    return ranked
+        return deduped[:limit]
+    return deduped

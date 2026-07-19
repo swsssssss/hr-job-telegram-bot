@@ -18,7 +18,12 @@ sys.path.insert(0, str(ROOT))
 
 from src.applied_jobs import filter_unapplied, list_applied_entries  # noqa: E402
 from src.enrich_jobs import enrich_jobs  # noqa: E402
-from src.fetch_jobs import fetch_ctgoodjobs, fetch_jobsdb_search, load_seed_jobs  # noqa: E402
+from src.fetch_jobs import (  # noqa: E402
+    fetch_ctgoodjobs,
+    fetch_jobsdb_search,
+    fetch_linkedin_search,
+    load_seed_jobs,
+)
 from src.filter_jobs import rank_jobs  # noqa: E402
 from src.telegram_commands import process_telegram_commands  # noqa: E402
 from src.send_guard import already_sent_today, mark_sent_today  # noqa: E402
@@ -42,17 +47,40 @@ def load_config() -> dict:
 
 def collect_jobs(config: dict) -> list:
     jobs = load_seed_jobs(str(ROOT / "jobs_seed.json"))
+    sources = config.get("sources") or {}
+
     try:
-        live = fetch_ctgoodjobs(config["sources"]["ctgoodjobs_url"])
+        live = fetch_ctgoodjobs(sources.get("ctgoodjobs_url", ""))
         jobs.extend(live)
+        print(f"[info] CTgoodjobs returned {len(live)} jobs.", file=sys.stderr)
     except Exception as exc:
         print(f"[warn] CTgoodjobs fetch failed: {exc}", file=sys.stderr)
-    try:
-        jobsdb = fetch_jobsdb_search("hr officer")
-        jobs.extend(jobsdb)
-        print(f"[info] JobsDB search returned {len(jobsdb)} jobs.", file=sys.stderr)
-    except Exception as exc:
-        print(f"[warn] JobsDB fetch failed: {exc}", file=sys.stderr)
+
+    keywords = sources.get("jobsdb_keywords") or ["hr officer", "human resources officer"]
+    for keyword in keywords:
+        try:
+            jobsdb = fetch_jobsdb_search(keyword)
+            jobs.extend(jobsdb)
+            print(
+                f"[info] JobsDB search ({keyword!r}) returned {len(jobsdb)} jobs.",
+                file=sys.stderr,
+            )
+        except Exception as exc:
+            print(f"[warn] JobsDB fetch failed ({keyword!r}): {exc}", file=sys.stderr)
+
+    if sources.get("linkedin_enabled", True):
+        try:
+            linkedin = fetch_linkedin_search(
+                keywords=sources.get(
+                    "linkedin_keywords",
+                    '"HR Officer" OR "Human Resources Officer" OR "Senior HR Officer"',
+                )
+            )
+            jobs.extend(linkedin)
+            print(f"[info] LinkedIn returned {len(linkedin)} jobs.", file=sys.stderr)
+        except Exception as exc:
+            print(f"[warn] LinkedIn fetch failed: {exc}", file=sys.stderr)
+
     return enrich_jobs(jobs, ROOT)
 
 
