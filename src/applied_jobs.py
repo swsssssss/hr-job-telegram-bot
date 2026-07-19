@@ -18,12 +18,15 @@ def _applied_path(root: Path) -> Path:
 
 def job_key(url: str) -> str:
     normalized = url.rstrip("/").lower()
-    match = re.search(r"/job/(\d+)", normalized)
-    if match:
-        return f"jobsdb:{match.group(1)}"
     match = re.search(r"ctgoodjobs\.hk/job/(\d+)", normalized)
     if match:
         return f"ctgoodjobs:{match.group(1)}"
+    match = re.search(r"jobsdb\.com/job/(\d+)", normalized)
+    if match:
+        return f"jobsdb:{match.group(1)}"
+    match = re.search(r"linkedin\.com/jobs/view/(?:[^/?#]*-)?(\d+)", normalized)
+    if match:
+        return f"linkedin:{match.group(1)}"
     match = re.search(r"recruit\.com\.hk/job-detail/[^/]+/([^/?#]+)", normalized)
     if match:
         return f"recruit:{match.group(1).lower()}"

@@ -128,6 +128,8 @@ def fetch_job_details_from_url(url: str) -> dict:
     )
     if response.status_code >= 400:
         return {}
+    if "Just a moment" in response.text or "Human Verification" in response.text:
+        return {}
 
     return _parse_jobposting(response.text)
 
@@ -136,12 +138,28 @@ def _looks_mojibake(text: str) -> bool:
     return any(fragment in text for fragment in ("Ã", "é«", "å", "äº", "ç´"))
 
 
+def _has_core_metadata(job: Job) -> bool:
+    has_company = job.company not in ("", "(see listing)")
+    has_title = bool(job.title.strip()) and not _looks_mojibake(job.title)
+    has_date = bool(job.posted_date)
+    return has_company and has_title and has_date
+
+
 def _needs_detail_fetch(job: Job) -> bool:
+    """Only scrape detail pages when search metadata is incomplete.
+
+    JobsDB/CTgoodjobs HTML detail pages are often bot-blocked; JobsDB JSON
+    search already provides title/company/location/date, so skip those.
+    """
     host = urlparse(job.url).netloc.lower()
+    if "linkedin.com" in host:
+        return False
     if not any(
         domain in host
         for domain in ("ctgoodjobs.hk", "recruit.com.hk", "jobsdb.com")
     ):
+        return False
+    if _has_core_metadata(job):
         return False
     if job.company in ("", "(see listing)"):
         return True
@@ -211,4 +229,6 @@ def normalize_source(url: str, fallback: str = "") -> str:
         return "CTgoodjobs"
     if "recruit.com.hk" in host:
         return "Recruit.com.hk"
+    if "linkedin.com" in host:
+        return "LinkedIn"
     return fallback or "Unknown"

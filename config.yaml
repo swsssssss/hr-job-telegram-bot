@@ -77,3 +77,9 @@ criteria:
 
 sources:
   ctgoodjobs_url: https://jobs.ctgoodjobs.hk/jobs/hr-officer-jobs-in-human-resources
+  jobsdb_keywords:
+    - hr officer
+    - human resources officer
+    - senior hr officer
+  linkedin_enabled: true
+  linkedin_keywords: '"HR Officer" OR "Human Resources Officer" OR "Senior HR Officer"'

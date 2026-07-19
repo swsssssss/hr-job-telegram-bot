@@ -1,5 +1,415 @@
 {
-  "updated_at": "2026-07-19T12:00:35.037482",
-  "slot": "evening",
-  "jobs": []
+  "updated_at": "2026-07-19T12:38:49.680359",
+  "slot": "morning",
+  "jobs": [
+    {
+      "rank": 1,
+      "title": "HR Officer",
+      "company": "Roctec Technology Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93385574",
+      "posted_date": "2026-07-17",
+      "score": 18,
+      "reasons": [
+        "preferred location",
+        "preferred company",
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior HR Officer",
+      "company": "VCC Land Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/89023048",
+      "posted_date": "2026-07-14",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-14)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Senior HR Officer",
+      "company": "IT Channel (Asia) Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93258720",
+      "posted_date": "2026-07-10",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-07-10)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior HR Officer (Apac coverage)",
+      "company": "ESW HOLDINGS PTE. LTD.",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93040526",
+      "posted_date": "2026-07-14",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-14)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Senior Officer, Human Resources",
+      "company": "China Everbright Bank Company Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93369930",
+      "posted_date": "2026-07-16",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Human Resources Officer",
+      "company": "Excel Technology International (Hong Kong) Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93359358",
+      "posted_date": "2026-07-16",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "People & Culture Officer – Payroll & HR Operations",
+      "company": "Swire Hotels",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93399505",
+      "posted_date": "2026-07-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Officer/Senior Officer- Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93299718",
+      "posted_date": "2026-07-14",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-14)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Human Resources & Admin Officer",
+      "company": "Timeline Technology Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93262323",
+      "posted_date": "2026-07-15",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-07-15)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer (Contract) (Ref: HR/261226)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93307798",
+      "posted_date": "2026-07-14",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-14)"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Part-time/ Full time HR and Administrative officer ( AIA)",
+      "company": "Mvp Professional Financial Consultancy Company",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93399284",
+      "posted_date": "2026-07-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Senior Human Resources Officer / Human Resources Officer (Talent Acquisition)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93286735",
+      "posted_date": "2026-07-13",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-07-13)"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "HR & Admin Officer",
+      "company": "Grosswell Ltd",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93398796",
+      "posted_date": "2026-07-17",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Human Resources Officer",
+      "company": "Hospital Authority - Kowloon Central Cluster",
+      "location": "Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93368164",
+      "posted_date": "2026-07-16",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "HR & Admin Officer",
+      "company": "Metro Broadcast Corporation Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93346676",
+      "posted_date": "2026-07-15",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-07-15)"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Human Resources Officer",
+      "company": "Master Communications Limited",
+      "location": "Kwai Fong, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93329463",
+      "posted_date": "2026-07-15",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-07-15)"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Human Resources Officer",
+      "company": "FSE Engineering Group Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93177480",
+      "posted_date": "2026-07-17",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Human Resources Officer",
+      "company": "Shun Hing Systems Integration Company Limited",
+      "location": "Kwai Fong, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93280342",
+      "posted_date": "2026-07-13",
+      "score": 2,
+      "reasons": [
+        "Posted 6 days ago (2026-07-13)"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Human Resources Officer (Central HR Office)",
+      "company": "The Wharf Group",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93411337",
+      "posted_date": "2026-07-19",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-07-19)"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "HR Officer",
+      "company": "Headstart Group Limited",
+      "location": "Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93382854",
+      "posted_date": "2026-07-17",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Human Resources Officer / Generalist",
+      "company": "TTI Hong Kong Limited",
+      "location": "Kwun Tong, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93280546",
+      "posted_date": "2026-07-13",
+      "score": 2,
+      "reasons": [
+        "Posted 6 days ago (2026-07-13)"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Human Resources Officer (人力資源主任)",
+      "company": "Global TP Technology Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93304160",
+      "posted_date": "2026-07-14",
+      "score": 2,
+      "reasons": [
+        "Posted 5 days ago (2026-07-14)"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Senior Human Resources Officer - C&B",
+      "company": "CR Construction Company Limited",
+      "location": "Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93290099",
+      "posted_date": "2026-07-13",
+      "score": 2,
+      "reasons": [
+        "Posted 6 days ago (2026-07-13)"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Temporary Human Resources Officer (2 months' contract)",
+      "company": "Swire Resources Ltd",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93366390",
+      "posted_date": "2026-07-16",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "SENIOR HUMAN RESOURCES OFFICER",
+      "company": "Green Island Cement Company, Limited",
+      "location": "Tuen Mun District",
+      "url": "https://hk.jobsdb.com/job/93364583",
+      "posted_date": "2026-07-16",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 26,
+      "title": "Human Resources Officer (Employee Relations)",
+      "company": "S.F. Express (Hong Kong) Ltd",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93392617",
+      "posted_date": "2026-07-17",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 27,
+      "title": "Human Resources Officer (L&D)",
+      "company": "Guardforce Ltd",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93331141",
+      "posted_date": "2026-07-15",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-07-15)"
+      ]
+    },
+    {
+      "rank": 28,
+      "title": "Human Resources Senior Officer (HRIS)",
+      "company": "The Wharf Group",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93411330",
+      "posted_date": "2026-07-19",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-07-19)"
+      ]
+    },
+    {
+      "rank": 29,
+      "title": "Senior Human Resources Officer",
+      "company": "香港君悅酒店",
+      "location": "香港特別行政區",
+      "url": "https://hk.linkedin.com/jobs/view/senior-human-resources-officer-at-grand-hyatt-hong-kong-4441313642",
+      "posted_date": "2026-07-17",
+      "score": 0,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 30,
+      "title": "Senior Human Resources Officer",
+      "company": "Renaissance Hotels",
+      "location": "香港特別行政區 香港",
+      "url": "https://hk.linkedin.com/jobs/view/senior-human-resources-officer-at-renaissance-hotels-4439326448",
+      "posted_date": "2026-07-10",
+      "score": 0,
+      "reasons": [
+        "Posted 9 days ago (2026-07-10)"
+      ]
+    },
+    {
+      "rank": 31,
+      "title": "Senior Human Resources Officer 資深人力資源主任",
+      "company": "Renaissance Harbour View Hotel Hong Kong",
+      "location": "香港特別行政區",
+      "url": "https://hk.linkedin.com/jobs/view/senior-human-resources-officer-資深人力資源主任-at-renaissance-harbour-view-hotel-hong-kong-4441304989",
+      "posted_date": "2026-07-17",
+      "score": 0,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 32,
+      "title": "HR BP - HR Generalist - Senior Officer",
+      "company": "PwC China",
+      "location": "香港特別行政區 香港",
+      "url": "https://hk.linkedin.com/jobs/view/hr-bp-hr-generalist-senior-officer-at-pwc-china-4435423295",
+      "posted_date": "2026-07-17",
+      "score": 0,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    },
+    {
+      "rank": 33,
+      "title": "Senior Human Resources Officer - Talents Acquisition",
+      "company": "A BATHING APE®",
+      "location": "香港特別行政區 香港",
+      "url": "https://hk.linkedin.com/jobs/view/senior-human-resources-officer-talents-acquisition-at-a-bathing-ape®-4441143503",
+      "posted_date": "2026-07-17",
+      "score": 0,
+      "reasons": [
+        "Posted 2 days ago (2026-07-17)"
+      ]
+    }
+  ]
 }

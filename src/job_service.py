@@ -9,7 +9,12 @@ import yaml
 
 from src.applied_jobs import filter_unapplied
 from src.enrich_jobs import enrich_jobs
-from src.fetch_jobs import fetch_ctgoodjobs, fetch_jobsdb_search, load_seed_jobs
+from src.fetch_jobs import (
+    fetch_ctgoodjobs,
+    fetch_jobsdb_search,
+    fetch_linkedin_search,
+    load_seed_jobs,
+)
 from src.filter_jobs import rank_jobs
 from src.telegram_notify import build_applied_message, build_message
 
@@ -21,15 +26,34 @@ def load_config(root: Path) -> dict:
 
 def collect_jobs(config: dict, root: Path) -> list:
     jobs = load_seed_jobs(str(root / "jobs_seed.json"))
+    sources = config.get("sources") or {}
+
     try:
-        live = fetch_ctgoodjobs(config["sources"]["ctgoodjobs_url"])
+        live = fetch_ctgoodjobs(sources.get("ctgoodjobs_url", ""))
         jobs.extend(live)
     except Exception:
         pass
-    try:
-        jobs.extend(fetch_jobsdb_search("hr officer"))
-    except Exception:
-        pass
+
+    keywords = sources.get("jobsdb_keywords") or ["hr officer", "human resources officer"]
+    for keyword in keywords:
+        try:
+            jobs.extend(fetch_jobsdb_search(keyword))
+        except Exception:
+            pass
+
+    if sources.get("linkedin_enabled", True):
+        try:
+            jobs.extend(
+                fetch_linkedin_search(
+                    keywords=sources.get(
+                        "linkedin_keywords",
+                        '"HR Officer" OR "Human Resources Officer" OR "Senior HR Officer"',
+                    )
+                )
+            )
+        except Exception:
+            pass
+
     return enrich_jobs(jobs, root)
 
 
