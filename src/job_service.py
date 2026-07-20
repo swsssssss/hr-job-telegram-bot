@@ -16,7 +16,11 @@ from src.fetch_jobs import (
     load_seed_jobs,
 )
 from src.filter_jobs import rank_jobs
-from src.telegram_notify import build_applied_message, build_message
+from src.telegram_notify import (
+    build_applied_message,
+    build_message,
+    display_limit_from_config,
+)
 
 
 def load_config(root: Path) -> dict:
@@ -91,9 +95,11 @@ def save_cache(root: Path, ranked, slot: str = "manual") -> None:
 
 
 def build_job_list_message(root: Path, slot_label: str = "即時") -> str:
+    config = load_config(root)
     ranked = build_ranked_jobs(root)
-    save_cache(root, ranked, slot="manual")
-    return build_message(ranked, slot_label)
+    limit = display_limit_from_config(config)
+    save_cache(root, ranked[:limit], slot="manual")
+    return build_message(ranked, slot_label, display_limit=limit)
 
 
 def build_applied_list_message(root: Path) -> str:

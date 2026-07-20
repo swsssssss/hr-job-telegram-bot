@@ -2,6 +2,7 @@
 criteria:
   max_post_age_days: 9
   list_limit: 0
+  telegram_list_limit: 10
   min_salary: 28000
   assistant_min_salary: 30000
   exclude_companies:
