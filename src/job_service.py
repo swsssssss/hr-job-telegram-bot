@@ -41,7 +41,7 @@ def collect_jobs(config: dict, root: Path) -> list:
         except Exception:
             pass
 
-    if sources.get("linkedin_enabled", True):
+    if sources.get("linkedin_enabled", False):
         try:
             jobs.extend(
                 fetch_linkedin_search(

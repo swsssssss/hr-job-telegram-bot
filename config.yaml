@@ -81,5 +81,5 @@ sources:
     - hr officer
     - human resources officer
     - senior hr officer
-  linkedin_enabled: true
+  linkedin_enabled: false
   linkedin_keywords: '"HR Officer" OR "Human Resources Officer" OR "Senior HR Officer"'
