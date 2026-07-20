@@ -69,7 +69,7 @@ def collect_jobs(config: dict) -> list:
         except Exception as exc:
             print(f"[warn] JobsDB fetch failed ({keyword!r}): {exc}", file=sys.stderr)
 
-    if sources.get("linkedin_enabled", True):
+    if sources.get("linkedin_enabled", False):
         try:
             linkedin = fetch_linkedin_search(
                 keywords=sources.get(
@@ -81,6 +81,8 @@ def collect_jobs(config: dict) -> list:
             print(f"[info] LinkedIn returned {len(linkedin)} jobs.", file=sys.stderr)
         except Exception as exc:
             print(f"[warn] LinkedIn fetch failed: {exc}", file=sys.stderr)
+    else:
+        print("[info] LinkedIn source disabled.", file=sys.stderr)
 
     return enrich_jobs(jobs, ROOT)
 
