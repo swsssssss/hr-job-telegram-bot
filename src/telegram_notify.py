@@ -3,7 +3,8 @@
 from __future__ import annotations
 
 import html
-from typing import List, Tuple
+import re
+from typing import List, Optional, Tuple
 
 import requests
 
@@ -13,18 +14,54 @@ from src.fetch_jobs import Job
 
 TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 MAX_MESSAGE_LEN = 4000
+DEFAULT_DISPLAY_LIMIT = 10
+
+
+def _job_block(idx: int, job: Job, reasons: List[str]) -> List[str]:
+    title = html.escape(job.title)
+    company = html.escape(job.company)
+    location = html.escape(job.location or "—")
+    url = html.escape(job.url)
+    source = html.escape(normalize_source(job.url, job.source))
+    lines = [
+        f"<b>{idx}. {title}</b>",
+        f"📌 {source} | 🏢 {company} | 📍 {location}",
+    ]
+    if job.posted_date:
+        lines.append(f"🗓 {html.escape(format_posted_label(job.posted_date))}")
+    if job.note:
+        # Keep notes short so Top 10 stays within Telegram limits.
+        note = job.note.strip()
+        if len(note) > 140:
+            note = note[:137] + "..."
+        lines.append(f"💡 {html.escape(note)}")
+    if reasons:
+        display_reasons = [r for r in reasons if not r.startswith("Posted")]
+        if display_reasons:
+            lines.append(f"✅ {html.escape(', '.join(display_reasons[:2]))}")
+    lines.append(f'👉 <a href="{url}">Apply link</a>')
+    lines.append("")
+    return lines
 
 
 def build_message(
     ranked: List[Tuple[Job, int, List[str]]],
     slot_label: str,
+    display_limit: int = DEFAULT_DISPLAY_LIMIT,
 ) -> str:
     now = format_now_hkt()
-    count = len(ranked)
-    if count == 0:
+    total = len(ranked)
+    shown = ranked[: max(display_limit, 0)] if display_limit > 0 else ranked
+    shown_count = len(shown)
+
+    if total == 0:
         list_heading = "<b>今日暫無符合條件嘅職位</b>"
+    elif shown_count < total:
+        list_heading = (
+            f"<b>符合條件嘅職位（9 日內 post，共 {total} 個；顯示 Top {shown_count}）：</b>"
+        )
     else:
-        list_heading = f"<b>符合條件嘅職位（9 日內 post，共 {count} 個）：</b>"
+        list_heading = f"<b>符合條件嘅職位（9 日內 post，共 {total} 個）：</b>"
 
     if slot_label == "朝早":
         title_line = "🕗 <b>朝早 08:00 HR 搵工提醒</b>"
@@ -42,7 +79,7 @@ def build_message(
         "",
     ]
 
-    if not ranked:
+    if not shown:
         lines.extend(
             [
                 "今日未搵到新符合條件嘅工，",
@@ -51,24 +88,13 @@ def build_message(
             ]
         )
     else:
-        for idx, (job, _score, reasons) in enumerate(ranked, start=1):
-            title = html.escape(job.title)
-            company = html.escape(job.company)
-            location = html.escape(job.location or "—")
-            url = html.escape(job.url)
-            source = html.escape(normalize_source(job.url, job.source))
-            lines.append(f"<b>{idx}. {title}</b>")
-            lines.append(f"📌 {source} | 🏢 {company} | 📍 {location}")
-            if job.posted_date:
-                lines.append(f"🗓 {html.escape(format_posted_label(job.posted_date))}")
-            if job.note:
-                lines.append(f"💡 {html.escape(job.note)}")
-            if reasons:
-                # Skip duplicate posted-date reason; show other match reasons only
-                display_reasons = [r for r in reasons if not r.startswith("Posted")]
-                if display_reasons:
-                    lines.append(f"✅ {html.escape(', '.join(display_reasons[:2]))}")
-            lines.append(f'👉 <a href="{url}">Apply link</a>')
+        for idx, (job, _score, reasons) in enumerate(shown, start=1):
+            lines.extend(_job_block(idx, job, reasons))
+        if shown_count < total:
+            remaining = total - shown_count
+            lines.append(
+                f"➕ 其餘 {remaining} 個未顯示。回覆 <code>list</code> 可再睇最新清單。"
+            )
             lines.append("")
 
     lines.extend(
@@ -118,9 +144,49 @@ def build_applied_message(applied_entries: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def _close_open_html_tags(text: str) -> str:
+    """Append closing tags for any still-open simple HTML tags."""
+    open_tags: List[str] = []
+    for match in re.finditer(r"</?([a-zA-Z]+)(?:\s[^>]*)?>", text):
+        full = match.group(0)
+        tag = match.group(1).lower()
+        if full.startswith("</"):
+            if open_tags and open_tags[-1] == tag:
+                open_tags.pop()
+            continue
+        if full.endswith("/>"):
+            continue
+        open_tags.append(tag)
+    for tag in reversed(open_tags):
+        text += f"</{tag}>"
+    return text
+
+
+def truncate_telegram_html(text: str, max_len: int = MAX_MESSAGE_LEN) -> str:
+    """Truncate without cutting mid-tag; keep Telegram HTML parseable."""
+    if len(text) <= max_len:
+        return text
+
+    budget = max_len - len("\n...(truncated)")
+    cut = text[:budget]
+    # Prefer cutting at a blank line / job boundary.
+    for separator in ("\n\n", "\n"):
+        idx = cut.rfind(separator)
+        if idx >= budget // 2:
+            cut = cut[:idx]
+            break
+
+    # If we landed inside an unclosed HTML tag, drop the partial tag.
+    last_lt = cut.rfind("<")
+    last_gt = cut.rfind(">")
+    if last_lt > last_gt:
+        cut = cut[:last_lt].rstrip()
+
+    return _close_open_html_tags(cut) + "\n...(truncated)"
+
+
 def send_telegram_message(token: str, chat_id: str, text: str) -> None:
-    if len(text) > MAX_MESSAGE_LEN:
-        text = text[: MAX_MESSAGE_LEN - 20] + "\n...(truncated)"
+    text = truncate_telegram_html(text, MAX_MESSAGE_LEN)
 
     response = requests.post(
         TELEGRAM_API.format(token=token),
@@ -136,3 +202,14 @@ def send_telegram_message(token: str, chat_id: str, text: str) -> None:
     payload = response.json()
     if not payload.get("ok"):
         raise RuntimeError(f"Telegram API error: {payload}")
+
+
+def display_limit_from_config(config: Optional[dict]) -> int:
+    if not config:
+        return DEFAULT_DISPLAY_LIMIT
+    criteria = config.get("criteria") or {}
+    raw = criteria.get("telegram_list_limit", DEFAULT_DISPLAY_LIMIT)
+    try:
+        return max(int(raw), 1)
+    except (TypeError, ValueError):
+        return DEFAULT_DISPLAY_LIMIT

@@ -30,6 +30,7 @@ from src.send_guard import already_sent_today, mark_sent_today  # noqa: E402
 from src.telegram_notify import (  # noqa: E402
     build_applied_message,
     build_message,
+    display_limit_from_config,
     send_telegram_message,
 )
 
@@ -113,8 +114,10 @@ def send_job_reminder(slot: str, config: dict, dry_run: bool) -> tuple[str, int]
     jobs = collect_jobs(config)
     jobs = filter_unapplied(jobs, ROOT)
     ranked = rank_jobs(jobs, config)
-    message = build_message(ranked, slot_label)
-    save_cache(ranked, slot)
+    limit = display_limit_from_config(config)
+    message = build_message(ranked, slot_label, display_limit=limit)
+    # Cache only what Telegram showed, so applied 1 / applied 2 stay accurate.
+    save_cache(ranked[:limit], slot)
     return message, len(ranked)
 
 
