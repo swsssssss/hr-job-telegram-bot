@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T00:00:45.244908",
-  "slot": "morning",
+  "updated_at": "2026-07-21T12:00:41.821857",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -44,15 +44,15 @@
     },
     {
       "rank": 4,
-      "title": "Officer/Senior Officer- Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93435593",
-      "posted_date": "2026-07-20",
+      "title": "Human Resources Officer (C&B Focus)",
+      "company": "The Wynnstay Hall Group Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93470622",
+      "posted_date": "2026-07-21",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-07-20)"
+        "Posted today (2026-07-21)"
       ]
     },
     {
@@ -70,15 +70,15 @@
     },
     {
       "rank": 6,
-      "title": "Human Resources Officer",
-      "company": "Excel Technology International (Hong Kong) Limited",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93359358",
-      "posted_date": "2026-07-16",
+      "title": "Officer/Senior Officer- Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93435593",
+      "posted_date": "2026-07-20",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-16)"
+        "Posted 1 day ago (2026-07-20)"
       ]
     },
     {
@@ -96,6 +96,19 @@
     },
     {
       "rank": 8,
+      "title": "Human Resources Officer",
+      "company": "Excel Technology International (Hong Kong) Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93359358",
+      "posted_date": "2026-07-16",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Senior Human Resources & Admin Officer",
       "company": "Timeline Technology Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -108,7 +121,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Part-time/ Full time HR and Administrative officer ( AIA)",
       "company": "Mvp Professional Financial Consultancy Company",
       "location": "Causeway Bay, Wan Chai District",
@@ -118,19 +131,6 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-07-17)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer (Contract) (Ref: HR/261226)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93307798",
-      "posted_date": "2026-07-14",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-07-14)"
       ]
     }
   ]
