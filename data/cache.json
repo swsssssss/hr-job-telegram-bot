@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T10:53:41.173801",
-  "slot": "manual",
+  "updated_at": "2026-07-22T12:00:41.056343",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -83,19 +83,6 @@
     },
     {
       "rank": 7,
-      "title": "People & Culture Officer – Payroll & HR Operations",
-      "company": "Swire Hotels",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93399505",
-      "posted_date": "2026-07-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-07-17)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Human Resources Officer",
       "company": "Excel Technology International (Hong Kong) Limited",
       "location": "Quarry Bay, Eastern District",
@@ -105,6 +92,19 @@
       "reasons": [
         "preferred location",
         "Posted 6 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "People & Culture Officer – Payroll & HR Operations",
+      "company": "Swire Hotels",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93399505",
+      "posted_date": "2026-07-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-17)"
       ]
     },
     {
@@ -122,15 +122,15 @@
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer / Human Resources Officer (Talent Acquisition)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93286735",
-      "posted_date": "2026-07-13",
+      "title": "Senior Administration Officer (Ref: AHR/SAO) - Office Admin / Operations",
+      "company": "The Law Society of Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93496437",
+      "posted_date": "2026-07-22",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-07-13)"
+        "Posted today (2026-07-22)"
       ]
     }
   ]
