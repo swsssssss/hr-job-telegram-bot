@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T00:00:38.412526",
-  "slot": "morning",
+  "updated_at": "2026-07-23T12:00:45.049152",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -18,10 +18,10 @@
     },
     {
       "rank": 2,
-      "title": "Senior HR Officer/HR Officer, Payroll and Servicing, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93490374",
+      "title": "Senior HR and Administration Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93481746",
       "posted_date": "2026-07-22",
       "score": 15,
       "reasons": [
@@ -31,10 +31,10 @@
     },
     {
       "rank": 3,
-      "title": "Senior HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93481746",
+      "title": "Senior HR Officer/HR Officer, Payroll and Servicing, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93490374",
       "posted_date": "2026-07-22",
       "score": 15,
       "reasons": [
@@ -57,19 +57,6 @@
     },
     {
       "rank": 5,
-      "title": "Officer/Senior Officer- Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93495318",
-      "posted_date": "2026-07-22",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-07-22)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Senior Officer, Human Resources",
       "company": "China Everbright Bank Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -79,6 +66,19 @@
       "reasons": [
         "preferred location",
         "Posted 7 days ago (2026-07-16)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Officer/Senior Officer- Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93435593",
+      "posted_date": "2026-07-20",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-20)"
       ]
     },
     {
@@ -109,19 +109,6 @@
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer (Contract) (Ref: HR/261226)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93307798",
-      "posted_date": "2026-07-14",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-07-14)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Human Resources Officer, a Top-tier PRC Fund House in Hong Kong",
       "company": "Cornerstone Global Partners",
       "location": "Central and Western District",
@@ -132,6 +119,18 @@
         "salary below target ($22,000)",
         "preferred location",
         "Posted 1 day ago (2026-07-22)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior HR Digital Transformation Officer",
+      "company": "Anglo-Eastern Ship Management Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93505499",
+      "posted_date": "2026-07-23",
+      "score": 5,
+      "reasons": [
+        "Posted today (2026-07-23)"
       ]
     }
   ]
