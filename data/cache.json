@@ -1,23 +1,9 @@
 {
-  "updated_at": "2026-07-24T00:00:40.529577",
-  "slot": "morning",
+  "updated_at": "2026-07-24T12:00:37.889846",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "HR Officer",
-      "company": "Roctec Technology Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93385574",
-      "posted_date": "2026-07-17",
-      "score": 18,
-      "reasons": [
-        "preferred location",
-        "preferred company",
-        "Posted 7 days ago (2026-07-17)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Senior HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -30,7 +16,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Senior HR Officer/HR Officer, Payroll and Servicing, Human Resources",
       "company": "CITIC Securities International Company Limited",
       "location": "Admiralty, Central and Western District",
@@ -43,7 +29,33 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Admin and HR Officer",
+      "company": "Delftware Capital Management (HK) Ltd",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93492635",
+      "posted_date": "2026-07-24",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-07-24)"
+      ]
+    },
+    {
       "rank": 4,
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93529567",
+      "posted_date": "2026-07-24",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-07-24)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Senior Officer, Human Resources",
       "company": "China Everbright Bank Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -56,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Officer/Senior Officer- Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -66,19 +78,6 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-07-20)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "People & Culture Officer – Payroll & HR Operations",
-      "company": "Swire Hotels",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93399505",
-      "posted_date": "2026-07-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-07-17)"
       ]
     },
     {
