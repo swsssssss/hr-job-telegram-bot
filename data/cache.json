@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T12:00:38.058243",
-  "slot": "evening",
+  "updated_at": "2026-07-26T13:47:03.195425",
+  "slot": "manual",
   "jobs": [
     {
       "rank": 1,
@@ -43,10 +43,10 @@
     },
     {
       "rank": 4,
-      "title": "Officer - HR & Corporate Governance",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93529567",
+      "title": "Admin and HR Officer",
+      "company": "Delftware Capital Management (HK) Ltd",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93492635",
       "posted_date": "2026-07-24",
       "score": 12,
       "reasons": [
@@ -56,10 +56,10 @@
     },
     {
       "rank": 5,
-      "title": "Admin and HR Officer",
-      "company": "Delftware Capital Management (HK) Ltd",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93492635",
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93529567",
       "posted_date": "2026-07-24",
       "score": 12,
       "reasons": [
