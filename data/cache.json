@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T00:00:43.482824",
-  "slot": "morning",
+  "updated_at": "2026-07-27T12:00:42.809207",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -83,18 +83,6 @@
     },
     {
       "rank": 7,
-      "title": "Senior HR Digital Transformation Officer",
-      "company": "Anglo-Eastern Ship Management Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/93505499",
-      "posted_date": "2026-07-23",
-      "score": 5,
-      "reasons": [
-        "Posted 4 days ago (2026-07-23)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Senior HR Officer 人力資源高級主任 (Performance Management)",
       "company": "Sinotrans Overseas Development Limited",
       "location": "Tsing Yi, Kwai Tsing District",
@@ -106,27 +94,39 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Senior HR Digital Transformation Officer",
+      "company": "Anglo-Eastern Ship Management Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93505499",
+      "posted_date": "2026-07-23",
+      "score": 5,
+      "reasons": [
+        "Posted 4 days ago (2026-07-23)"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "Human Resources Officer (人力資源主任)",
-      "company": "Global TP Technology Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/93545562",
-      "posted_date": "2026-07-24",
+      "title": "Human Resources Officer",
+      "company": "Canon Hongkong Company Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93583047",
+      "posted_date": "2026-07-27",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-07-24)"
+        "Posted today (2026-07-27)"
       ]
     },
     {
       "rank": 10,
-      "title": "HR & Administration Officer",
-      "company": "Hitachi High-Tech Scientific Solutions Co., Ltd.",
+      "title": "Human Resources Officer",
+      "company": "Master Communications Limited",
       "location": "Kwai Fong, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/93547015",
-      "posted_date": "2026-07-24",
+      "url": "https://hk.jobsdb.com/job/93572118",
+      "posted_date": "2026-07-27",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-07-24)"
+        "Posted today (2026-07-27)"
       ]
     }
   ]
