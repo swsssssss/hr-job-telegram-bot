@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T12:00:42.809207",
-  "slot": "evening",
+  "updated_at": "2026-07-28T00:00:46.147757",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-22)"
+        "Posted 6 days ago (2026-07-22)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-22)"
+        "Posted 6 days ago (2026-07-22)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-07-20)"
+        "Posted 8 days ago (2026-07-20)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-24)"
+        "Posted 4 days ago (2026-07-24)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-24)"
+        "Posted 4 days ago (2026-07-24)"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "reasons": [
         "salary below target ($22,000)",
         "preferred location",
-        "Posted 5 days ago (2026-07-22)"
+        "Posted 6 days ago (2026-07-22)"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "posted_date": "2026-07-20",
       "score": 5,
       "reasons": [
-        "Posted 7 days ago (2026-07-20)"
+        "Posted 8 days ago (2026-07-20)"
       ]
     },
     {
@@ -102,23 +102,11 @@
       "posted_date": "2026-07-23",
       "score": 5,
       "reasons": [
-        "Posted 4 days ago (2026-07-23)"
+        "Posted 5 days ago (2026-07-23)"
       ]
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "Canon Hongkong Company Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/93583047",
-      "posted_date": "2026-07-27",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-07-27)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Human Resources Officer",
       "company": "Master Communications Limited",
       "location": "Kwai Fong, Kwai Tsing District",
@@ -126,7 +114,19 @@
       "posted_date": "2026-07-27",
       "score": 2,
       "reasons": [
-        "Posted today (2026-07-27)"
+        "Posted 1 day ago (2026-07-27)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer",
+      "company": "Canon Hongkong Company Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93583047",
+      "posted_date": "2026-07-27",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-07-27)"
       ]
     }
   ]
