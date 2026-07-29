@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T12:00:46.971363",
-  "slot": "evening",
+  "updated_at": "2026-07-29T00:00:44.067048",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-22)"
+        "Posted 7 days ago (2026-07-22)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-22)"
+        "Posted 7 days ago (2026-07-22)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-07-20)"
+        "Posted 9 days ago (2026-07-20)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-24)"
+        "Posted 5 days ago (2026-07-24)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-24)"
+        "Posted 5 days ago (2026-07-24)"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "reasons": [
         "salary below target ($22,000)",
         "preferred location",
-        "Posted 6 days ago (2026-07-22)"
+        "Posted 7 days ago (2026-07-22)"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "posted_date": "2026-07-20",
       "score": 5,
       "reasons": [
-        "Posted 8 days ago (2026-07-20)"
+        "Posted 9 days ago (2026-07-20)"
       ]
     },
     {
@@ -102,23 +102,11 @@
       "posted_date": "2026-07-28",
       "score": 2,
       "reasons": [
-        "Posted today (2026-07-28)"
+        "Posted 1 day ago (2026-07-28)"
       ]
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "Shun Hing Systems Integration Company Limited",
-      "location": "Kwai Fong, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/93280342",
-      "posted_date": "2026-07-28",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-07-28)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "HR & Administration Officer",
       "company": "Solos Technology Limited",
       "location": "Science Park, Tai Po District",
@@ -126,7 +114,19 @@
       "posted_date": "2026-07-28",
       "score": 2,
       "reasons": [
-        "Posted today (2026-07-28)"
+        "Posted 1 day ago (2026-07-28)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer (Employee Relations)",
+      "company": "S.F. Express (Hong Kong) Ltd",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93591564",
+      "posted_date": "2026-07-28",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-07-28)"
       ]
     }
   ]
