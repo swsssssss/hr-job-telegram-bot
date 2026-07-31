@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T00:00:48.888159",
-  "slot": "morning",
+  "updated_at": "2026-07-31T12:00:42.234916",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,15 +30,15 @@
     },
     {
       "rank": 3,
-      "title": "Admin & HR Officer",
-      "company": "Angel Yeast (Hongkong) Co., Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93661191",
-      "posted_date": "2026-07-30",
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/93688552",
+      "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-07-30)"
+        "Posted today (2026-07-31)"
       ]
     },
     {
@@ -69,6 +69,19 @@
     },
     {
       "rank": 6,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-07-30)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -81,7 +94,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Florens Asset Management Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -94,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Admin and HR Officer",
       "company": "Delftware Capital Management (HK) Ltd",
       "location": "Central, Central and Western District",
@@ -107,7 +120,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Human Resources Officer, a Top-tier PRC Fund House in Hong Kong",
       "company": "Cornerstone Global Partners",
       "location": "Central and Western District",
@@ -118,18 +131,6 @@
         "salary below target ($22,000)",
         "preferred location",
         "Posted 9 days ago (2026-07-22)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR & Administration Officer",
-      "company": "Solos Technology Limited",
-      "location": "Science Park, Tai Po District",
-      "url": "https://hk.jobsdb.com/job/93597324",
-      "posted_date": "2026-07-28",
-      "score": 2,
-      "reasons": [
-        "Posted 3 days ago (2026-07-28)"
       ]
     }
   ]
