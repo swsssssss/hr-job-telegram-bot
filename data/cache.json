@@ -1,5 +1,134 @@
 {
-  "updated_at": "2026-08-01T00:00:39.334335",
-  "slot": "morning",
-  "jobs": []
+  "updated_at": "2026-08-01T12:00:41.665579",
+  "slot": "evening",
+  "jobs": [
+    {
+      "rank": 1,
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/93688552",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-07-31)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
+      "company": "New World Facilities Management Company Limited",
+      "location": "Chai Wan, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93639409",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93637576",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-07-31)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-07-30)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
+      "company": "EC Healthcare",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93654596",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-07-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Admin and HR Officer",
+      "company": "Delftware Capital Management (HK) Ltd",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93492635",
+      "posted_date": "2026-07-24",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 8 days ago (2026-07-24)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Senior Human Resources Officer",
+      "company": "Florens Asset Management Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93620207",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources Officer (C&B)",
+      "company": "OSIM (HK) Co. Limited",
+      "location": "Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/93689674",
+      "posted_date": "2026-07-31",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-07-31)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer",
+      "company": "Kabushikigaisha Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93692010",
+      "posted_date": "2026-07-31",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-07-31)"
+      ]
+    }
+  ]
 }
