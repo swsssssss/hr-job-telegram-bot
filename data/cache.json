@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T07:10:24.404956",
-  "slot": "manual",
+  "updated_at": "2026-08-02T12:00:45.280300",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -17,19 +17,6 @@
     },
     {
       "rank": 2,
-      "title": "Human Resources Officer",
-      "company": "Nam Kee Spring Roll Noodle Company Limited",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/93688552",
-      "posted_date": "2026-07-31",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-07-31)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
       "company": "New World Facilities Management Company Limited",
       "location": "Chai Wan, Eastern District",
@@ -39,6 +26,19 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/93688552",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-07-31)"
       ]
     },
     {
@@ -108,10 +108,10 @@
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer (C&B)",
-      "company": "OSIM (HK) Co. Limited",
-      "location": "Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/93689674",
+      "title": "Human Resources Officer",
+      "company": "Kabushikigaisha Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/93692010",
       "posted_date": "2026-07-31",
       "score": 2,
       "reasons": [
@@ -120,14 +120,14 @@
     },
     {
       "rank": 10,
-      "title": "Officer, Human Resources",
-      "company": "Techtronic Industries Co Ltd",
-      "location": "Kwai Hing, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/93687609",
-      "posted_date": "2026-07-31",
+      "title": "HR & Administration Officer",
+      "company": "Solos Technology Limited",
+      "location": "Science Park, Tai Po District",
+      "url": "https://hk.jobsdb.com/job/93597324",
+      "posted_date": "2026-07-28",
       "score": 2,
       "reasons": [
-        "Posted 2 days ago (2026-07-31)"
+        "Posted 5 days ago (2026-07-28)"
       ]
     }
   ]
