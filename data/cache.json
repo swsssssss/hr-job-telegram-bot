@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T12:00:41.665579",
-  "slot": "evening",
+  "updated_at": "2026-08-02T00:00:46.281424",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,37 +12,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-07-31)"
+        "Posted 2 days ago (2026-07-31)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
-      "company": "New World Facilities Management Company Limited",
-      "location": "Chai Wan, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93639409",
-      "posted_date": "2026-07-29",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-07-29)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93637576",
-      "posted_date": "2026-07-29",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-07-29)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
       "location": "Central and Western District",
@@ -51,7 +25,33 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-07-31)"
+        "Posted 2 days ago (2026-07-31)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
+      "company": "New World Facilities Management Company Limited",
+      "location": "Chai Wan, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93639409",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93637576",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-07-29)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-07-30)"
+        "Posted 3 days ago (2026-07-30)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-07-30)"
+        "Posted 3 days ago (2026-07-30)"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-07-24)"
+        "Posted 9 days ago (2026-07-24)"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-29)"
+        "Posted 4 days ago (2026-07-29)"
       ]
     },
     {
@@ -115,19 +115,19 @@
       "posted_date": "2026-07-31",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-07-31)"
+        "Posted 2 days ago (2026-07-31)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer",
-      "company": "Kabushikigaisha Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/93692010",
+      "title": "Officer, Human Resources",
+      "company": "Techtronic Industries Co Ltd",
+      "location": "Kwai Hing, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93687609",
       "posted_date": "2026-07-31",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-07-31)"
+        "Posted 2 days ago (2026-07-31)"
       ]
     }
   ]
