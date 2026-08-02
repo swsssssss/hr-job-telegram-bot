@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-02T00:00:46.281424",
-  "slot": "morning",
+  "updated_at": "2026-08-02T07:10:24.404956",
+  "slot": "manual",
   "jobs": [
     {
       "rank": 1,
-      "title": "Human Resources Officer",
-      "company": "Nam Kee Spring Roll Noodle Company Limited",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/93688552",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
       "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
@@ -17,10 +17,10 @@
     },
     {
       "rank": 2,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93690453",
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/93688552",
       "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
