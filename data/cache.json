@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-03T00:00:43.846184",
-  "slot": "morning",
+  "updated_at": "2026-08-03T12:00:40.415706",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93690453",
-      "posted_date": "2026-07-31",
+      "title": "HR and Admin Officer",
+      "company": "EXIO (HK) LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93725666",
+      "posted_date": "2026-08-03",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-31)"
+        "Posted today (2026-08-03)"
       ]
     },
     {
       "rank": 2,
-      "title": "Human Resources Officer",
-      "company": "Nam Kee Spring Roll Noodle Company Limited",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/93688552",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
       "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
@@ -43,32 +43,19 @@
     },
     {
       "rank": 4,
-      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93637576",
-      "posted_date": "2026-07-29",
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/93688552",
+      "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-29)"
+        "Posted 3 days ago (2026-07-31)"
       ]
     },
     {
       "rank": 5,
-      "title": "Admin & HR Officer",
-      "company": "Angel Yeast (Hongkong) Co., Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93661191",
-      "posted_date": "2026-07-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-07-30)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -81,7 +68,33 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-07-30)"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93637576",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Florens Asset Management Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -94,39 +107,30 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Human Resources Officer (C&B)",
-      "company": "OSIM (HK) Co. Limited",
-      "location": "Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/93689674",
-      "posted_date": "2026-07-31",
-      "score": 2,
-      "reasons": [
-        "Posted 3 days ago (2026-07-31)"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "HR & Administration Officer",
-      "company": "Solos Technology Limited",
-      "location": "Science Park, Tai Po District",
-      "url": "https://hk.jobsdb.com/job/93597324",
-      "posted_date": "2026-07-28",
-      "score": 2,
+      "title": "Senior Administration Officer (Ref: AHR/SAO) - Office Admin / Operations",
+      "company": "The Law Society of Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93730256",
+      "posted_date": "2026-08-03",
+      "score": 12,
       "reasons": [
-        "Posted 6 days ago (2026-07-28)"
+        "preferred location",
+        "Posted today (2026-08-03)"
       ]
     },
     {
       "rank": 10,
-      "title": "Officer, Human Resources",
-      "company": "Techtronic Industries Co Ltd",
-      "location": "Kwai Hing, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/93687609",
-      "posted_date": "2026-07-31",
-      "score": 2,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93728744",
+      "posted_date": "2026-08-03",
+      "score": 7,
       "reasons": [
-        "Posted 3 days ago (2026-07-31)"
+        "salary below target ($25,000)",
+        "preferred location",
+        "Posted today (2026-08-03)"
       ]
     }
   ]
