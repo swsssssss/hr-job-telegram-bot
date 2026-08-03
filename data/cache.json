@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T12:00:45.280300",
-  "slot": "evening",
+  "updated_at": "2026-08-03T00:00:43.846184",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-07-31)"
+        "Posted 3 days ago (2026-07-31)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
-      "company": "New World Facilities Management Company Limited",
-      "location": "Chai Wan, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93639409",
-      "posted_date": "2026-07-29",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-07-29)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -38,7 +25,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-07-31)"
+        "Posted 3 days ago (2026-07-31)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
+      "company": "New World Facilities Management Company Limited",
+      "location": "Chai Wan, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93639409",
+      "posted_date": "2026-07-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-29)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-29)"
+        "Posted 5 days ago (2026-07-29)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-30)"
+        "Posted 4 days ago (2026-07-30)"
       ]
     },
     {
@@ -77,24 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-30)"
+        "Posted 4 days ago (2026-07-30)"
       ]
     },
     {
       "rank": 7,
-      "title": "Admin and HR Officer",
-      "company": "Delftware Capital Management (HK) Ltd",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93492635",
-      "posted_date": "2026-07-24",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-07-24)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Florens Asset Management Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -103,23 +90,23 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-29)"
+        "Posted 5 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer (C&B)",
+      "company": "OSIM (HK) Co. Limited",
+      "location": "Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/93689674",
+      "posted_date": "2026-07-31",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-07-31)"
       ]
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "Kabushikigaisha Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/93692010",
-      "posted_date": "2026-07-31",
-      "score": 2,
-      "reasons": [
-        "Posted 2 days ago (2026-07-31)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "HR & Administration Officer",
       "company": "Solos Technology Limited",
       "location": "Science Park, Tai Po District",
@@ -127,7 +114,19 @@
       "posted_date": "2026-07-28",
       "score": 2,
       "reasons": [
-        "Posted 5 days ago (2026-07-28)"
+        "Posted 6 days ago (2026-07-28)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Officer, Human Resources",
+      "company": "Techtronic Industries Co Ltd",
+      "location": "Kwai Hing, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/93687609",
+      "posted_date": "2026-07-31",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-07-31)"
       ]
     }
   ]
