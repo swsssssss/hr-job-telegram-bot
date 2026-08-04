@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T12:00:40.415706",
-  "slot": "evening",
+  "updated_at": "2026-08-04T00:00:47.624810",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-03)"
+        "Posted 1 day ago (2026-08-03)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-31)"
+        "Posted 4 days ago (2026-07-31)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-29)"
+        "Posted 6 days ago (2026-07-29)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-07-31)"
+        "Posted 4 days ago (2026-07-31)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-30)"
+        "Posted 5 days ago (2026-07-30)"
       ]
     },
     {
       "rank": 6,
-      "title": "Admin & HR Officer",
-      "company": "Angel Yeast (Hongkong) Co., Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93661191",
-      "posted_date": "2026-07-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-07-30)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
@@ -90,7 +77,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-29)"
+        "Posted 6 days ago (2026-07-29)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-07-30)"
       ]
     },
     {
@@ -103,20 +103,21 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-29)"
+        "Posted 6 days ago (2026-07-29)"
       ]
     },
     {
       "rank": 9,
-      "title": "Senior Administration Officer (Ref: AHR/SAO) - Office Admin / Operations",
-      "company": "The Law Society of Hong Kong",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93730256",
+      "title": "APAC HR Officer",
+      "company": "Donnelley Financial Solutions Hong Kong Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93714714",
       "posted_date": "2026-08-03",
-      "score": 12,
+      "score": 7,
       "reasons": [
+        "salary below target ($20,000)",
         "preferred location",
-        "Posted today (2026-08-03)"
+        "Posted 1 day ago (2026-08-03)"
       ]
     },
     {
@@ -130,7 +131,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted today (2026-08-03)"
+        "Posted 1 day ago (2026-08-03)"
       ]
     }
   ]
