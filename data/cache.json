@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T12:00:49.854174",
-  "slot": "evening",
+  "updated_at": "2026-08-05T00:00:43.454588",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-04)"
+        "Posted 1 day ago (2026-08-04)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93690453",
-      "posted_date": "2026-07-31",
+      "title": "HR and Admin Officer",
+      "company": "EXIO (HK) LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93725666",
+      "posted_date": "2026-08-03",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-07-31)"
+        "Posted 2 days ago (2026-08-03)"
       ]
     },
     {
@@ -38,20 +38,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-04)"
+        "Posted 1 day ago (2026-08-04)"
       ]
     },
     {
       "rank": 4,
-      "title": "HR and Admin Officer",
-      "company": "EXIO (HK) LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93725666",
-      "posted_date": "2026-08-03",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
+      "posted_date": "2026-07-31",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-03)"
+        "Posted 5 days ago (2026-07-31)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-29)"
+        "Posted 7 days ago (2026-07-29)"
       ]
     },
     {
       "rank": 6,
-      "title": "Admin & HR Officer",
-      "company": "Angel Yeast (Hongkong) Co., Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93661191",
-      "posted_date": "2026-07-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-07-30)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -90,7 +77,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-07-30)"
+        "Posted 6 days ago (2026-07-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-07-30)"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-29)"
+        "Posted 7 days ago (2026-07-29)"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-29)"
+        "Posted 7 days ago (2026-07-29)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 1 day ago (2026-08-03)"
+        "Posted 2 days ago (2026-08-03)"
       ]
     }
   ]
