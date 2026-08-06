@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T12:00:44.185404",
-  "slot": "evening",
+  "updated_at": "2026-08-06T00:00:55.058765",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-05)"
+        "Posted 1 day ago (2026-08-05)"
       ]
     },
     {
       "rank": 2,
-      "title": "Human Resources Officer",
-      "company": "Schindler Lifts (HK) Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93779052",
-      "posted_date": "2026-08-05",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted today (2026-08-05)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HR and Admin Officer",
       "company": "EXIO (HK) LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -38,11 +25,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-03)"
+        "Posted 3 days ago (2026-08-03)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -51,7 +38,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-04)"
+        "Posted 2 days ago (2026-08-04)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-07-31)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-04)"
+        "Posted 2 days ago (2026-08-04)"
       ]
     },
     {
       "rank": 6,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93690453",
-      "posted_date": "2026-07-31",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-07-31)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
       "company": "New World Facilities Management Company Limited",
       "location": "Chai Wan, Eastern District",
@@ -90,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-07-29)"
+        "Posted 8 days ago (2026-07-29)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -103,7 +90,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-30)"
+        "Posted 7 days ago (2026-07-30)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-07-30)"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-07-29)"
+        "Posted 8 days ago (2026-07-29)"
       ]
     },
     {
@@ -129,7 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-07-29)"
+        "Posted 8 days ago (2026-07-29)"
       ]
     }
   ]
