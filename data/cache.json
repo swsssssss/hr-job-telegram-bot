@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T12:00:44.373653",
-  "slot": "evening",
+  "updated_at": "2026-08-07T00:00:45.196386",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-05)"
+        "Posted 2 days ago (2026-08-05)"
       ]
     },
     {
@@ -25,24 +25,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-06)"
+        "Posted 1 day ago (2026-08-06)"
       ]
     },
     {
       "rank": 3,
-      "title": "Human Resources Officer",
-      "company": "Schindler Lifts (HK) Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93779052",
-      "posted_date": "2026-08-05",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-05)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "HR and Admin Officer",
       "company": "EXIO (HK) LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -51,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-03)"
+        "Posted 4 days ago (2026-08-03)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -64,7 +51,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-04)"
+        "Posted 3 days ago (2026-08-04)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93690453",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-07-31)"
       ]
     },
     {
@@ -77,33 +77,33 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-04)"
+        "Posted 3 days ago (2026-08-04)"
       ]
     },
     {
       "rank": 7,
-      "title": "Senior Administration Officer (Ref: AHR/SAO) - Office Admin / Operations",
-      "company": "The Law Society of Hong Kong",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93815451",
-      "posted_date": "2026-08-06",
+      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
+      "company": "EC Healthcare",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/93654596",
+      "posted_date": "2026-07-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-06)"
+        "Posted 8 days ago (2026-07-30)"
       ]
     },
     {
       "rank": 8,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93690453",
-      "posted_date": "2026-07-31",
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-07-31)"
+        "Posted 8 days ago (2026-07-30)"
       ]
     },
     {
@@ -116,20 +116,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-07-29)"
+        "Posted 9 days ago (2026-07-29)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93620207",
+      "title": "Human Resources Officer (Contract) (Ref: HR/266326)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93637576",
       "posted_date": "2026-07-29",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-07-29)"
+        "Posted 9 days ago (2026-07-29)"
       ]
     }
   ]
