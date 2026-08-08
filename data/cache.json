@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T12:00:42.478980",
-  "slot": "evening",
+  "updated_at": "2026-08-08T00:00:46.307360",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-05)"
+        "Posted 3 days ago (2026-08-05)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-07)"
+        "Posted 1 day ago (2026-08-07)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-07)"
+        "Posted 1 day ago (2026-08-07)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-06)"
+        "Posted 2 days ago (2026-08-06)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-07-31)"
+        "Posted 8 days ago (2026-07-31)"
       ]
     },
     {
@@ -77,37 +77,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-03)"
+        "Posted 5 days ago (2026-08-03)"
       ]
     },
     {
       "rank": 7,
-      "title": "Senior Officer of Human Resources & Administration Department (ref. JD-HRASO)",
-      "company": "New World Facilities Management Company Limited",
-      "location": "Chai Wan, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93639409",
-      "posted_date": "2026-07-29",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-07-29)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "HR BP - HR Generalist - Senior Officer",
-      "company": "PwC",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93830779",
+      "title": "Senior Human Resources Officer (HRIS)",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93845211",
       "posted_date": "2026-08-07",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-07)"
+        "Posted 1 day ago (2026-08-07)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -116,7 +103,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-04)"
+        "Posted 4 days ago (2026-08-04)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "HR BP - HR Generalist - Senior Officer",
+      "company": "PwC",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93830779",
+      "posted_date": "2026-08-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-08-07)"
       ]
     },
     {
@@ -129,7 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-04)"
+        "Posted 4 days ago (2026-08-04)"
       ]
     }
   ]
