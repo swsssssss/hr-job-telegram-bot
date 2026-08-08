@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T00:00:46.307360",
-  "slot": "morning",
+  "updated_at": "2026-08-08T12:00:45.412987",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Service Officer / Associate",
       "company": "HKT Services Limited",
       "location": "Quarry Bay, Eastern District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 2 days ago (2026-08-06)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "HR and Admin Officer",
+      "company": "EXIO (HK) LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93725666",
+      "posted_date": "2026-08-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-08-03)"
       ]
     },
     {
@@ -69,23 +69,10 @@
     },
     {
       "rank": 6,
-      "title": "HR and Admin Officer",
-      "company": "EXIO (HK) LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93725666",
-      "posted_date": "2026-08-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-08-03)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Senior Human Resources Officer (HRIS)",
+      "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845211",
+      "url": "https://hk.jobsdb.com/job/93845191",
       "posted_date": "2026-08-07",
       "score": 12,
       "reasons": [
@@ -94,7 +81,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -107,16 +94,29 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "HR BP - HR Generalist - Senior Officer",
-      "company": "PwC",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93830779",
+      "rank": 8,
+      "title": "Senior Human Resources Officer (HRIS)",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93845211",
       "posted_date": "2026-08-07",
       "score": 12,
       "reasons": [
         "preferred location",
         "Posted 1 day ago (2026-08-07)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Admin & HR Officer",
+      "company": "Angel Yeast (Hongkong) Co., Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93661191",
+      "posted_date": "2026-07-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-07-30)"
       ]
     },
     {
