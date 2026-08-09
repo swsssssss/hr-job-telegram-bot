@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T00:00:50.895341",
-  "slot": "morning",
+  "updated_at": "2026-08-09T12:00:41.444192",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Human Resources Officer (C&B)",
-      "company": "Miricor Enterprises Holdings Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93843433",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "HR and Admin Officer",
       "company": "EXIO (HK) LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 6 days ago (2026-08-03)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Human Resources Officer (C&B)",
+      "company": "Miricor Enterprises Holdings Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93843433",
+      "posted_date": "2026-08-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-08-07)"
       ]
     },
     {
