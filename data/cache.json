@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T12:00:45.412987",
-  "slot": "evening",
+  "updated_at": "2026-08-09T00:00:50.895341",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-05)"
+        "Posted 4 days ago (2026-08-05)"
       ]
     },
     {
       "rank": 2,
-      "title": "Human Resources Officer (C&B)",
-      "company": "Miricor Enterprises Holdings Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93843433",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Human Resources Service Officer / Associate",
       "company": "HKT Services Limited",
       "location": "Quarry Bay, Eastern District",
@@ -38,7 +25,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-06)"
+        "Posted 3 days ago (2026-08-06)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Human Resources Officer (C&B)",
+      "company": "Miricor Enterprises Holdings Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93843433",
+      "posted_date": "2026-08-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-08-07)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-03)"
+        "Posted 6 days ago (2026-08-03)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-07-31)"
+        "Posted 9 days ago (2026-07-31)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-07)"
+        "Posted 2 days ago (2026-08-07)"
       ]
     },
     {
@@ -90,37 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-04)"
+        "Posted 5 days ago (2026-08-04)"
       ]
     },
     {
       "rank": 8,
-      "title": "Senior Human Resources Officer (HRIS)",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845211",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Admin & HR Officer",
-      "company": "Angel Yeast (Hongkong) Co., Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93661191",
-      "posted_date": "2026-07-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-07-30)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Human Resources and Administration Officer",
       "company": "Carthy Ltd",
       "location": "Central and Western District",
@@ -129,7 +103,33 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-04)"
+        "Posted 5 days ago (2026-08-04)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "HR BP - HR Generalist - Senior Officer",
+      "company": "PwC",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93830779",
+      "posted_date": "2026-08-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-08-07)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior Human Resources Officer",
+      "company": "Eton Management Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93682426",
+      "posted_date": "2026-07-31",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-07-31)"
       ]
     }
   ]
