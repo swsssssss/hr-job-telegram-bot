@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T13:26:04.625390",
-  "slot": "evening",
+  "updated_at": "2026-08-11T01:59:46.901457",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-05)"
+        "Posted 6 days ago (2026-08-05)"
       ]
     },
     {
       "rank": 2,
+      "title": "Human Resources Officer",
+      "company": "Regal Hotels International",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93890170",
+      "posted_date": "2026-08-11",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-08-11)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Human Resources Service Officer / Associate",
       "company": "HKT Services Limited",
       "location": "Quarry Bay, Eastern District",
@@ -25,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-06)"
+        "Posted 5 days ago (2026-08-06)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "HR and Admin Officer",
       "company": "EXIO (HK) LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-03)"
+        "Posted 8 days ago (2026-08-03)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer (C&B)",
       "company": "Miricor Enterprises Holdings Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -51,20 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "HR BP - HR Generalist - Senior Officer",
-      "company": "PwC",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93830779",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-08-07)"
+        "Posted 4 days ago (2026-08-07)"
       ]
     },
     {
@@ -77,11 +77,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-07)"
+        "Posted 4 days ago (2026-08-07)"
       ]
     },
     {
       "rank": 7,
+      "title": "HR BP - HR Generalist - Senior Officer",
+      "company": "PwC",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93830779",
+      "posted_date": "2026-08-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-08-07)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior Human Resources Officer (HRIS)",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-07)"
+        "Posted 4 days ago (2026-08-07)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "HR & Admin Officer",
       "company": "拔萃國際資產管理有限公司",
       "location": "Central, Central and Western District",
@@ -104,11 +117,11 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted today (2026-08-10)"
+        "Posted 1 day ago (2026-08-10)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "APAC HR Officer",
       "company": "Donnelley Financial Solutions Hong Kong Limited",
       "location": "Central and Western District",
@@ -118,21 +131,7 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 7 days ago (2026-08-03)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
-      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93728744",
-      "posted_date": "2026-08-03",
-      "score": 7,
-      "reasons": [
-        "salary below target ($25,000)",
-        "preferred location",
-        "Posted 7 days ago (2026-08-03)"
+        "Posted 8 days ago (2026-08-03)"
       ]
     }
   ]
