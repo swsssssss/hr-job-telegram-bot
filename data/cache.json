@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T13:26:57.916389",
-  "slot": "evening",
+  "updated_at": "2026-08-13T02:16:44.494766",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,20 +12,20 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-11)"
+        "Posted 2 days ago (2026-08-11)"
       ]
     },
     {
       "rank": 2,
-      "title": "Human Resources & Administration Officer",
-      "company": "Gallant",
+      "title": "HR Officer / Senior HR Officer (C&B) (6-month Maternity Leave Cover)",
+      "company": "Rue Madame Retail Limited",
       "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93894008",
-      "posted_date": "2026-08-11",
-      "score": 12,
+      "url": "https://hk.jobsdb.com/job/93784513",
+      "posted_date": "2026-08-05",
+      "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-11)"
+        "Posted 8 days ago (2026-08-05)"
       ]
     },
     {
@@ -38,11 +38,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-11)"
+        "Posted 2 days ago (2026-08-11)"
       ]
     },
     {
       "rank": 4,
+      "title": "Human Resources & Administration Officer",
+      "company": "Gallant",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93894008",
+      "posted_date": "2026-08-11",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-08-11)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Human Resources Officer",
       "company": "Regal Hotels International",
       "location": "Causeway Bay, Wan Chai District",
@@ -51,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-11)"
+        "Posted 2 days ago (2026-08-11)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -64,20 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-11)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "HR and Admin Officer",
-      "company": "EXIO (HK) LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93725666",
-      "posted_date": "2026-08-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-03)"
+        "Posted 2 days ago (2026-08-11)"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-06)"
+        "Posted 7 days ago (2026-08-06)"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-07)"
+        "Posted 6 days ago (2026-08-07)"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-04)"
+        "Posted 9 days ago (2026-08-04)"
       ]
     },
     {
@@ -129,7 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-07)"
+        "Posted 6 days ago (2026-08-07)"
       ]
     }
   ]
