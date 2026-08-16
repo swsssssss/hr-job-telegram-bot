@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T01:36:07.604943",
-  "slot": "morning",
+  "updated_at": "2026-08-16T12:53:27.612880",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -122,15 +122,16 @@
     },
     {
       "rank": 10,
-      "title": "HRIS Officer, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93960020",
-      "posted_date": "2026-08-13",
-      "score": 12,
+      "title": "HR & Admin Officer",
+      "company": "拔萃國際資產管理有限公司",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93878422",
+      "posted_date": "2026-08-10",
+      "score": 7,
       "reasons": [
+        "salary below target ($20,000)",
         "preferred location",
-        "Posted 3 days ago (2026-08-13)"
+        "Posted 6 days ago (2026-08-10)"
       ]
     }
   ]
