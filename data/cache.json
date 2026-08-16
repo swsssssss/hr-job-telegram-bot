@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T12:51:37.127699",
-  "slot": "evening",
+  "updated_at": "2026-08-16T01:36:07.604943",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "salary ~$30,000",
         "preferred location",
-        "Posted 2 days ago (2026-08-13)"
+        "Posted 3 days ago (2026-08-13)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-11)"
+        "Posted 5 days ago (2026-08-11)"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-11)"
+        "Posted 5 days ago (2026-08-11)"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-11)"
+        "Posted 5 days ago (2026-08-11)"
       ]
     },
     {
@@ -65,24 +65,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-11)"
+        "Posted 5 days ago (2026-08-11)"
       ]
     },
     {
       "rank": 6,
-      "title": "Human Resources Service Officer / Associate",
-      "company": "HKT Services Limited",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/93798670",
-      "posted_date": "2026-08-06",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-06)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -91,11 +78,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-11)"
+        "Posted 5 days ago (2026-08-11)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Human Resources Officer (C&B)",
       "company": "Miricor Enterprises Holdings Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -104,11 +91,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-07)"
+        "Posted 9 days ago (2026-08-07)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -117,11 +104,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-07)"
+        "Posted 9 days ago (2026-08-07)"
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "HR BP - HR Generalist - Senior Officer",
       "company": "PwC",
       "location": "Central, Central and Western District",
@@ -130,7 +117,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-07)"
+        "Posted 9 days ago (2026-08-07)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "HRIS Officer, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93960020",
+      "posted_date": "2026-08-13",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-08-13)"
       ]
     }
   ]
