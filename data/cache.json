@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T01:27:39.844796",
-  "slot": "morning",
+  "updated_at": "2026-08-17T12:57:58.056113",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -31,6 +31,32 @@
     },
     {
       "rank": 3,
+      "title": "Senior HR Officer (C&B - Reporting / strong in data consolidation & analysis)",
+      "company": "Headsearch21 Consultancy Ltd",
+      "location": "Hong Kong SAR",
+      "url": "https://hk.jobsdb.com/job/94013650",
+      "posted_date": "2026-08-17",
+      "score": 13,
+      "reasons": [
+        "salary ~$32,000",
+        "Posted today (2026-08-17)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "(Senior) Human Resources Officer",
+      "company": "SIIC INVESTMENT COMPANY LIMITED",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94013730",
+      "posted_date": "2026-08-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-08-17)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Human Resources & Administration Officer",
       "company": "Gallant",
       "location": "Central, Central and Western District",
@@ -43,7 +69,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Asst. Human Resources Officer / Human Resources Officer",
       "company": "Tai Cheung Properties Limited",
       "location": "Central and Western District",
@@ -56,7 +82,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Human Resources Officer",
       "company": "Regal Hotels International",
       "location": "Causeway Bay, Wan Chai District",
@@ -69,7 +95,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -82,20 +108,21 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "HRIS Officer, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93960020",
-      "posted_date": "2026-08-13",
-      "score": 12,
+      "rank": 9,
+      "title": "HR & Administration Officer",
+      "company": "Grand Hub Capital Co. Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94018917",
+      "posted_date": "2026-08-17",
+      "score": 7,
       "reasons": [
+        "salary below target ($25,000)",
         "preferred location",
-        "Posted 4 days ago (2026-08-13)"
+        "Posted today (2026-08-17)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "HR & Admin Officer",
       "company": "拔萃國際資產管理有限公司",
       "location": "Central, Central and Western District",
@@ -106,30 +133,6 @@
         "salary below target ($20,000)",
         "preferred location",
         "Posted 7 days ago (2026-08-10)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior HR Officer (HR Reporting and Projects)",
-      "company": "United Chinese Plastics Products Co Ltd",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/93971275",
-      "posted_date": "2026-08-14",
-      "score": 5,
-      "reasons": [
-        "Posted 3 days ago (2026-08-14)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources & Administration Officer",
-      "company": "Qupital Limited",
-      "location": "Lai Chi Kok, Sham Shui Po District",
-      "url": "https://hk.jobsdb.com/job/93988115",
-      "posted_date": "2026-08-14",
-      "score": 2,
-      "reasons": [
-        "Posted 3 days ago (2026-08-14)"
       ]
     }
   ]
