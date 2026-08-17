@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T12:53:27.612880",
-  "slot": "evening",
+  "updated_at": "2026-08-17T01:27:39.844796",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "salary ~$30,000",
         "preferred location",
-        "Posted 3 days ago (2026-08-13)"
+        "Posted 4 days ago (2026-08-13)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-11)"
+        "Posted 6 days ago (2026-08-11)"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-11)"
+        "Posted 6 days ago (2026-08-11)"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-11)"
+        "Posted 6 days ago (2026-08-11)"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-11)"
+        "Posted 6 days ago (2026-08-11)"
       ]
     },
     {
@@ -78,50 +78,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-11)"
+        "Posted 6 days ago (2026-08-11)"
       ]
     },
     {
       "rank": 7,
-      "title": "Human Resources Officer (C&B)",
-      "company": "Miricor Enterprises Holdings Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93843433",
-      "posted_date": "2026-08-07",
+      "title": "HRIS Officer, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/93960020",
+      "posted_date": "2026-08-13",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-08-07)"
+        "Posted 4 days ago (2026-08-13)"
       ]
     },
     {
       "rank": 8,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "HR BP - HR Generalist - Senior Officer",
-      "company": "PwC",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93830779",
-      "posted_date": "2026-08-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-07)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "HR & Admin Officer",
       "company": "拔萃國際資產管理有限公司",
       "location": "Central, Central and Western District",
@@ -131,7 +105,31 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 6 days ago (2026-08-10)"
+        "Posted 7 days ago (2026-08-10)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior HR Officer (HR Reporting and Projects)",
+      "company": "United Chinese Plastics Products Co Ltd",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93971275",
+      "posted_date": "2026-08-14",
+      "score": 5,
+      "reasons": [
+        "Posted 3 days ago (2026-08-14)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources & Administration Officer",
+      "company": "Qupital Limited",
+      "location": "Lai Chi Kok, Sham Shui Po District",
+      "url": "https://hk.jobsdb.com/job/93988115",
+      "posted_date": "2026-08-14",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-08-14)"
       ]
     }
   ]
