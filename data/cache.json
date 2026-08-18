@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T12:57:58.056113",
-  "slot": "evening",
+  "updated_at": "2026-08-18T01:23:53.811663",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "salary ~$30,000",
         "preferred location",
-        "Posted 4 days ago (2026-08-13)"
+        "Posted 5 days ago (2026-08-13)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-11)"
+        "Posted 7 days ago (2026-08-11)"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted today (2026-08-17)"
+        "Posted 1 day ago (2026-08-17)"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-17)"
+        "Posted 1 day ago (2026-08-17)"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-11)"
+        "Posted 7 days ago (2026-08-11)"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-11)"
+        "Posted 7 days ago (2026-08-11)"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-11)"
+        "Posted 7 days ago (2026-08-11)"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-11)"
+        "Posted 7 days ago (2026-08-11)"
       ]
     },
     {
@@ -118,7 +118,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted today (2026-08-17)"
+        "Posted 1 day ago (2026-08-17)"
       ]
     },
     {
@@ -132,7 +132,7 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 7 days ago (2026-08-10)"
+        "Posted 8 days ago (2026-08-10)"
       ]
     }
   ]
