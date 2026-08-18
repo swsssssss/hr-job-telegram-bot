@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T01:23:53.811663",
-  "slot": "morning",
+  "updated_at": "2026-08-18T12:59:12.059528",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -44,19 +44,6 @@
     },
     {
       "rank": 4,
-      "title": "(Senior) Human Resources Officer",
-      "company": "SIIC INVESTMENT COMPANY LIMITED",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94013730",
-      "posted_date": "2026-08-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Human Resources & Administration Officer",
       "company": "Gallant",
       "location": "Central, Central and Western District",
@@ -66,6 +53,19 @@
       "reasons": [
         "preferred location",
         "Posted 7 days ago (2026-08-11)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "(Senior) Human Resources Officer",
+      "company": "SIIC INVESTMENT COMPANY LIMITED",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94013730",
+      "posted_date": "2026-08-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-08-17)"
       ]
     },
     {
@@ -109,6 +109,20 @@
     },
     {
       "rank": 9,
+      "title": "綜合行政/人事General Admin & HR Officer",
+      "company": "Worldway International Development Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94044615",
+      "posted_date": "2026-08-18",
+      "score": 7,
+      "reasons": [
+        "salary below target ($20,000)",
+        "preferred location",
+        "Posted today (2026-08-18)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "HR & Administration Officer",
       "company": "Grand Hub Capital Co. Limited",
       "location": "Central, Central and Western District",
@@ -119,20 +133,6 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 1 day ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR & Admin Officer",
-      "company": "拔萃國際資產管理有限公司",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/93878422",
-      "posted_date": "2026-08-10",
-      "score": 7,
-      "reasons": [
-        "salary below target ($20,000)",
-        "preferred location",
-        "Posted 8 days ago (2026-08-10)"
       ]
     }
   ]
