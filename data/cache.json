@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T01:24:29.463303",
-  "slot": "morning",
+  "updated_at": "2026-08-22T12:53:15.469632",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Officer - HR & Corporate Governance",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93529567",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-21)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "HR Officer, Business Partnering",
       "company": "The Boys' and Girls' Clubs Association of Hong Kong",
       "location": "Wan Chai District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 1 day ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "(Senior) Human Resources Officer",
+      "company": "SIIC INVESTMENT COMPANY LIMITED",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94013730",
+      "posted_date": "2026-08-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-08-17)"
       ]
     },
     {
@@ -69,19 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "(Senior) Human Resources Officer",
-      "company": "SIIC INVESTMENT COMPANY LIMITED",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94013730",
-      "posted_date": "2026-08-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -94,20 +81,20 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94108209",
-      "posted_date": "2026-08-20",
+      "rank": 7,
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93529567",
+      "posted_date": "2026-08-21",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-20)"
+        "Posted 1 day ago (2026-08-21)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Staff Relations Officer (Ref: SRO - HRDP) (Two-year contract)",
       "company": "The Neighbourhood Advice-Action Council",
       "location": "Wan Chai, Wan Chai District",
@@ -120,17 +107,30 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "HR & Administration Officer",
-      "company": "Grand Hub Capital Co. Limited",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94090387",
+      "rank": 9,
+      "title": "Senior Human Resources Officer (C&B)",
+      "company": "Florens Asset Management Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94108209",
       "posted_date": "2026-08-20",
-      "score": 7,
+      "score": 12,
       "reasons": [
-        "salary below target ($25,000)",
         "preferred location",
         "Posted 2 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer - Payroll",
+      "company": "MM HK Retail Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94143477",
+      "posted_date": "2026-08-22",
+      "score": 7,
+      "reasons": [
+        "salary below target ($22,000)",
+        "preferred location",
+        "Posted today (2026-08-22)"
       ]
     }
   ]
