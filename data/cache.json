@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T01:38:14.821725",
-  "slot": "morning",
+  "updated_at": "2026-08-23T12:54:23.600720",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "HR Officer, Business Partnering",
-      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94137425",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-08-21)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "(Senior) Human Resources Officer",
       "company": "SIIC INVESTMENT COMPANY LIMITED",
       "location": "Wan Chai, Wan Chai District",
@@ -55,7 +42,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "HR and Administration Officer",
       "company": "PATRONS SECURITIES LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -65,6 +52,19 @@
       "reasons": [
         "preferred location",
         "Posted 3 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93529567",
+      "posted_date": "2026-08-21",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-08-21)"
       ]
     },
     {
@@ -82,19 +82,6 @@
     },
     {
       "rank": 7,
-      "title": "Officer - HR & Corporate Governance",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93529567",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-08-21)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Senior Human Resources Officer (C&B)",
       "company": "Florens Asset Management Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -107,7 +94,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Human Resources Officer - Payroll",
       "company": "MM HK Retail Limited",
       "location": "Quarry Bay, Eastern District",
@@ -121,7 +108,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "HR & Administration Officer",
       "company": "Grand Hub Capital Co. Limited",
       "location": "Central, Central and Western District",
@@ -132,6 +119,20 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 3 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "綜合行政/人事General Admin & HR Officer",
+      "company": "Worldway International Development Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94044615",
+      "posted_date": "2026-08-18",
+      "score": 7,
+      "reasons": [
+        "salary below target ($20,000)",
+        "preferred location",
+        "Posted 5 days ago (2026-08-18)"
       ]
     }
   ]
