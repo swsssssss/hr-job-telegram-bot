@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T12:54:23.600720",
-  "slot": "evening",
+  "updated_at": "2026-08-24T01:36:07.623360",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-21)"
+        "Posted 3 days ago (2026-08-21)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted 6 days ago (2026-08-17)"
+        "Posted 7 days ago (2026-08-17)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-17)"
+        "Posted 7 days ago (2026-08-17)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-20)"
+        "Posted 4 days ago (2026-08-20)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-21)"
+        "Posted 3 days ago (2026-08-21)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-19)"
+        "Posted 5 days ago (2026-08-19)"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-20)"
+        "Posted 4 days ago (2026-08-20)"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "reasons": [
         "salary below target ($22,000)",
         "preferred location",
-        "Posted 1 day ago (2026-08-22)"
+        "Posted 2 days ago (2026-08-22)"
       ]
     },
     {
@@ -118,7 +118,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 3 days ago (2026-08-20)"
+        "Posted 4 days ago (2026-08-20)"
       ]
     },
     {
@@ -132,7 +132,7 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 5 days ago (2026-08-18)"
+        "Posted 6 days ago (2026-08-18)"
       ]
     }
   ]
