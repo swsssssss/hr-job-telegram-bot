@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T01:25:47.951016",
-  "slot": "morning",
+  "updated_at": "2026-08-25T13:01:19.533335",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,6 +30,19 @@
     },
     {
       "rank": 3,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93845191",
+      "posted_date": "2026-08-25",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-08-25)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -42,7 +55,20 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94174508",
+      "posted_date": "2026-08-24",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-08-24)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "(Senior) Human Resources Officer",
       "company": "SIIC INVESTMENT COMPANY LIMITED",
       "location": "Wan Chai, Wan Chai District",
@@ -55,7 +81,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "HR Officer, Business Partnering",
       "company": "The Boys' and Girls' Clubs Association of Hong Kong",
       "location": "Wan Chai District",
@@ -68,20 +94,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "HR Officer (C&B) (6-month Maternity Leave Cover)",
-      "company": "Rue Madame Retail Limited",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94158477",
-      "posted_date": "2026-08-24",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-08-24)"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "HR and Administration Officer",
       "company": "PATRONS SECURITIES LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -94,20 +107,20 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Officer - HR & Corporate Governance",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93529567",
-      "posted_date": "2026-08-21",
+      "rank": 9,
+      "title": "HR Officer (C&B) (6-month Maternity Leave Cover)",
+      "company": "Rue Madame Retail Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94158477",
+      "posted_date": "2026-08-24",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-21)"
+        "Posted 1 day ago (2026-08-24)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Human Resources Officer (Business Support team) (1-year contract)",
       "company": "China CITIC Bank International Limited",
       "location": "Quarry Bay, Eastern District",
@@ -117,19 +130,6 @@
       "reasons": [
         "preferred location",
         "Posted 6 days ago (2026-08-19)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94108209",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-08-20)"
       ]
     }
   ]
