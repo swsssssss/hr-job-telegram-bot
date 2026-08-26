@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T01:35:58.565475",
-  "slot": "morning",
+  "updated_at": "2026-08-26T13:06:26.009302",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -30,15 +30,15 @@
     },
     {
       "rank": 3,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-25",
+      "title": "HR Officer",
+      "company": "Huatai-Pcg Asset Management Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94219885",
+      "posted_date": "2026-08-26",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-25)"
+        "Posted today (2026-08-26)"
       ]
     },
     {
@@ -69,6 +69,19 @@
     },
     {
       "rank": 6,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93845191",
+      "posted_date": "2026-08-25",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-08-25)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "(Senior) Human Resources Officer",
       "company": "SIIC INVESTMENT COMPANY LIMITED",
       "location": "Wan Chai, Wan Chai District",
@@ -78,19 +91,6 @@
       "reasons": [
         "preferred location",
         "Posted 9 days ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "HR Officer, Business Partnering",
-      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94137425",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-08-21)"
       ]
     },
     {
@@ -108,6 +108,19 @@
     },
     {
       "rank": 9,
+      "title": "HR Officer, Business Partnering",
+      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94137425",
+      "posted_date": "2026-08-21",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "HR Officer (C&B) (6-month Maternity Leave Cover)",
       "company": "Rue Madame Retail Limited",
       "location": "Central, Central and Western District",
@@ -117,19 +130,6 @@
       "reasons": [
         "preferred location",
         "Posted 2 days ago (2026-08-24)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94108209",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-08-20)"
       ]
     }
   ]
