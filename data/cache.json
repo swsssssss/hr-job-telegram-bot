@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T13:06:26.009302",
-  "slot": "evening",
+  "updated_at": "2026-08-27T08:23:22.516280",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,50 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-21)"
+        "Posted 6 days ago (2026-08-21)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior HR Officer (C&B - Reporting / strong in data consolidation & analysis)",
-      "company": "Headsearch21 Consultancy Ltd",
-      "location": "Hong Kong SAR",
-      "url": "https://hk.jobsdb.com/job/94013650",
-      "posted_date": "2026-08-17",
-      "score": 13,
-      "reasons": [
-        "salary ~$32,000",
-        "Posted 9 days ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "HR Officer",
-      "company": "Huatai-Pcg Asset Management Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94219885",
-      "posted_date": "2026-08-26",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted today (2026-08-26)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Human Resources Officer",
-      "company": "Nam Kee Spring Roll Noodle Company Limited",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/94172289",
-      "posted_date": "2026-08-24",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-08-24)"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -64,11 +25,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-24)"
+        "Posted 3 days ago (2026-08-24)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "Human Resources Officer",
+      "company": "Nam Kee Spring Roll Noodle Company Limited",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/94172289",
+      "posted_date": "2026-08-24",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-08-24)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -77,37 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-25)"
+        "Posted 2 days ago (2026-08-25)"
       ]
     },
     {
-      "rank": 7,
-      "title": "(Senior) Human Resources Officer",
-      "company": "SIIC INVESTMENT COMPANY LIMITED",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94013730",
-      "posted_date": "2026-08-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-17)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "HR and Administration Officer",
-      "company": "PATRONS SECURITIES LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94095715",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-08-20)"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 5,
       "title": "HR Officer, Business Partnering",
       "company": "The Boys' and Girls' Clubs Association of Hong Kong",
       "location": "Wan Chai District",
@@ -116,20 +64,73 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-21)"
+        "Posted 6 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "HR and Administration Officer",
+      "company": "PATRONS SECURITIES LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94095715",
+      "posted_date": "2026-08-20",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Senior Human Resources Officer (C&B)",
+      "company": "Florens Asset Management Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94108209",
+      "posted_date": "2026-08-20",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "HR & Administration Officer",
+      "company": "Grand Hub Capital Co. Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94090387",
+      "posted_date": "2026-08-20",
+      "score": 7,
+      "reasons": [
+        "salary below target ($25,000)",
+        "preferred location",
+        "Posted 7 days ago (2026-08-20)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources Officer - Payroll",
+      "company": "MM HK Retail Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94143477",
+      "posted_date": "2026-08-22",
+      "score": 7,
+      "reasons": [
+        "salary below target ($22,000)",
+        "preferred location",
+        "Posted 5 days ago (2026-08-22)"
       ]
     },
     {
       "rank": 10,
-      "title": "HR Officer (C&B) (6-month Maternity Leave Cover)",
-      "company": "Rue Madame Retail Limited",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94158477",
-      "posted_date": "2026-08-24",
-      "score": 12,
+      "title": "Senior HR Officer",
+      "company": "Forex Forest Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94099465",
+      "posted_date": "2026-08-20",
+      "score": 5,
       "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-08-24)"
+        "Posted 7 days ago (2026-08-20)"
       ]
     }
   ]
