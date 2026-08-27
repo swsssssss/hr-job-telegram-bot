@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T08:23:22.516280",
-  "slot": "morning",
+  "updated_at": "2026-08-27T22:10:35.471982",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-21)"
+        "Posted 7 days ago (2026-08-21)"
       ]
     },
     {
       "rank": 2,
+      "title": "Human Resources & Administration Officer",
+      "company": "Medifast (Hong Kong) Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94245355",
+      "posted_date": "2026-08-27",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-08-27)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -25,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-24)"
+        "Posted 4 days ago (2026-08-24)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-24)"
+        "Posted 4 days ago (2026-08-24)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -51,20 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-25)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "HR Officer, Business Partnering",
-      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94137425",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-08-21)"
+        "Posted 3 days ago (2026-08-25)"
       ]
     },
     {
@@ -77,11 +77,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-20)"
+        "Posted 8 days ago (2026-08-20)"
       ]
     },
     {
       "rank": 7,
+      "title": "HR Officer, Business Partnering",
+      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94137425",
+      "posted_date": "2026-08-21",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior Human Resources Officer (C&B)",
       "company": "Florens Asset Management Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-20)"
+        "Posted 8 days ago (2026-08-20)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "HR & Administration Officer",
       "company": "Grand Hub Capital Co. Limited",
       "location": "Central, Central and Western District",
@@ -104,11 +117,11 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 7 days ago (2026-08-20)"
+        "Posted 8 days ago (2026-08-20)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Human Resources Officer - Payroll",
       "company": "MM HK Retail Limited",
       "location": "Quarry Bay, Eastern District",
@@ -118,19 +131,7 @@
       "reasons": [
         "salary below target ($22,000)",
         "preferred location",
-        "Posted 5 days ago (2026-08-22)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior HR Officer",
-      "company": "Forex Forest Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94099465",
-      "posted_date": "2026-08-20",
-      "score": 5,
-      "reasons": [
-        "Posted 7 days ago (2026-08-20)"
+        "Posted 6 days ago (2026-08-22)"
       ]
     }
   ]
