@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T22:10:35.471982",
-  "slot": "evening",
+  "updated_at": "2026-08-28T10:24:23.666775",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -17,6 +17,19 @@
     },
     {
       "rank": 2,
+      "title": "Human Resources Officer",
+      "company": "Schindler Lifts (HK) Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94261840",
+      "posted_date": "2026-08-28",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-08-28)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -52,19 +65,6 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-08-24)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-25",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-08-25)"
       ]
     },
     {
@@ -82,15 +82,15 @@
     },
     {
       "rank": 7,
-      "title": "HR Officer, Business Partnering",
-      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94137425",
-      "posted_date": "2026-08-21",
+      "url": "https://hk.jobsdb.com/job/93845191",
+      "posted_date": "2026-08-25",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-21)"
+        "Posted 3 days ago (2026-08-25)"
       ]
     },
     {
@@ -108,6 +108,19 @@
     },
     {
       "rank": 9,
+      "title": "HR Officer, Business Partnering",
+      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94137425",
+      "posted_date": "2026-08-21",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "HR & Administration Officer",
       "company": "Grand Hub Capital Co. Limited",
       "location": "Central, Central and Western District",
@@ -118,20 +131,6 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 8 days ago (2026-08-20)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer - Payroll",
-      "company": "MM HK Retail Limited",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94143477",
-      "posted_date": "2026-08-22",
-      "score": 7,
-      "reasons": [
-        "salary below target ($22,000)",
-        "preferred location",
-        "Posted 6 days ago (2026-08-22)"
       ]
     }
   ]
