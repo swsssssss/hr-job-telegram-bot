@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T10:24:23.666775",
-  "slot": "morning",
+  "updated_at": "2026-08-28T22:10:38.098728",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-21)"
+        "Posted 8 days ago (2026-08-21)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-08-28)"
+        "Posted 1 day ago (2026-08-28)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-27)"
+        "Posted 2 days ago (2026-08-27)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-24)"
+        "Posted 5 days ago (2026-08-24)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-24)"
+        "Posted 5 days ago (2026-08-24)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-20)"
+        "Posted 9 days ago (2026-08-20)"
       ]
     },
     {
@@ -90,24 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-25)"
+        "Posted 4 days ago (2026-08-25)"
       ]
     },
     {
       "rank": 8,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94108209",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-08-20)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "HR Officer, Business Partnering",
       "company": "The Boys' and Girls' Clubs Association of Hong Kong",
       "location": "Wan Chai District",
@@ -116,7 +103,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-21)"
+        "Posted 8 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Human Resources Officer (C&B)",
+      "company": "Florens Asset Management Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94108209",
+      "posted_date": "2026-08-20",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-08-20)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 8 days ago (2026-08-20)"
+        "Posted 9 days ago (2026-08-20)"
       ]
     }
   ]
