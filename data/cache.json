@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T22:10:38.098728",
-  "slot": "evening",
+  "updated_at": "2026-08-29T06:24:48.514509",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -69,19 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "HR and Administration Officer",
-      "company": "PATRONS SECURITIES LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94095715",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-20)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -91,6 +78,19 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-08-25)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "HR and Administration Officer",
+      "company": "PATRONS SECURITIES LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94095715",
+      "posted_date": "2026-08-20",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-08-20)"
       ]
     },
     {
