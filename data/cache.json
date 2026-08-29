@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T06:24:48.514509",
-  "slot": "morning",
+  "updated_at": "2026-08-29T16:38:05.846938",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-21)"
+        "Posted 9 days ago (2026-08-21)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-28)"
+        "Posted 2 days ago (2026-08-28)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-27)"
+        "Posted 3 days ago (2026-08-27)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-24)"
+        "Posted 6 days ago (2026-08-24)"
       ]
     },
     {
@@ -64,37 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-24)"
+        "Posted 6 days ago (2026-08-24)"
       ]
     },
     {
       "rank": 6,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-25",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-08-25)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "HR and Administration Officer",
-      "company": "PATRONS SECURITIES LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94095715",
-      "posted_date": "2026-08-20",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-20)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "HR Officer, Business Partnering",
       "company": "The Boys' and Girls' Clubs Association of Hong Kong",
       "location": "Wan Chai District",
@@ -103,34 +77,58 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-21)"
+        "Posted 9 days ago (2026-08-21)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93845191",
+      "posted_date": "2026-08-25",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-08-25)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer - Payroll",
+      "company": "MM HK Retail Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94143477",
+      "posted_date": "2026-08-22",
+      "score": 7,
+      "reasons": [
+        "salary below target ($22,000)",
+        "preferred location",
+        "Posted 8 days ago (2026-08-22)"
       ]
     },
     {
       "rank": 9,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Florens Asset Management Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94108209",
-      "posted_date": "2026-08-20",
-      "score": 12,
+      "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
+      "company": "Vaform (HK) Company",
+      "location": "Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94281908",
+      "posted_date": "2026-08-28",
+      "score": 5,
       "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-20)"
+        "Posted 2 days ago (2026-08-28)"
       ]
     },
     {
       "rank": 10,
-      "title": "HR & Administration Officer",
-      "company": "Grand Hub Capital Co. Limited",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94090387",
-      "posted_date": "2026-08-20",
-      "score": 7,
+      "title": "HR Officer",
+      "company": "Geek Miracle HK Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94242530",
+      "posted_date": "2026-08-27",
+      "score": 2,
       "reasons": [
-        "salary below target ($25,000)",
-        "preferred location",
-        "Posted 9 days ago (2026-08-20)"
+        "Posted 3 days ago (2026-08-27)"
       ]
     }
   ]
