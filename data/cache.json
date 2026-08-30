@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-08-30T04:35:11.420906",
-  "slot": "morning",
+  "updated_at": "2026-08-30T16:33:23.916217",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior HR Officer (Apac coverage)",
-      "company": "ESW HOLDINGS PTE. LTD.",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94126150",
-      "posted_date": "2026-08-21",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-21)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -25,11 +12,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-28)"
+        "Posted 3 days ago (2026-08-28)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -38,11 +25,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-27)"
+        "Posted 4 days ago (2026-08-27)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -51,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-24)"
+        "Posted 7 days ago (2026-08-24)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Nam Kee Spring Roll Noodle Company Limited",
       "location": "Aberdeen, Southern District",
@@ -64,24 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-24)"
+        "Posted 7 days ago (2026-08-24)"
       ]
     },
     {
-      "rank": 6,
-      "title": "HR Officer, Business Partnering",
-      "company": "The Boys' and Girls' Clubs Association of Hong Kong",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94137425",
-      "posted_date": "2026-08-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-21)"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -90,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-25)"
+        "Posted 6 days ago (2026-08-25)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Human Resources Officer - Payroll",
       "company": "MM HK Retail Limited",
       "location": "Quarry Bay, Eastern District",
@@ -104,11 +78,11 @@
       "reasons": [
         "salary below target ($22,000)",
         "preferred location",
-        "Posted 8 days ago (2026-08-22)"
+        "Posted 9 days ago (2026-08-22)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -116,11 +90,11 @@
       "posted_date": "2026-08-28",
       "score": 5,
       "reasons": [
-        "Posted 2 days ago (2026-08-28)"
+        "Posted 3 days ago (2026-08-28)"
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "HR Officer",
       "company": "Geek Miracle HK Limited",
       "location": "Hung Hom, Kowloon City District",
@@ -128,7 +102,31 @@
       "posted_date": "2026-08-27",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-08-27)"
+        "Posted 4 days ago (2026-08-27)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
+      "company": "Hutchison Property Group Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94221184",
+      "posted_date": "2026-08-26",
+      "score": 2,
+      "reasons": [
+        "Posted 5 days ago (2026-08-26)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior Human Resources and Administration Officer",
+      "company": "Solomon Systech Limited",
+      "location": "Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/94262735",
+      "posted_date": "2026-08-28",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-08-28)"
       ]
     }
   ]
