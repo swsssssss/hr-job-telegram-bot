@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T16:33:23.916217",
-  "slot": "evening",
+  "updated_at": "2026-08-31T04:39:36.871131",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -69,20 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "Human Resources Officer - Payroll",
-      "company": "MM HK Retail Limited",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94143477",
-      "posted_date": "2026-08-22",
-      "score": 7,
-      "reasons": [
-        "salary below target ($22,000)",
-        "preferred location",
-        "Posted 9 days ago (2026-08-22)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -91,6 +77,18 @@
       "score": 5,
       "reasons": [
         "Posted 3 days ago (2026-08-28)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources and Administration Officer",
+      "company": "Puguangming Temple Limited",
+      "location": "Tai Wai, Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/94078746",
+      "posted_date": "2026-08-31",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-08-31)"
       ]
     },
     {
