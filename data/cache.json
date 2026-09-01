@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T04:20:25.200759",
-  "slot": "morning",
+  "updated_at": "2026-09-01T16:29:06.964926",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-08-31)"
+        "Posted 2 days ago (2026-08-31)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-28)"
+        "Posted 5 days ago (2026-08-28)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-27)"
+        "Posted 6 days ago (2026-08-27)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-24)"
+        "Posted 9 days ago (2026-08-24)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-24)"
+        "Posted 9 days ago (2026-08-24)"
       ]
     },
     {
@@ -77,11 +77,23 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-25)"
+        "Posted 8 days ago (2026-08-25)"
       ]
     },
     {
       "rank": 7,
+      "title": "Senior HR & Administration Officer",
+      "company": "Forex Forest Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94331800",
+      "posted_date": "2026-09-01",
+      "score": 5,
+      "reasons": [
+        "Posted 1 day ago (2026-09-01)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -89,43 +101,31 @@
       "posted_date": "2026-08-28",
       "score": 5,
       "reasons": [
-        "Posted 4 days ago (2026-08-28)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Human Resources Officer - C&B",
-      "company": "Canon Hongkong Company Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/93865472",
-      "posted_date": "2026-09-01",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-09-01)"
+        "Posted 5 days ago (2026-08-28)"
       ]
     },
     {
       "rank": 9,
-      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
-      "company": "Hutchison Property Group Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/94221184",
-      "posted_date": "2026-08-26",
+      "title": "Human Resources Officer",
+      "company": "West Kowloon Cultural District Authority",
+      "location": "West Kowloon Cultural District, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/93844122",
+      "posted_date": "2026-09-01",
       "score": 2,
       "reasons": [
-        "Posted 6 days ago (2026-08-26)"
+        "Posted 1 day ago (2026-09-01)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources and Administration Officer",
-      "company": "Puguangming Temple Limited",
-      "location": "Tai Wai, Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/94078746",
-      "posted_date": "2026-08-31",
+      "title": "Human Resources Officer (Compensation & Benefits)",
+      "company": "Citybase Property Management Ltd",
+      "location": "Tai Kok Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94342464",
+      "posted_date": "2026-09-01",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-08-31)"
+        "Posted 1 day ago (2026-09-01)"
       ]
     }
   ]
