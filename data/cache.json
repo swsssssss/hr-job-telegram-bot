@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T19:04:44.943018",
-  "slot": "evening",
+  "updated_at": "2026-09-01T04:20:25.200759",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -94,14 +94,14 @@
     },
     {
       "rank": 8,
-      "title": "Human Resources and Administration Officer",
-      "company": "Puguangming Temple Limited",
-      "location": "Tai Wai, Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/94078746",
-      "posted_date": "2026-08-31",
+      "title": "Human Resources Officer - C&B",
+      "company": "Canon Hongkong Company Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/93865472",
+      "posted_date": "2026-09-01",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-08-31)"
+        "Posted today (2026-09-01)"
       ]
     },
     {
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources and Administration Officer",
-      "company": "Solomon Systech Limited",
-      "location": "Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/94262735",
-      "posted_date": "2026-08-28",
+      "title": "Human Resources and Administration Officer",
+      "company": "Puguangming Temple Limited",
+      "location": "Tai Wai, Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/94078746",
+      "posted_date": "2026-08-31",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-08-28)"
+        "Posted 1 day ago (2026-08-31)"
       ]
     }
   ]
