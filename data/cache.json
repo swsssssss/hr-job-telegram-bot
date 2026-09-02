@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T16:29:06.964926",
-  "slot": "evening",
+  "updated_at": "2026-09-02T03:43:21.510843",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -17,6 +17,19 @@
     },
     {
       "rank": 2,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94353054",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-02)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -42,33 +55,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94174508",
-      "posted_date": "2026-08-24",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-24)"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Human Resources Officer",
-      "company": "Nam Kee Spring Roll Noodle Company Limited",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/94172289",
-      "posted_date": "2026-08-24",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-24)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -81,7 +68,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Senior HR & Administration Officer",
       "company": "Forex Forest Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -93,7 +80,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -105,7 +92,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Human Resources Officer",
       "company": "West Kowloon Cultural District Authority",
       "location": "West Kowloon Cultural District, Yau Tsim Mong District",
@@ -117,11 +104,23 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Human Resources Officer (Compensation & Benefits)",
       "company": "Citybase Property Management Ltd",
       "location": "Tai Kok Tsui, Yau Tsim Mong District",
       "url": "https://hk.jobsdb.com/job/94342464",
+      "posted_date": "2026-09-01",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-09-01)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior Human Resources Officer/Officer",
+      "company": "Maxim’s Caterers Limited (Food Manufacturing Department)",
+      "location": "Tai Po Industrial Estate, Tai Po District",
+      "url": "https://hk.jobsdb.com/job/93983939",
       "posted_date": "2026-09-01",
       "score": 2,
       "reasons": [
