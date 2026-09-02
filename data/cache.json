@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T03:43:21.510843",
-  "slot": "morning",
+  "updated_at": "2026-09-02T16:27:16.235585",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-08-31)"
+        "Posted 3 days ago (2026-08-31)"
       ]
     },
     {
@@ -25,11 +25,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-02)"
+        "Posted 1 day ago (2026-09-02)"
       ]
     },
     {
       "rank": 3,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93728744",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-02)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-08-28)"
+        "Posted 6 days ago (2026-08-28)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -51,11 +64,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-27)"
+        "Posted 7 days ago (2026-08-27)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Human Resources Officer (Office Payroll)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94264644",
+      "posted_date": "2026-08-28",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-08-28)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -64,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-25)"
+        "Posted 9 days ago (2026-08-25)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Senior HR & Administration Officer",
       "company": "Forex Forest Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -76,11 +102,11 @@
       "posted_date": "2026-09-01",
       "score": 5,
       "reasons": [
-        "Posted 1 day ago (2026-09-01)"
+        "Posted 2 days ago (2026-09-01)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -88,43 +114,19 @@
       "posted_date": "2026-08-28",
       "score": 5,
       "reasons": [
-        "Posted 5 days ago (2026-08-28)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Human Resources Officer",
-      "company": "West Kowloon Cultural District Authority",
-      "location": "West Kowloon Cultural District, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/93844122",
-      "posted_date": "2026-09-01",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-01)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer (Compensation & Benefits)",
-      "company": "Citybase Property Management Ltd",
-      "location": "Tai Kok Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94342464",
-      "posted_date": "2026-09-01",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-01)"
+        "Posted 6 days ago (2026-08-28)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer/Officer",
-      "company": "Maxim’s Caterers Limited (Food Manufacturing Department)",
-      "location": "Tai Po Industrial Estate, Tai Po District",
-      "url": "https://hk.jobsdb.com/job/93983939",
-      "posted_date": "2026-09-01",
+      "title": "Human Resources Officer",
+      "company": "Hsin Chong Aster Building Services Limited",
+      "location": "Ngau Tau Kok, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94359443",
+      "posted_date": "2026-09-02",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-09-01)"
+        "Posted 1 day ago (2026-09-02)"
       ]
     }
   ]
