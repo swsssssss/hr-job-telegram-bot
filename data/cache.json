@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T16:27:16.235585",
-  "slot": "evening",
+  "updated_at": "2026-09-03T03:41:52.777357",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -17,32 +17,19 @@
     },
     {
       "rank": 2,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94353054",
-      "posted_date": "2026-09-02",
-      "score": 12,
+      "title": "Senior HR Officer (C&B - Reporting / with Regional exp)",
+      "company": "Headsearch21 Consultancy Ltd",
+      "location": "Hong Kong SAR",
+      "url": "https://hk.jobsdb.com/job/94386049",
+      "posted_date": "2026-09-03",
+      "score": 13,
       "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-02)"
+        "salary ~$32,000",
+        "Posted today (2026-09-03)"
       ]
     },
     {
       "rank": 3,
-      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
-      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93728744",
-      "posted_date": "2026-09-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-02)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 6 days ago (2026-08-28)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93728744",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-02)"
       ]
     },
     {
@@ -69,6 +69,32 @@
     },
     {
       "rank": 6,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94353054",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-02)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "HR & Administration Officer",
+      "company": "Aermax Co., Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94206516",
+      "posted_date": "2026-08-26",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 8 days ago (2026-08-26)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Human Resources Officer (Office Payroll)",
       "company": "Fairwood Fast Food Ltd",
       "location": "North Point, Eastern District",
@@ -81,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -94,7 +120,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Senior HR & Administration Officer",
       "company": "Forex Forest Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -103,30 +129,6 @@
       "score": 5,
       "reasons": [
         "Posted 2 days ago (2026-09-01)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
-      "company": "Vaform (HK) Company",
-      "location": "Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94281908",
-      "posted_date": "2026-08-28",
-      "score": 5,
-      "reasons": [
-        "Posted 6 days ago (2026-08-28)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer",
-      "company": "Hsin Chong Aster Building Services Limited",
-      "location": "Ngau Tau Kok, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/94359443",
-      "posted_date": "2026-09-02",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-02)"
       ]
     }
   ]
