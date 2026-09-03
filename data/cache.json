@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T03:41:52.777357",
-  "slot": "morning",
+  "updated_at": "2026-09-03T16:17:49.592632",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-08-31)"
+        "Posted 4 days ago (2026-08-31)"
       ]
     },
     {
@@ -25,11 +25,24 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted today (2026-09-03)"
+        "Posted 1 day ago (2026-09-03)"
       ]
     },
     {
       "rank": 3,
+      "title": "Officer (Human Resources & Administration)",
+      "company": "The Board of Management of The Chinese Permanent Cemeteries",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94393576",
+      "posted_date": "2026-09-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-03)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -38,20 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-28)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
-      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93728744",
-      "posted_date": "2026-09-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-02)"
+        "Posted 7 days ago (2026-08-28)"
       ]
     },
     {
@@ -64,11 +64,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-27)"
+        "Posted 8 days ago (2026-08-27)"
       ]
     },
     {
       "rank": 6,
+      "title": "Senior Human Resources Officer (C&B)",
+      "company": "Forthright Financial Holdings Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94380585",
+      "posted_date": "2026-09-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-03)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -77,11 +90,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-02)"
+        "Posted 2 days ago (2026-09-02)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93728744",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-09-02)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "HR & Administration Officer",
       "company": "Aermax Co., Limited",
       "location": "Central, Central and Western District",
@@ -90,11 +116,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-26)"
+        "Posted 9 days ago (2026-08-26)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Human Resources Officer (Office Payroll)",
       "company": "Fairwood Fast Food Ltd",
       "location": "North Point, Eastern District",
@@ -103,32 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-28)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93845191",
-      "posted_date": "2026-08-25",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-25)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior HR & Administration Officer",
-      "company": "Forex Forest Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94331800",
-      "posted_date": "2026-09-01",
-      "score": 5,
-      "reasons": [
-        "Posted 2 days ago (2026-09-01)"
+        "Posted 7 days ago (2026-08-28)"
       ]
     }
   ]
