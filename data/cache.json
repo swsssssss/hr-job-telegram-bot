@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T03:43:37.175431",
-  "slot": "morning",
+  "updated_at": "2026-09-04T16:13:11.077924",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-04)"
+        "Posted 1 day ago (2026-09-04)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-08-31)"
+        "Posted 5 days ago (2026-08-31)"
       ]
     },
     {
@@ -38,20 +38,20 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted 1 day ago (2026-09-03)"
+        "Posted 2 days ago (2026-09-03)"
       ]
     },
     {
       "rank": 4,
-      "title": "Officer (Human Resources & Administration)",
-      "company": "The Board of Management of The Chinese Permanent Cemeteries",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94393576",
-      "posted_date": "2026-09-03",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-03)"
+        "Posted 1 day ago (2026-09-04)"
       ]
     },
     {
@@ -64,11 +64,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-28)"
+        "Posted 8 days ago (2026-08-28)"
       ]
     },
     {
       "rank": 6,
+      "title": "Officer (Human Resources & Administration)",
+      "company": "The Board of Management of The Chinese Permanent Cemeteries",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94393576",
+      "posted_date": "2026-09-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-09-03)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-08-27)"
+        "Posted 9 days ago (2026-08-27)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-02)"
+        "Posted 3 days ago (2026-09-02)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Senior Human Resources Officer (C&B)",
       "company": "Forthright Financial Holdings Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -103,20 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-03)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
-      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93728744",
-      "posted_date": "2026-09-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-09-02)"
+        "Posted 2 days ago (2026-09-03)"
       ]
     },
     {
@@ -129,7 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-08-28)"
+        "Posted 8 days ago (2026-08-28)"
       ]
     }
   ]
