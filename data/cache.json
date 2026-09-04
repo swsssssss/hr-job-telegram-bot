@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-09-03T16:17:49.592632",
-  "slot": "evening",
+  "updated_at": "2026-09-04T03:43:37.175431",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer/HR Officer, Payroll and Servicing, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94413799",
+      "posted_date": "2026-09-04",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-04)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Senior HR and Admin Officer",
       "company": "Animals Asia Foundation Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -16,7 +29,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Senior HR Officer (C&B - Reporting / with Regional exp)",
       "company": "Headsearch21 Consultancy Ltd",
       "location": "Hong Kong SAR",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Officer (Human Resources & Administration)",
       "company": "The Board of Management of The Chinese Permanent Cemeteries",
       "location": "Wan Chai, Wan Chai District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Human Resources & Administration Officer",
       "company": "Medifast (Hong Kong) Limited",
       "location": "Central, Central and Western District",
@@ -65,19 +78,6 @@
       "reasons": [
         "preferred location",
         "Posted 8 days ago (2026-08-27)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Forthright Financial Holdings Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94380585",
-      "posted_date": "2026-09-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-03)"
       ]
     },
     {
@@ -95,6 +95,19 @@
     },
     {
       "rank": 8,
+      "title": "Senior Human Resources Officer (C&B)",
+      "company": "Forthright Financial Holdings Company Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94380585",
+      "posted_date": "2026-09-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-03)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
       "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -104,19 +117,6 @@
       "reasons": [
         "preferred location",
         "Posted 2 days ago (2026-09-02)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "HR & Administration Officer",
-      "company": "Aermax Co., Limited",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94206516",
-      "posted_date": "2026-08-26",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-26)"
       ]
     },
     {
