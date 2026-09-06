@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T03:45:36.760532",
-  "slot": "morning",
+  "updated_at": "2026-09-06T15:21:30.414930",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -121,13 +121,14 @@
     },
     {
       "rank": 10,
-      "title": "Senior HR Officer (HR Analytic / C&B Reporting)",
-      "company": "Vaform (HK) Company",
-      "location": "Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94281908",
+      "title": "Human Resources Officer (Office Payroll)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94264644",
       "posted_date": "2026-08-28",
-      "score": 5,
+      "score": 12,
       "reasons": [
+        "preferred location",
         "Posted 9 days ago (2026-08-28)"
       ]
     }
