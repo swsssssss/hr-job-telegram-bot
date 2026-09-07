@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T15:21:30.414930",
-  "slot": "evening",
+  "updated_at": "2026-09-07T03:44:41.266305",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-04)"
+        "Posted 3 days ago (2026-09-04)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-08-31)"
+        "Posted 7 days ago (2026-08-31)"
       ]
     },
     {
@@ -38,20 +38,20 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted 3 days ago (2026-09-03)"
+        "Posted 4 days ago (2026-09-03)"
       ]
     },
     {
       "rank": 4,
-      "title": "Human Resources Officer",
-      "company": "Schindler Lifts (HK) Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94261840",
-      "posted_date": "2026-08-28",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-08-28)"
+        "Posted 3 days ago (2026-09-04)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-02)"
+        "Posted 5 days ago (2026-09-02)"
       ]
     },
     {
@@ -77,24 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-03)"
+        "Posted 4 days ago (2026-09-03)"
       ]
     },
     {
       "rank": 7,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Senior Human Resources Officer (HR Reporting/Analytics)",
       "company": "Forsters & Company",
       "location": "Causeway Bay, Wan Chai District",
@@ -103,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-04)"
+        "Posted 3 days ago (2026-09-04)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Senior Human Resources Officer (C&B)",
       "company": "Forthright Financial Holdings Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -116,20 +103,32 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-03)"
+        "Posted 4 days ago (2026-09-03)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/93728744",
+      "posted_date": "2026-09-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-09-02)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer (Office Payroll)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94264644",
-      "posted_date": "2026-08-28",
-      "score": 12,
+      "title": "Senior HR & Administration Officer",
+      "company": "Forex Forest Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94331800",
+      "posted_date": "2026-09-01",
+      "score": 5,
       "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-08-28)"
+        "Posted 6 days ago (2026-09-01)"
       ]
     }
   ]
