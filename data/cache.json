@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T17:40:41.007433",
-  "slot": "evening",
+  "updated_at": "2026-09-08T03:49:32.257050",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -43,6 +43,32 @@
     },
     {
       "rank": 4,
+      "title": "(Senior) HR and Administration Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94480219",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-08)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94478713",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-08)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
       "location": "Central and Western District",
@@ -52,32 +78,6 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94353054",
-      "posted_date": "2026-09-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-09-02)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "HR and Administrative Assistant / Officer",
-      "company": "Jun He Law Offices",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94466146",
-      "posted_date": "2026-09-07",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-07)"
       ]
     },
     {
@@ -95,6 +95,19 @@
     },
     {
       "rank": 8,
+      "title": "HR and Administrative Assistant / Officer",
+      "company": "Jun He Law Offices",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94466146",
+      "posted_date": "2026-09-07",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-07)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Senior Human Resources Officer (HR Reporting/Analytics)",
       "company": "Forsters & Company",
       "location": "Causeway Bay, Wan Chai District",
@@ -107,7 +120,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Senior Human Resources Officer (C&B)",
       "company": "Forthright Financial Holdings Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -117,19 +130,6 @@
       "reasons": [
         "preferred location",
         "Posted 5 days ago (2026-09-03)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
-      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/93728744",
-      "posted_date": "2026-09-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-09-02)"
       ]
     }
   ]
