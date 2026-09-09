@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T16:30:47.154019",
-  "slot": "evening",
+  "updated_at": "2026-09-09T03:54:28.750780",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -43,19 +43,6 @@
     },
     {
       "rank": 4,
-      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
-      "company": "EC Healthcare",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94502202",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-08)"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -68,11 +55,11 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "(Senior) HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94480219",
+      "rank": 5,
+      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
+      "company": "EC Healthcare",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94502202",
       "posted_date": "2026-09-08",
       "score": 12,
       "reasons": [
@@ -81,7 +68,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
       "location": "Central and Western District",
@@ -91,6 +78,19 @@
       "reasons": [
         "preferred location",
         "Posted 5 days ago (2026-09-04)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "(Senior) HR and Administration Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94480219",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-08)"
       ]
     },
     {
