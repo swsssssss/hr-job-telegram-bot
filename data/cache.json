@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T03:53:30.791538",
-  "slot": "morning",
+  "updated_at": "2026-09-10T16:16:31.624710",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-04)"
+        "Posted 7 days ago (2026-09-04)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted 7 days ago (2026-09-03)"
+        "Posted 8 days ago (2026-09-03)"
       ]
     },
     {
@@ -38,20 +38,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-10)"
+        "Posted 1 day ago (2026-09-10)"
       ]
     },
     {
       "rank": 4,
-      "title": "Human Resources Officer/Manager",
-      "company": "ihD Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94538848",
-      "posted_date": "2026-09-10",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-10)"
+        "Posted 7 days ago (2026-09-04)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-08)"
+        "Posted 3 days ago (2026-09-08)"
       ]
     },
     {
       "rank": 6,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -90,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-08)"
+        "Posted 3 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -103,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-08)"
+        "Posted 3 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Officer (Human Resources & Administration)",
       "company": "The Board of Management of The Chinese Permanent Cemeteries",
       "location": "Wan Chai, Wan Chai District",
@@ -116,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-03)"
+        "Posted 8 days ago (2026-09-03)"
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "HR and Administrative Assistant / Officer",
       "company": "Jun He Law Offices",
       "location": "Central, Central and Western District",
@@ -129,7 +116,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-07)"
+        "Posted 4 days ago (2026-09-07)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer/Manager",
+      "company": "ihD Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94538848",
+      "posted_date": "2026-09-10",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-10)"
       ]
     }
   ]
