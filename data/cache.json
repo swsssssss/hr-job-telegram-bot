@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T03:49:42.709729",
-  "slot": "morning",
+  "updated_at": "2026-09-11T16:20:35.420543",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-04)"
+        "Posted 8 days ago (2026-09-04)"
       ]
     },
     {
@@ -25,11 +25,24 @@
       "score": 13,
       "reasons": [
         "salary ~$32,000",
-        "Posted 8 days ago (2026-09-03)"
+        "Posted 9 days ago (2026-09-03)"
       ]
     },
     {
       "rank": 3,
+      "title": "Senior Human Resources Officer / Human Resources Officer",
+      "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94583851",
+      "posted_date": "2026-09-11",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-11)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Senior Human Resources Officer",
       "company": "Changjiang Securities International Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -38,20 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-10)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-09-04)"
+        "Posted 2 days ago (2026-09-10)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-08)"
+        "Posted 4 days ago (2026-09-08)"
       ]
     },
     {
@@ -77,11 +77,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-08)"
+        "Posted 4 days ago (2026-09-08)"
       ]
     },
     {
       "rank": 7,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 8 days ago (2026-09-04)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Officer (Human Resources & Administration)",
       "company": "The Board of Management of The Chinese Permanent Cemeteries",
       "location": "Wan Chai, Wan Chai District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-03)"
+        "Posted 9 days ago (2026-09-03)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "HR Officer, Total Rewards (C&B, Payroll function)",
       "company": "EC Healthcare",
       "location": "Quarry Bay, Eastern District",
@@ -103,11 +116,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-08)"
+        "Posted 4 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "HR and Administrative Assistant / Officer",
       "company": "Jun He Law Offices",
       "location": "Central, Central and Western District",
@@ -116,20 +129,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-07)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Human Resources Officer (C&B)",
-      "company": "Forthright Financial Holdings Company Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94380585",
-      "posted_date": "2026-09-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-09-03)"
+        "Posted 5 days ago (2026-09-07)"
       ]
     }
   ]
