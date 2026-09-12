@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T16:20:35.420543",
-  "slot": "evening",
+  "updated_at": "2026-09-12T03:52:44.818994",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -56,15 +56,15 @@
     },
     {
       "rank": 5,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
       "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94478713",
-      "posted_date": "2026-09-08",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-08)"
+        "Posted 8 days ago (2026-09-04)"
       ]
     },
     {
@@ -82,15 +82,15 @@
     },
     {
       "rank": 7,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
+      "url": "https://hk.jobsdb.com/job/94478713",
+      "posted_date": "2026-09-08",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-04)"
+        "Posted 4 days ago (2026-09-08)"
       ]
     },
     {
