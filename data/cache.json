@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T03:52:44.818994",
+  "updated_at": "2026-09-13T04:00:59.091506",
   "slot": "morning",
   "jobs": [
     {
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-04)"
+        "Posted 9 days ago (2026-09-04)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior HR Officer (C&B - Reporting / with Regional exp)",
-      "company": "Headsearch21 Consultancy Ltd",
-      "location": "Hong Kong SAR",
-      "url": "https://hk.jobsdb.com/job/94386049",
-      "posted_date": "2026-09-03",
-      "score": 13,
-      "reasons": [
-        "salary ~$32,000",
-        "Posted 9 days ago (2026-09-03)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Senior Human Resources Officer / Human Resources Officer",
       "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
       "location": "Wan Chai District",
@@ -38,7 +25,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-11)"
+        "Posted 2 days ago (2026-09-11)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94427738",
+      "posted_date": "2026-09-04",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-09-04)"
       ]
     },
     {
@@ -51,24 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-10)"
+        "Posted 3 days ago (2026-09-10)"
       ]
     },
     {
       "rank": 5,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -77,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-08)"
+        "Posted 5 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -90,37 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-08)"
+        "Posted 5 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 8,
-      "title": "Officer (Human Resources & Administration)",
-      "company": "The Board of Management of The Chinese Permanent Cemeteries",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94393576",
-      "posted_date": "2026-09-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-03)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
-      "company": "EC Healthcare",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94502202",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-09-08)"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "title": "HR and Administrative Assistant / Officer",
       "company": "Jun He Law Offices",
       "location": "Central, Central and Western District",
@@ -129,7 +90,45 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-07)"
+        "Posted 6 days ago (2026-09-07)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
+      "company": "EC Healthcare",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94502202",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-09-08)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Human Resources Officer (HR Reporting/Analytics)",
+      "company": "Forsters & Company",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94432773",
+      "posted_date": "2026-09-04",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-09-04)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer",
+      "company": "Wharf Hotels Management Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94569633",
+      "posted_date": "2026-09-11",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-09-11)"
       ]
     }
   ]
