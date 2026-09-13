@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-09-13T04:00:59.091506",
-  "slot": "morning",
+  "updated_at": "2026-09-13T16:05:43.354404",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior HR Officer/HR Officer, Payroll and Servicing, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94413799",
-      "posted_date": "2026-09-04",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Senior Human Resources Officer / Human Resources Officer",
       "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
       "location": "Wan Chai District",
@@ -25,24 +12,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-11)"
+        "Posted 3 days ago (2026-09-11)"
       ]
     },
     {
-      "rank": 3,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Young Women's Christian Association 香港基督教女青年會",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94427738",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "Senior Human Resources Officer",
       "company": "Changjiang Securities International Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -51,24 +25,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-10)"
+        "Posted 4 days ago (2026-09-10)"
       ]
     },
     {
-      "rank": 5,
-      "title": "(Senior) HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94480219",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-09-08)"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -77,11 +38,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-08)"
+        "Posted 6 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "(Senior) HR and Administration Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94480219",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-09-08)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "HR and Administrative Assistant / Officer",
       "company": "Jun He Law Offices",
       "location": "Central, Central and Western District",
@@ -90,37 +64,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-07)"
+        "Posted 7 days ago (2026-09-07)"
       ]
     },
     {
-      "rank": 8,
-      "title": "HR Officer, Total Rewards (C&B, Payroll function)",
-      "company": "EC Healthcare",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94502202",
-      "posted_date": "2026-09-08",
-      "score": 12,
+      "rank": 6,
+      "title": "Human Resources and Admin. Manager / Sr. HR Officer",
+      "company": "RecruitPRO Consultancy Hong Kong Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94467387",
+      "posted_date": "2026-09-07",
+      "score": 10,
       "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-09-08)"
+        "salary ~$36,000",
+        "Posted 7 days ago (2026-09-07)"
       ]
     },
     {
-      "rank": 9,
-      "title": "Senior Human Resources Officer (HR Reporting/Analytics)",
-      "company": "Forsters & Company",
-      "location": "Causeway Bay, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94432773",
-      "posted_date": "2026-09-04",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-04)"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "title": "Human Resources Officer",
       "company": "Wharf Hotels Management Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -128,7 +89,43 @@
       "posted_date": "2026-09-11",
       "score": 2,
       "reasons": [
-        "Posted 2 days ago (2026-09-11)"
+        "Posted 3 days ago (2026-09-11)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "HR Officer",
+      "company": "Geek Miracle HK Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94539324",
+      "posted_date": "2026-09-10",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-09-10)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Human Resources Officer",
+      "company": "Li Ning Sports (Hong Kong) Co Ltd",
+      "location": "Fortress Hill, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94545314",
+      "posted_date": "2026-09-10",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-09-10)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources and Administration Officer",
+      "company": "TSL Jewellery (H.K.) Co. Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94539681",
+      "posted_date": "2026-09-10",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-09-10)"
       ]
     }
   ]
