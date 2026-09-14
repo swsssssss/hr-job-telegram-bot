@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-14T04:09:08.417799",
-  "slot": "morning",
+  "updated_at": "2026-09-14T18:00:57.829886",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Officer, HR & Admin",
-      "company": "PATRONS SECURITIES LIMITED",
+      "title": "HR Officer",
+      "company": "China P & I Services (Hong Kong) Limited",
       "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94607299",
+      "url": "https://hk.jobsdb.com/job/94620615",
       "posted_date": "2026-09-14",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-14)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-14)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     },
     {
@@ -38,20 +38,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-11)"
+        "Posted 4 days ago (2026-09-11)"
       ]
     },
     {
       "rank": 4,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94478713",
-      "posted_date": "2026-09-08",
+      "title": "Officer, HR & Admin",
+      "company": "PATRONS SECURITIES LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94607299",
+      "posted_date": "2026-09-14",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-08)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     },
     {
@@ -64,43 +64,44 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-08)"
+        "Posted 7 days ago (2026-09-08)"
       ]
     },
     {
       "rank": 6,
-      "title": "Senior Human Resources Officer/Officer",
-      "company": "Maxim’s Caterers Limited (Food Manufacturing Department)",
-      "location": "Tai Po Industrial Estate, Tai Po District",
-      "url": "https://hk.jobsdb.com/job/94603972",
-      "posted_date": "2026-09-14",
-      "score": 2,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94478713",
+      "posted_date": "2026-09-08",
+      "score": 12,
       "reasons": [
-        "Posted today (2026-09-14)"
+        "preferred location",
+        "Posted 7 days ago (2026-09-08)"
       ]
     },
     {
       "rank": 7,
-      "title": "(Senior) Human Resources Officer (C & B)",
-      "company": "Kai Fu Property Services Co Ltd",
-      "location": "San Po Kong, Wong Tai Sin District",
-      "url": "https://hk.jobsdb.com/job/94605092",
+      "title": "Human Resources Officer",
+      "company": "Wilson Communications Limited",
+      "location": "Kwai Fong, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/94617913",
       "posted_date": "2026-09-14",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-14)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     },
     {
       "rank": 8,
-      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
-      "company": "Hutchison Property Group Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/94603743",
+      "title": "Officer - Human Resources (1-year contract)",
+      "company": "Hang Lung Properties Limited",
+      "location": "Mong Kok, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94621632",
       "posted_date": "2026-09-14",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-14)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     },
     {
@@ -112,19 +113,19 @@
       "posted_date": "2026-09-11",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-09-11)"
+        "Posted 4 days ago (2026-09-11)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer",
-      "company": "Li Ning Sports (Hong Kong) Co Ltd",
-      "location": "Fortress Hill, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94545314",
-      "posted_date": "2026-09-10",
+      "title": "(Senior) Human Resources Officer (C & B)",
+      "company": "Kai Fu Property Services Co Ltd",
+      "location": "San Po Kong, Wong Tai Sin District",
+      "url": "https://hk.jobsdb.com/job/94605092",
+      "posted_date": "2026-09-14",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-09-10)"
+        "Posted 1 day ago (2026-09-14)"
       ]
     }
   ]
