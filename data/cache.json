@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-09-15T04:08:17.060636",
-  "slot": "morning",
+  "updated_at": "2026-09-15T16:47:54.975272",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer",
+      "company": "Frites Management Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94641151",
+      "posted_date": "2026-09-15",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-15)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Senior HR Executive, Compensations & Benefits and Operations (part-time)",
       "company": "South China Morning Post Publishers Ltd",
       "location": "Causeway Bay, Wan Chai District",
@@ -12,11 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-15)"
+        "Posted 1 day ago (2026-09-15)"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "HR Officer",
       "company": "China P & I Services (Hong Kong) Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -25,20 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-14)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Officer, HR & Admin",
-      "company": "PATRONS SECURITIES LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94607299",
-      "posted_date": "2026-09-14",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-14)"
+        "Posted 2 days ago (2026-09-14)"
       ]
     },
     {
@@ -51,11 +51,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-14)"
+        "Posted 2 days ago (2026-09-14)"
       ]
     },
     {
       "rank": 5,
+      "title": "Officer, HR & Admin",
+      "company": "PATRONS SECURITIES LIMITED",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94607299",
+      "posted_date": "2026-09-14",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-09-14)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Senior Human Resources Officer / Human Resources Officer",
       "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
       "location": "Wan Chai District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-11)"
+        "Posted 5 days ago (2026-09-11)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-08)"
+        "Posted 8 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-08)"
+        "Posted 8 days ago (2026-09-08)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Officer / Supervisor, Human Resources & Administration",
       "company": "Hong Kong Airlines Limited",
       "location": "Tung Chung, Islands District",
@@ -102,31 +115,19 @@
       "posted_date": "2026-09-15",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-15)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "Wilson Communications Limited",
-      "location": "Kwai Fong, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/94617913",
-      "posted_date": "2026-09-14",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-14)"
+        "Posted 1 day ago (2026-09-15)"
       ]
     },
     {
       "rank": 10,
-      "title": "Officer - Human Resources (1-year contract)",
-      "company": "Hang Lung Properties Limited",
-      "location": "Mong Kok, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94621632",
-      "posted_date": "2026-09-14",
+      "title": "Human Resources Officer / Payroll Officer (REF: HRO-C&B)",
+      "company": "ATAL Engineering Ltd",
+      "location": "Kwai Chung, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/94650988",
+      "posted_date": "2026-09-15",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-09-14)"
+        "Posted 1 day ago (2026-09-15)"
       ]
     }
   ]
