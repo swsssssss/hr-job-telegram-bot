@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-09-14T18:00:57.829886",
-  "slot": "evening",
+  "updated_at": "2026-09-15T04:08:17.060636",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Executive, Compensations & Benefits and Operations (part-time)",
+      "company": "South China Morning Post Publishers Ltd",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94633470",
+      "posted_date": "2026-09-15",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-15)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "HR Officer",
       "company": "China P & I Services (Hong Kong) Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -16,33 +29,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Senior Human Resources Officer",
-      "company": "Changjiang Securities International Financial Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94539381",
-      "posted_date": "2026-09-14",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-09-14)"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Senior Human Resources Officer / Human Resources Officer",
-      "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94583851",
-      "posted_date": "2026-09-11",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-09-11)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Officer, HR & Admin",
       "company": "PATRONS SECURITIES LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -55,7 +42,33 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Senior Human Resources Officer",
+      "company": "Changjiang Securities International Financial Group Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94539381",
+      "posted_date": "2026-09-14",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-14)"
+      ]
+    },
+    {
       "rank": 5,
+      "title": "Senior Human Resources Officer / Human Resources Officer",
+      "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94583851",
+      "posted_date": "2026-09-11",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-09-11)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -68,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Officer/Senior Officer Human Resources",
       "company": "Bank of Communications Trustee Limited",
       "location": "Central and Western District",
@@ -81,7 +94,19 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Officer / Supervisor, Human Resources & Administration",
+      "company": "Hong Kong Airlines Limited",
+      "location": "Tung Chung, Islands District",
+      "url": "https://hk.jobsdb.com/job/94638026",
+      "posted_date": "2026-09-15",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-09-15)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Human Resources Officer",
       "company": "Wilson Communications Limited",
       "location": "Kwai Fong, Kwai Tsing District",
@@ -93,35 +118,11 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Officer - Human Resources (1-year contract)",
       "company": "Hang Lung Properties Limited",
       "location": "Mong Kok, Yau Tsim Mong District",
       "url": "https://hk.jobsdb.com/job/94621632",
-      "posted_date": "2026-09-14",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-14)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "Wharf Hotels Management Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94569633",
-      "posted_date": "2026-09-11",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-09-11)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "(Senior) Human Resources Officer (C & B)",
-      "company": "Kai Fu Property Services Co Ltd",
-      "location": "San Po Kong, Wong Tai Sin District",
-      "url": "https://hk.jobsdb.com/job/94605092",
       "posted_date": "2026-09-14",
       "score": 2,
       "reasons": [
