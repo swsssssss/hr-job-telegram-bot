@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T04:04:48.907713",
-  "slot": "morning",
+  "updated_at": "2026-09-16T16:40:46.665417",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-15)"
+        "Posted 2 days ago (2026-09-15)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-14)"
+        "Posted 3 days ago (2026-09-14)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-14)"
+        "Posted 3 days ago (2026-09-14)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-14)"
+        "Posted 3 days ago (2026-09-14)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-11)"
+        "Posted 6 days ago (2026-09-11)"
       ]
     },
     {
       "rank": 6,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94478713",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-09-08)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -90,11 +77,38 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-08)"
+        "Posted 9 days ago (2026-09-08)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94478713",
+      "posted_date": "2026-09-08",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-09-08)"
       ]
     },
     {
       "rank": 8,
+      "title": "Administrative and HR officer",
+      "company": "Shine Virtue Ltd",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94669941",
+      "posted_date": "2026-09-16",
+      "score": 7,
+      "reasons": [
+        "salary below target ($20,000)",
+        "preferred location",
+        "Posted 1 day ago (2026-09-16)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Senior Human Resources Officer (Rewards Operations)",
       "company": "YesStyle.com Limited",
       "location": "Kwai Chung, Kwai Tsing District",
@@ -102,19 +116,7 @@
       "posted_date": "2026-09-16",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-16)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer / Payroll Officer (REF: HRO-C&B)",
-      "company": "ATAL Engineering Ltd",
-      "location": "Kwai Chung, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/94650988",
-      "posted_date": "2026-09-15",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-15)"
+        "Posted 1 day ago (2026-09-16)"
       ]
     },
     {
@@ -126,7 +128,7 @@
       "posted_date": "2026-09-15",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-09-15)"
+        "Posted 2 days ago (2026-09-15)"
       ]
     }
   ]
