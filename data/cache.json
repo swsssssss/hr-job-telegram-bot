@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T04:11:55.392448",
-  "slot": "morning",
+  "updated_at": "2026-09-17T16:47:49.760321",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,37 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-15)"
+        "Posted 3 days ago (2026-09-15)"
       ]
     },
     {
       "rank": 2,
+      "title": "HR & Administration Officer",
+      "company": "Easylink Payment Network (Hong Kong) Company, Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94703233",
+      "posted_date": "2026-09-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-17)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Human Resources Officer (Office Payroll)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94702057",
+      "posted_date": "2026-09-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-17)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "HR Officer",
       "company": "China P & I Services (Hong Kong) Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -25,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-14)"
+        "Posted 4 days ago (2026-09-14)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Senior Human Resources Officer / Human Resources Officer",
       "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
       "location": "Wan Chai District",
@@ -38,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-11)"
+        "Posted 7 days ago (2026-09-11)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Officer, HR & Admin",
       "company": "PATRONS SECURITIES LIMITED",
       "location": "Sheung Wan, Central and Western District",
@@ -51,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-14)"
+        "Posted 4 days ago (2026-09-14)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Senior Human Resources Officer",
       "company": "Changjiang Securities International Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -64,33 +90,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-14)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "(Senior) HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94480219",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-08)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94478713",
-      "posted_date": "2026-09-08",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-08)"
+        "Posted 4 days ago (2026-09-14)"
       ]
     },
     {
@@ -104,31 +104,31 @@
       "reasons": [
         "salary below target ($20,000)",
         "preferred location",
-        "Posted 1 day ago (2026-09-16)"
+        "Posted 2 days ago (2026-09-16)"
       ]
     },
     {
       "rank": 9,
-      "title": "Human Resources Officer (Employee Relations)",
-      "company": "S.F. Express (Hong Kong) Ltd",
-      "location": "Tsing Yi, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/94693372",
+      "title": "HR & Admin Officer",
+      "company": "Yan Chai Hospital Board 仁濟醫院董事局",
+      "location": "Tsuen Wan District",
+      "url": "https://hk.jobsdb.com/job/94705202",
       "posted_date": "2026-09-17",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-17)"
+        "Posted 1 day ago (2026-09-17)"
       ]
     },
     {
       "rank": 10,
-      "title": "HR & Admin Officer",
-      "company": "Sam Woo Engineering Equipment Ltd",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94690221",
+      "title": "人力資源高級主任 Human Resources Senior Officer",
+      "company": "Sinotrans (HK) Logistics Limited",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/94705456",
       "posted_date": "2026-09-17",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-17)"
+        "Posted 1 day ago (2026-09-17)"
       ]
     }
   ]
