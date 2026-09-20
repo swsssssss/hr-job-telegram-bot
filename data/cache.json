@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T04:11:12.415412",
-  "slot": "morning",
+  "updated_at": "2026-09-20T15:55:24.841132",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -69,19 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "Human Resources Officer (Office Payroll)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94702057",
-      "posted_date": "2026-09-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-09-17)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior Human Resources Officer / Human Resources Officer",
       "company": "Hong Kong Convention and Exhibition Centre (Management) Limited",
       "location": "Wan Chai District",
@@ -91,6 +78,19 @@
       "reasons": [
         "preferred location",
         "Posted 9 days ago (2026-09-11)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources Officer (Office Payroll)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94702057",
+      "posted_date": "2026-09-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 3 days ago (2026-09-17)"
       ]
     },
     {
@@ -108,19 +108,6 @@
     },
     {
       "rank": 9,
-      "title": "Officer, HR & Admin",
-      "company": "PATRONS SECURITIES LIMITED",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94607299",
-      "posted_date": "2026-09-14",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-09-14)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Human Resources Officer - Training",
       "company": "ISS Facility Services Limited",
       "location": "Quarry Bay, Eastern District",
@@ -130,6 +117,19 @@
       "reasons": [
         "preferred location",
         "Posted 2 days ago (2026-09-18)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior Human Resources Officer",
+      "company": "Changjiang Securities International Financial Group Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94539381",
+      "posted_date": "2026-09-14",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-09-14)"
       ]
     }
   ]
