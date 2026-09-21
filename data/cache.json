@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T04:09:24.809269",
-  "slot": "morning",
+  "updated_at": "2026-09-21T18:09:34.323841",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-15)"
+        "Posted 7 days ago (2026-09-15)"
       ]
     },
     {
       "rank": 2,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94733550",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "人力資源主任 (HR Officer)",
       "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
       "location": "Wan Chai District",
@@ -38,7 +25,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-18)"
+        "Posted 4 days ago (2026-09-18)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94733550",
+      "posted_date": "2026-09-18",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-09-18)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-17)"
+        "Posted 5 days ago (2026-09-17)"
       ]
     },
     {
@@ -64,24 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-14)"
+        "Posted 8 days ago (2026-09-14)"
       ]
     },
     {
       "rank": 6,
-      "title": "Human Resources Officer (Office Payroll)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94702057",
-      "posted_date": "2026-09-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-09-17)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -90,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-18)"
+        "Posted 4 days ago (2026-09-18)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Human Resources Officer - Training",
       "company": "ISS Facility Services Limited",
       "location": "Quarry Bay, Eastern District",
@@ -103,7 +90,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-18)"
+        "Posted 4 days ago (2026-09-18)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer (Office Payroll)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94702057",
+      "posted_date": "2026-09-17",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-09-17)"
       ]
     },
     {
@@ -116,19 +116,19 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-14)"
+        "Posted 8 days ago (2026-09-14)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior HR Officer (HR Reporting / APAC)",
-      "company": "Vaform (HK) Company",
-      "location": "Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94760037",
+      "title": "Senior HR Officer (C&B)",
+      "company": "Beyond Eternity Space Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94770170",
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted today (2026-09-21)"
+        "Posted 1 day ago (2026-09-21)"
       ]
     }
   ]
