@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-09-22T04:05:10.839982",
-  "slot": "morning",
+  "updated_at": "2026-09-22T16:46:04.734143",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94806319",
+      "posted_date": "2026-09-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-22)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Frites Management Limited",
       "location": "Central, Central and Western District",
@@ -12,11 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-15)"
+        "Posted 8 days ago (2026-09-15)"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "(Senior) Human Resources Officer",
       "company": "SIIC INVESTMENT COMPANY LIMITED",
       "location": "Wan Chai District",
@@ -25,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-22)"
+        "Posted 1 day ago (2026-09-22)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "人力資源主任 (HR Officer)",
       "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
       "location": "Wan Chai District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-18)"
+        "Posted 5 days ago (2026-09-18)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "HR & Administration Officer",
       "company": "Easylink Payment Network (Hong Kong) Company, Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -51,20 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-17)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Officer/Senior Officer Human Resources",
-      "company": "Bank of Communications Trustee Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94733550",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-09-18)"
+        "Posted 6 days ago (2026-09-17)"
       ]
     },
     {
@@ -77,37 +77,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-14)"
+        "Posted 9 days ago (2026-09-14)"
       ]
     },
     {
       "rank": 7,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94735640",
+      "title": "Officer/Senior Officer Human Resources",
+      "company": "Bank of Communications Trustee Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94733550",
       "posted_date": "2026-09-18",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-18)"
+        "Posted 5 days ago (2026-09-18)"
       ]
     },
     {
       "rank": 8,
-      "title": "Human Resources Officer - Training",
-      "company": "ISS Facility Services Limited",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94733459",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Human Resources Officer (Office Payroll)",
       "company": "Fairwood Fast Food Ltd",
       "location": "North Point, Eastern District",
@@ -116,20 +103,33 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-17)"
+        "Posted 6 days ago (2026-09-17)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources Officer - Training",
+      "company": "ISS Facility Services Limited",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94733459",
+      "posted_date": "2026-09-18",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-09-18)"
       ]
     },
     {
       "rank": 10,
       "title": "Senior Human Resources Officer",
-      "company": "Changjiang Securities International Financial Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94539381",
-      "posted_date": "2026-09-14",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94735640",
+      "posted_date": "2026-09-18",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-14)"
+        "Posted 5 days ago (2026-09-18)"
       ]
     }
   ]
