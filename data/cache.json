@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-09-23T16:42:50.326731",
-  "slot": "evening",
+  "updated_at": "2026-09-24T03:57:18.882774",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior HR Officer",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94806319",
-      "posted_date": "2026-09-22",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-09-22)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Frites Management Limited",
       "location": "Central, Central and Western District",
@@ -26,6 +13,19 @@
       "reasons": [
         "preferred location",
         "Posted 9 days ago (2026-09-15)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior HR Officer",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94806319",
+      "posted_date": "2026-09-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-09-22)"
       ]
     },
     {
@@ -69,32 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "(Senior) Human Resources Officer",
-      "company": "SIIC INVESTMENT COMPANY LIMITED",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94792352",
-      "posted_date": "2026-09-22",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-09-22)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Human Resources Officer (Office Payroll)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94702057",
-      "posted_date": "2026-09-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-09-17)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -107,7 +81,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Senior HR Officer (C&B)",
       "company": "Beyond Eternity Space Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -119,7 +93,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Senior HR Officer (HR Reporting / APAC)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -128,6 +102,30 @@
       "score": 5,
       "reasons": [
         "Posted 3 days ago (2026-09-21)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior HR Officer (HR Reporting and Projects)",
+      "company": "United Chinese Plastics Products Co Ltd",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94728061",
+      "posted_date": "2026-09-18",
+      "score": 5,
+      "reasons": [
+        "Posted 6 days ago (2026-09-18)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior / Human Resources Officer (HRBP Role)",
+      "company": "Dah Chong Hong Motors International Holdings Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94846104",
+      "posted_date": "2026-09-24",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-09-24)"
       ]
     }
   ]
