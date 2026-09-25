@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T04:11:28.048646",
-  "slot": "morning",
+  "updated_at": "2026-09-25T17:01:59.509016",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-22)"
+        "Posted 4 days ago (2026-09-22)"
       ]
     },
     {
       "rank": 2,
-      "title": "人力資源主任 (HR Officer)",
-      "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94727098",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "HR & Administration Officer",
       "company": "Easylink Payment Network (Hong Kong) Company, Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -38,7 +25,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-17)"
+        "Posted 9 days ago (2026-09-17)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "人力資源主任 (HR Officer)",
+      "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94727098",
+      "posted_date": "2026-09-18",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 8 days ago (2026-09-18)"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-09-17)"
+        "Posted 9 days ago (2026-09-17)"
       ]
     },
     {
@@ -64,20 +64,19 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-18)"
+        "Posted 8 days ago (2026-09-18)"
       ]
     },
     {
       "rank": 6,
-      "title": "Senior Administration Officer (Ref: AHR/SAO) - Office Admin / Operations",
-      "company": "The Law Society of Hong Kong",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94872163",
-      "posted_date": "2026-09-25",
-      "score": 12,
+      "title": "Senior HR Officer (C&B)",
+      "company": "Beyond Eternity Space Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94770170",
+      "posted_date": "2026-09-21",
+      "score": 5,
       "reasons": [
-        "preferred location",
-        "Posted today (2026-09-25)"
+        "Posted 5 days ago (2026-09-21)"
       ]
     },
     {
@@ -89,7 +88,7 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 1 day ago (2026-09-24)"
+        "Posted 2 days ago (2026-09-24)"
       ]
     },
     {
@@ -101,23 +100,11 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 1 day ago (2026-09-24)"
+        "Posted 2 days ago (2026-09-24)"
       ]
     },
     {
       "rank": 9,
-      "title": "Senior HR Officer (C&B)",
-      "company": "Beyond Eternity Space Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94770170",
-      "posted_date": "2026-09-21",
-      "score": 5,
-      "reasons": [
-        "Posted 4 days ago (2026-09-21)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Senior HR Officer (HR Reporting / APAC)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -125,7 +112,19 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 4 days ago (2026-09-21)"
+        "Posted 5 days ago (2026-09-21)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior HR Officer (HR Reporting and Projects)",
+      "company": "United Chinese Plastics Products Co Ltd",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94728061",
+      "posted_date": "2026-09-18",
+      "score": 5,
+      "reasons": [
+        "Posted 8 days ago (2026-09-18)"
       ]
     }
   ]
