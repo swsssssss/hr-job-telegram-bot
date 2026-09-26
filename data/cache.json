@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:01:59.509016",
-  "slot": "evening",
+  "updated_at": "2026-09-26T04:16:05.536050",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -43,19 +43,6 @@
     },
     {
       "rank": 4,
-      "title": "Human Resources Officer (C&B)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94702057",
-      "posted_date": "2026-09-17",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-17)"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -68,7 +55,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Senior HR Officer (C&B)",
       "company": "Beyond Eternity Space Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -80,7 +67,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Senior HR Officer - group level",
       "company": "Hillman Ross Limited",
       "location": "Hong Kong Island",
@@ -92,7 +79,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "HR BP - Senior HR Officer",
       "company": "PwC",
       "location": "Hong Kong Island",
@@ -104,7 +91,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Senior HR Officer (HR Reporting / APAC)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -116,7 +103,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Senior HR Officer (HR Reporting and Projects)",
       "company": "United Chinese Plastics Products Co Ltd",
       "location": "Hung Hom, Kowloon City District",
@@ -125,6 +112,18 @@
       "score": 5,
       "reasons": [
         "Posted 8 days ago (2026-09-18)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer",
+      "company": "Hsin Chong Aster Building Services Limited",
+      "location": "Ngau Tau Kok, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94856714",
+      "posted_date": "2026-09-24",
+      "score": 2,
+      "reasons": [
+        "Posted 2 days ago (2026-09-24)"
       ]
     }
   ]
