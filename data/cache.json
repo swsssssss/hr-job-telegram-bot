@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T04:31:46.226111",
-  "slot": "morning",
+  "updated_at": "2026-09-27T16:50:53.221747",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,37 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-09-22)"
+        "Posted 6 days ago (2026-09-22)"
       ]
     },
     {
       "rank": 2,
-      "title": "人力資源主任 (HR Officer)",
-      "company": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94727098",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94735640",
-      "posted_date": "2026-09-18",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior HR Officer (C&B)",
       "company": "Beyond Eternity Space Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -50,23 +24,11 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 6 days ago (2026-09-21)"
+        "Posted 7 days ago (2026-09-21)"
       ]
     },
     {
-      "rank": 5,
-      "title": "Senior HR Officer - group level",
-      "company": "Hillman Ross Limited",
-      "location": "Hong Kong Island",
-      "url": "https://hk.jobsdb.com/job/94858792",
-      "posted_date": "2026-09-24",
-      "score": 5,
-      "reasons": [
-        "Posted 3 days ago (2026-09-24)"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "HR BP - Senior HR Officer",
       "company": "PwC",
       "location": "Hong Kong Island",
@@ -74,11 +36,23 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 3 days ago (2026-09-24)"
+        "Posted 4 days ago (2026-09-24)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "title": "Senior HR Officer - group level",
+      "company": "Hillman Ross Limited",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/94858792",
+      "posted_date": "2026-09-24",
+      "score": 5,
+      "reasons": [
+        "Posted 4 days ago (2026-09-24)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Senior HR Officer (HR Reporting / APAC)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -86,23 +60,11 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 6 days ago (2026-09-21)"
+        "Posted 7 days ago (2026-09-21)"
       ]
     },
     {
-      "rank": 8,
-      "title": "Senior HR Officer (HR Reporting and Projects)",
-      "company": "United Chinese Plastics Products Co Ltd",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/94728061",
-      "posted_date": "2026-09-18",
-      "score": 5,
-      "reasons": [
-        "Posted 9 days ago (2026-09-18)"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "Human Resources Officer",
       "company": "Hsin Chong Aster Building Services Limited",
       "location": "Ngau Tau Kok, Kwun Tong District",
@@ -110,19 +72,55 @@
       "posted_date": "2026-09-24",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-09-24)"
+        "Posted 4 days ago (2026-09-24)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "HR Officer",
+      "company": "Geek Miracle HK Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94854829",
+      "posted_date": "2026-09-24",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-09-24)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer",
+      "company": "Technic (China-HK) Limited",
+      "location": "Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/94778147",
+      "posted_date": "2026-09-21",
+      "score": 2,
+      "reasons": [
+        "Posted 7 days ago (2026-09-21)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior / Human Resources Officer (Talent Acquisition)",
+      "company": "Dah Chong Hong Motors International Holdings Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94880751",
+      "posted_date": "2026-09-25",
+      "score": 2,
+      "reasons": [
+        "Posted 3 days ago (2026-09-25)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Senior Officer (HRIS)",
-      "company": "The Wharf Group",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94899793",
-      "posted_date": "2026-09-27",
+      "title": "Senior / Human Resources Officer (HRBP Role)",
+      "company": "Dah Chong Hong Motors International Holdings Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94846104",
+      "posted_date": "2026-09-24",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-27)"
+        "Posted 4 days ago (2026-09-24)"
       ]
     }
   ]
