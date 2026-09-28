@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T04:33:24.170749",
-  "slot": "morning",
+  "updated_at": "2026-09-28T19:33:52.841190",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-09-22)"
+        "Posted 7 days ago (2026-09-22)"
       ]
     },
     {
@@ -24,23 +24,11 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 7 days ago (2026-09-21)"
+        "Posted 8 days ago (2026-09-21)"
       ]
     },
     {
       "rank": 3,
-      "title": "HR BP - Senior HR Officer",
-      "company": "PwC",
-      "location": "Hong Kong Island",
-      "url": "https://hk.jobsdb.com/job/94860412",
-      "posted_date": "2026-09-24",
-      "score": 5,
-      "reasons": [
-        "Posted 4 days ago (2026-09-24)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior HR Officer - group level",
       "company": "Hillman Ross Limited",
       "location": "Hong Kong Island",
@@ -48,7 +36,19 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 4 days ago (2026-09-24)"
+        "Posted 5 days ago (2026-09-24)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "HR BP - Senior HR Officer",
+      "company": "PwC",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/94860412",
+      "posted_date": "2026-09-24",
+      "score": 5,
+      "reasons": [
+        "Posted 5 days ago (2026-09-24)"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 7 days ago (2026-09-21)"
+        "Posted 8 days ago (2026-09-21)"
       ]
     },
     {
@@ -72,19 +72,19 @@
       "posted_date": "2026-09-28",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-28)"
+        "Posted 1 day ago (2026-09-28)"
       ]
     },
     {
       "rank": 7,
-      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
-      "company": "Hutchison Property Group Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/94910204",
-      "posted_date": "2026-09-28",
+      "title": "Human Resources Officer (Talent Acquisition)",
+      "company": "Dah Chong Hong Motors International Holdings Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/94880751",
+      "posted_date": "2026-09-25",
       "score": 2,
       "reasons": [
-        "Posted today (2026-09-28)"
+        "Posted 4 days ago (2026-09-25)"
       ]
     },
     {
@@ -96,11 +96,23 @@
       "posted_date": "2026-09-24",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-09-24)"
+        "Posted 5 days ago (2026-09-24)"
       ]
     },
     {
       "rank": 9,
+      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
+      "company": "Hutchison Property Group Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94910204",
+      "posted_date": "2026-09-28",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-09-28)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "HR Officer",
       "company": "Geek Miracle HK Limited",
       "location": "Hung Hom, Kowloon City District",
@@ -108,19 +120,7 @@
       "posted_date": "2026-09-24",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-09-24)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior / Human Resources Officer (Talent Acquisition)",
-      "company": "Dah Chong Hong Motors International Holdings Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/94880751",
-      "posted_date": "2026-09-25",
-      "score": 2,
-      "reasons": [
-        "Posted 3 days ago (2026-09-25)"
+        "Posted 5 days ago (2026-09-24)"
       ]
     }
   ]
