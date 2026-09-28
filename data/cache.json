@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T16:50:53.221747",
-  "slot": "evening",
+  "updated_at": "2026-09-28T04:33:24.170749",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -65,6 +65,30 @@
     },
     {
       "rank": 6,
+      "title": "Senior Human Resources Officer",
+      "company": "West Kowloon Cultural District Authority",
+      "location": "West Kowloon Cultural District, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/94911564",
+      "posted_date": "2026-09-28",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-09-28)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "SENIOR HUMAN RESOURCES OFFICER [Ref. SHRO/HRO]",
+      "company": "Hutchison Property Group Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/94910204",
+      "posted_date": "2026-09-28",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-09-28)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Human Resources Officer",
       "company": "Hsin Chong Aster Building Services Limited",
       "location": "Ngau Tau Kok, Kwun Tong District",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "HR Officer",
       "company": "Geek Miracle HK Limited",
       "location": "Hung Hom, Kowloon City District",
@@ -88,19 +112,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Human Resources Officer",
-      "company": "Technic (China-HK) Limited",
-      "location": "Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/94778147",
-      "posted_date": "2026-09-21",
-      "score": 2,
-      "reasons": [
-        "Posted 7 days ago (2026-09-21)"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Senior / Human Resources Officer (Talent Acquisition)",
       "company": "Dah Chong Hong Motors International Holdings Limited",
       "location": "Kowloon Bay, Kwun Tong District",
@@ -109,18 +121,6 @@
       "score": 2,
       "reasons": [
         "Posted 3 days ago (2026-09-25)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior / Human Resources Officer (HRBP Role)",
-      "company": "Dah Chong Hong Motors International Holdings Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/94846104",
-      "posted_date": "2026-09-24",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-09-24)"
       ]
     }
   ]
