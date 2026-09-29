@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-09-29T05:01:56.789722",
-  "slot": "morning",
+  "updated_at": "2026-09-29T18:00:19.576930",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer , Talent Acquisition (Banking, 4-month contract)",
+      "company": "PERSOL",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94951590",
+      "posted_date": "2026-09-29",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-29)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Central Business Information Limited",
       "location": "Wan Chai District",
@@ -12,11 +25,37 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-09-22)"
+        "Posted 8 days ago (2026-09-22)"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Human Resources Officer",
+      "company": "The American Club Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94949209",
+      "posted_date": "2026-09-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-29)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Human Resources Officer (Compensation & Work Injury Focus)",
+      "company": "Fairwood Fast Food Ltd",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/94945073",
+      "posted_date": "2026-09-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-09-29)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Senior Human Resources & Administration Officer (Primary C & B Focus)",
       "company": "PS Group International Ltd",
       "location": "North Point, Eastern District",
@@ -25,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-09-29)"
+        "Posted 1 day ago (2026-09-29)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "Senior HR & Admin Executive",
       "company": "Bacha Coffee Hong Kong Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -37,11 +76,11 @@
       "posted_date": "2026-09-29",
       "score": 5,
       "reasons": [
-        "Posted today (2026-09-29)"
+        "Posted 1 day ago (2026-09-29)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "Senior HR Officer (C&B)",
       "company": "Beyond Eternity Space Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -49,11 +88,11 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 8 days ago (2026-09-21)"
+        "Posted 9 days ago (2026-09-21)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "HR BP - Senior HR Officer",
       "company": "PwC",
       "location": "Hong Kong Island",
@@ -61,23 +100,11 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 5 days ago (2026-09-24)"
+        "Posted 6 days ago (2026-09-24)"
       ]
     },
     {
-      "rank": 6,
-      "title": "Senior HR Officer",
-      "company": "Pretty Beauty International Limited",
-      "location": "Cheung Sha Wan, Sham Shui Po District",
-      "url": "https://hk.jobsdb.com/job/94934951",
-      "posted_date": "2026-09-29",
-      "score": 5,
-      "reasons": [
-        "Posted today (2026-09-29)"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Senior HR Officer - group level",
       "company": "Hillman Ross Limited",
       "location": "Hong Kong Island",
@@ -85,11 +112,11 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 5 days ago (2026-09-24)"
+        "Posted 6 days ago (2026-09-24)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Senior HR Officer (HR Reporting / APAC)",
       "company": "Vaform (HK) Company",
       "location": "Yau Tsim Mong District",
@@ -97,31 +124,7 @@
       "posted_date": "2026-09-21",
       "score": 5,
       "reasons": [
-        "Posted 8 days ago (2026-09-21)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer",
-      "company": "West Kowloon Cultural District Authority",
-      "location": "West Kowloon Cultural District, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94911564",
-      "posted_date": "2026-09-28",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-09-28)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer",
-      "company": "Hsin Chong Aster Building Services Limited",
-      "location": "Ngau Tau Kok, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/94856714",
-      "posted_date": "2026-09-24",
-      "score": 2,
-      "reasons": [
-        "Posted 5 days ago (2026-09-24)"
+        "Posted 9 days ago (2026-09-21)"
       ]
     }
   ]
