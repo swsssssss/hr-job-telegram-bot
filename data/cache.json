@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T18:00:19.576930",
-  "slot": "evening",
+  "updated_at": "2026-09-30T04:48:34.816376",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,6 +30,19 @@
     },
     {
       "rank": 3,
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94961720",
+      "posted_date": "2026-09-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-09-30)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer (Compensation & Work Injury Focus)",
       "company": "Fairwood Fast Food Ltd",
       "location": "North Point, Eastern District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Senior Human Resources & Administration Officer (Primary C & B Focus)",
       "company": "PS Group International Ltd",
       "location": "North Point, Eastern District",
@@ -68,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Senior HR & Admin Executive",
       "company": "Bacha Coffee Hong Kong Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -80,7 +93,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Senior HR Officer (C&B)",
       "company": "Beyond Eternity Space Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -89,18 +102,6 @@
       "score": 5,
       "reasons": [
         "Posted 9 days ago (2026-09-21)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "HR BP - Senior HR Officer",
-      "company": "PwC",
-      "location": "Hong Kong Island",
-      "url": "https://hk.jobsdb.com/job/94860412",
-      "posted_date": "2026-09-24",
-      "score": 5,
-      "reasons": [
-        "Posted 6 days ago (2026-09-24)"
       ]
     },
     {
@@ -117,14 +118,14 @@
     },
     {
       "rank": 10,
-      "title": "Senior HR Officer (HR Reporting / APAC)",
-      "company": "Vaform (HK) Company",
-      "location": "Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/94760037",
-      "posted_date": "2026-09-21",
+      "title": "HR BP - Senior HR Officer",
+      "company": "PwC",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/94860412",
+      "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 9 days ago (2026-09-21)"
+        "Posted 6 days ago (2026-09-24)"
       ]
     }
   ]
