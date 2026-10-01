@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T05:01:11.924250",
-  "slot": "morning",
+  "updated_at": "2026-10-01T18:21:36.857553",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-30)"
+        "Posted 2 days ago (2026-09-30)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior HR Officer",
-      "company": "Central Business Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94806319",
-      "posted_date": "2026-09-22",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-22)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Senior HR Officer , Talent Acquisition (Banking, 4-month contract)",
       "company": "PERSOL",
       "location": "Quarry Bay, Eastern District",
@@ -38,11 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-29)"
+        "Posted 3 days ago (2026-09-29)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Human Resources & Administration Officer",
       "company": "Harris Fraser Corporate Services Limited",
       "location": "Wan Chai District",
@@ -51,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-30)"
+        "Posted 2 days ago (2026-09-30)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -64,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-29)"
+        "Posted 3 days ago (2026-09-29)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Officer - HR & Corporate Governance",
       "company": "Central Business Information Limited",
       "location": "Wan Chai District",
@@ -77,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-09-30)"
+        "Posted 2 days ago (2026-09-30)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Human Resources Officer (Compensation & Work Injury Focus)",
       "company": "Fairwood Fast Food Ltd",
       "location": "North Point, Eastern District",
@@ -90,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-29)"
+        "Posted 3 days ago (2026-09-29)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Senior Human Resources & Administration Officer (Primary C & B Focus)",
       "company": "PS Group International Ltd",
       "location": "North Point, Eastern District",
@@ -103,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-09-29)"
+        "Posted 3 days ago (2026-09-29)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Senior HR & Admin Executive",
       "company": "Bacha Coffee Hong Kong Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -115,11 +102,11 @@
       "posted_date": "2026-09-29",
       "score": 5,
       "reasons": [
-        "Posted 2 days ago (2026-09-29)"
+        "Posted 3 days ago (2026-09-29)"
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Senior HR Officer - group level",
       "company": "Hillman Ross Limited",
       "location": "Hong Kong Island",
@@ -127,7 +114,19 @@
       "posted_date": "2026-09-24",
       "score": 5,
       "reasons": [
-        "Posted 7 days ago (2026-09-24)"
+        "Posted 8 days ago (2026-09-24)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "HR BP - Senior HR Officer",
+      "company": "PwC",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/94860412",
+      "posted_date": "2026-09-24",
+      "score": 5,
+      "reasons": [
+        "Posted 8 days ago (2026-09-24)"
       ]
     }
   ]
