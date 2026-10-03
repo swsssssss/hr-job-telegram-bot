@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T04:34:09.050282",
-  "slot": "morning",
+  "updated_at": "2026-10-03T16:06:48.307297",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-09-30)"
+        "Posted 4 days ago (2026-09-30)"
       ]
     },
     {
@@ -25,24 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-29)"
+        "Posted 5 days ago (2026-09-29)"
       ]
     },
     {
       "rank": 3,
-      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95028613",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Officer - Payroll/C&B Function",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -51,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-02)"
+        "Posted 2 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -64,7 +51,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-02)"
+        "Posted 2 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95028613",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-02)"
       ]
     },
     {
@@ -77,37 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-29)"
+        "Posted 5 days ago (2026-09-29)"
       ]
     },
     {
       "rank": 7,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94978930",
-      "posted_date": "2026-09-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 3 days ago (2026-09-30)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "(Senior) HR Officer",
-      "company": "Wisers Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95020823",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -116,20 +90,46 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-02)"
+        "Posted 2 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94978930",
+      "posted_date": "2026-09-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 4 days ago (2026-09-30)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "(Senior) HR Officer",
+      "company": "Wisers Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95020823",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-02)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer (Compensation & Work Injury Focus)",
-      "company": "Fairwood Fast Food Ltd",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/94945073",
-      "posted_date": "2026-09-29",
+      "title": "Officer - HR & Corporate Governance",
+      "company": "Central Business Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/94961720",
+      "posted_date": "2026-09-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-09-29)"
+        "Posted 4 days ago (2026-09-30)"
       ]
     }
   ]
