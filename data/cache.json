@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T16:06:48.307297",
-  "slot": "evening",
+  "updated_at": "2026-10-04T05:04:35.930295",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,45 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Human Resources Officer - Payroll/C&B Function",
-      "company": "Schindler Lifts (HK) Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95016979",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Human Resources & Admin Officer",
-      "company": "QMIS Financial Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95018941",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95028613",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -81,11 +42,11 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "(Senior) HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95018963",
+      "rank": 4,
+      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95028613",
       "posted_date": "2026-10-02",
       "score": 12,
       "reasons": [
@@ -94,7 +55,20 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "Human Resources Officer - Payroll/C&B Function",
+      "company": "Schindler Lifts (HK) Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95016979",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Human Resources & Administration Officer",
       "company": "Harris Fraser Corporate Services Limited",
       "location": "Wan Chai District",
@@ -104,6 +78,32 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-09-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources & Admin Officer",
+      "company": "QMIS Financial Group Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95018941",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "(Senior) HR and Administration Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95018963",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-02)"
       ]
     },
     {
