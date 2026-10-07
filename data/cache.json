@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T18:15:47.413814",
-  "slot": "evening",
+  "updated_at": "2026-10-07T05:08:30.287950",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Human Resources and Administration Officer",
-      "company": "Carthy Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95090826",
-      "posted_date": "2026-10-06",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-06)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -55,7 +42,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -68,11 +55,24 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
       "url": "https://hk.jobsdb.com/job/95028613",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "(Senior) HR Officer",
+      "company": "Wisers Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95020823",
       "posted_date": "2026-10-02",
       "score": 12,
       "reasons": [
@@ -95,19 +95,6 @@
     },
     {
       "rank": 8,
-      "title": "(Senior) HR Officer",
-      "company": "Wisers Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95020823",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -117,6 +104,19 @@
       "reasons": [
         "preferred location",
         "Posted 5 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources and Administration Officer / Manager",
+      "company": "Carthy Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95090826",
+      "posted_date": "2026-10-06",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-06)"
       ]
     },
     {
