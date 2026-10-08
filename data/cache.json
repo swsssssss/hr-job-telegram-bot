@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T18:48:18.052510",
-  "slot": "evening",
+  "updated_at": "2026-10-08T05:18:57.347247",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -69,19 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "(Senior) HR Officer",
-      "company": "Wisers Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95020823",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Human Resources & Administration Officer",
       "company": "Harris Fraser Corporate Services Limited",
       "location": "Wan Chai District",
@@ -91,6 +78,19 @@
       "reasons": [
         "preferred location",
         "Posted 8 days ago (2026-09-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "(Senior) HR Officer",
+      "company": "Wisers Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95020823",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-10-02)"
       ]
     },
     {
