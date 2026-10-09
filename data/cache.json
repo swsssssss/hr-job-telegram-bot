@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T18:46:19.756028",
-  "slot": "evening",
+  "updated_at": "2026-10-09T05:22:11.122639",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,6 +30,19 @@
     },
     {
       "rank": 3,
+      "title": "Regional Human Resources & Talent Development Officer",
+      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95160634",
+      "posted_date": "2026-10-09",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-10-09)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer - Payroll/C&B Function",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Wisers Information Limited",
       "location": "Wan Chai District",
@@ -68,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
@@ -81,7 +94,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Human Resources & Administration Officer",
       "company": "Harris Fraser Corporate Services Limited",
       "location": "Wan Chai District",
@@ -94,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "(Senior) HR and Administration Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -107,7 +120,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Group HR & Admin Officer",
       "company": "Chevalier Asia Limited",
       "location": "Central and Western District",
@@ -118,18 +131,6 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 4 days ago (2026-10-05)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior HR and Administration Officer",
-      "company": "Sze Fung Engineering Limited",
-      "location": "Jordan, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95031834",
-      "posted_date": "2026-10-02",
-      "score": 5,
-      "reasons": [
-        "Posted 7 days ago (2026-10-02)"
       ]
     }
   ]
