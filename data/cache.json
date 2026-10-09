@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-10-09T05:22:11.122639",
-  "slot": "morning",
+  "updated_at": "2026-10-09T18:16:58.591062",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer (Payroll)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95176340",
+      "posted_date": "2026-10-09",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-09)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Samsung Electronics HK Co Ltd",
       "location": "Wan Chai District",
@@ -12,33 +25,20 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-08)"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Senior HR Officer (Apac coverage)",
-      "company": "ESW HOLDINGS PTE. LTD.",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94979305",
-      "posted_date": "2026-09-30",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-30)"
+        "Posted 2 days ago (2026-10-08)"
       ]
     },
     {
       "rank": 3,
-      "title": "Regional Human Resources & Talent Development Officer",
-      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95160634",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95177849",
       "posted_date": "2026-10-09",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-10-09)"
+        "Posted 1 day ago (2026-10-09)"
       ]
     },
     {
@@ -51,11 +51,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-02)"
+        "Posted 8 days ago (2026-10-02)"
       ]
     },
     {
       "rank": 5,
+      "title": "Regional Human Resources & Talent Development Officer",
+      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95170641",
+      "posted_date": "2026-10-09",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-09)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-02)"
+        "Posted 8 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "(Senior) HR Officer",
       "company": "Wisers Information Limited",
       "location": "Wan Chai District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-02)"
+        "Posted 8 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
@@ -90,20 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/94978930",
-      "posted_date": "2026-09-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-09-30)"
+        "Posted 8 days ago (2026-10-02)"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-02)"
+        "Posted 8 days ago (2026-10-02)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 4 days ago (2026-10-05)"
+        "Posted 5 days ago (2026-10-05)"
       ]
     }
   ]
