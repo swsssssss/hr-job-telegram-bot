@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T18:16:58.591062",
-  "slot": "evening",
+  "updated_at": "2026-10-10T05:06:15.507042",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -56,19 +56,6 @@
     },
     {
       "rank": 5,
-      "title": "Regional Human Resources & Talent Development Officer",
-      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95170641",
-      "posted_date": "2026-10-09",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-09)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -78,6 +65,19 @@
       "reasons": [
         "preferred location",
         "Posted 8 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Regional Human Resources & Talent Development Officer",
+      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95170641",
+      "posted_date": "2026-10-09",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-09)"
       ]
     },
     {
