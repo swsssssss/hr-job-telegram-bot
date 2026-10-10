@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-10-10T05:06:15.507042",
-  "slot": "morning",
+  "updated_at": "2026-10-10T17:15:50.762659",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "Senior HR Officer (Payroll)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95176340",
-      "posted_date": "2026-10-09",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-09)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Samsung Electronics HK Co Ltd",
       "location": "Wan Chai District",
@@ -25,24 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-08)"
+        "Posted 3 days ago (2026-10-08)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior HR Officer (Payroll)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95176340",
+      "posted_date": "2026-10-09",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-09)"
       ]
     },
     {
       "rank": 3,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95177849",
-      "posted_date": "2026-10-09",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-09)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Officer - Payroll/C&B Function",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -51,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-02)"
+        "Posted 9 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Human Resources & Admin Officer",
       "company": "QMIS Financial Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -64,24 +51,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-02)"
+        "Posted 9 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 6,
-      "title": "Regional Human Resources & Talent Development Officer",
-      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95170641",
+      "rank": 5,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95177849",
       "posted_date": "2026-10-09",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-09)"
+        "Posted 2 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Wisers Information Limited",
       "location": "Wan Chai District",
@@ -90,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-02)"
+        "Posted 9 days ago (2026-10-02)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
@@ -103,7 +90,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-02)"
+        "Posted 9 days ago (2026-10-02)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Regional Human Resources & Talent Development Officer",
+      "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95170641",
+      "posted_date": "2026-10-09",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-09)"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-02)"
+        "Posted 9 days ago (2026-10-02)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 5 days ago (2026-10-05)"
+        "Posted 6 days ago (2026-10-05)"
       ]
     }
   ]
