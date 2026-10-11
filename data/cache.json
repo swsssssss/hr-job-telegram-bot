@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T04:55:53.619061",
-  "slot": "morning",
+  "updated_at": "2026-10-11T17:38:08.503141",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-08)"
+        "Posted 4 days ago (2026-10-08)"
       ]
     },
     {
@@ -25,50 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-09)"
+        "Posted 3 days ago (2026-10-09)"
       ]
     },
     {
       "rank": 3,
-      "title": "Human Resources Officer - Payroll/C&B Function",
-      "company": "Schindler Lifts (HK) Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95016979",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Human Resources & Admin Officer",
-      "company": "QMIS Financial Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95018941",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "(Senior) HR Officer",
-      "company": "Wisers Information Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95020823",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -77,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-09)"
+        "Posted 3 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "Regional Human Resources & Talent Development Officer",
       "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
       "location": "Admiralty, Central and Western District",
@@ -90,37 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-09)"
+        "Posted 3 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 8,
-      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95028613",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "(Senior) HR and Administration Officer",
-      "company": "Chuang's Consortium Ltd",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95018963",
-      "posted_date": "2026-10-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-02)"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "title": "Group HR & Admin Officer",
       "company": "Chevalier Asia Limited",
       "location": "Central and Western District",
@@ -130,7 +65,67 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 6 days ago (2026-10-05)"
+        "Posted 7 days ago (2026-10-05)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "HR & Admin Officer / Senior HR & Admin Officer",
+      "company": "Eternity Consultants (HK) Ltd",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/95053699",
+      "posted_date": "2026-10-05",
+      "score": 5,
+      "reasons": [
+        "Posted 7 days ago (2026-10-05)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources Officer",
+      "company": "TSL Jewellery (H.K.) Co. Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/95121381",
+      "posted_date": "2026-10-07",
+      "score": 2,
+      "reasons": [
+        "Posted 5 days ago (2026-10-07)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "HR Officer",
+      "company": "Geek Miracle HK Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/95142865",
+      "posted_date": "2026-10-08",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-10-08)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Human Resources Officer / Officer",
+      "company": "The Wharf Group",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95187857",
+      "posted_date": "2026-10-11",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-10-11)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Human Resources Officer",
+      "company": "Gaia Group Management Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95107027",
+      "posted_date": "2026-10-07",
+      "score": 2,
+      "reasons": [
+        "Posted 5 days ago (2026-10-07)"
       ]
     }
   ]
