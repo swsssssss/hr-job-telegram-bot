@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T17:15:50.762659",
-  "slot": "evening",
+  "updated_at": "2026-10-11T04:55:53.619061",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -56,19 +56,6 @@
     },
     {
       "rank": 5,
-      "title": "Senior Human Resources Officer",
-      "company": "Hong Kong Trade Development Council",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95177849",
-      "posted_date": "2026-10-09",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-09)"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Wisers Information Limited",
       "location": "Wan Chai District",
@@ -81,20 +68,20 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
-      "company": "St. James' Settlement",
+      "rank": 6,
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95028613",
-      "posted_date": "2026-10-02",
+      "url": "https://hk.jobsdb.com/job/95177849",
+      "posted_date": "2026-10-09",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-10-02)"
+        "Posted 2 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Regional Human Resources & Talent Development Officer",
       "company": "Soochow Securities (Hong Kong) Financial Holdings Limited",
       "location": "Admiralty, Central and Western District",
@@ -104,6 +91,19 @@
       "reasons": [
         "preferred location",
         "Posted 2 days ago (2026-10-09)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer (Contract) (Ref: HR/287126)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95028613",
+      "posted_date": "2026-10-02",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-10-02)"
       ]
     },
     {
