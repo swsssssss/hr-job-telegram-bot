@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T05:10:27.844156",
-  "slot": "morning",
+  "updated_at": "2026-10-12T21:11:47.968229",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-08)"
+        "Posted 5 days ago (2026-10-08)"
       ]
     },
     {
@@ -25,11 +25,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-09)"
+        "Posted 4 days ago (2026-10-09)"
       ]
     },
     {
       "rank": 3,
+      "title": "(Senior) HR Officer",
+      "company": "Chuang's Consortium Ltd",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95212197",
+      "posted_date": "2026-10-12",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-12)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-09)"
+        "Posted 4 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Group HR & Admin Officer",
       "company": "Chevalier Asia Limited",
       "location": "Central and Western District",
@@ -52,11 +65,11 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 7 days ago (2026-10-05)"
+        "Posted 8 days ago (2026-10-05)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "HR & Admin Officer / Senior HR & Admin Officer",
       "company": "Eternity Consultants (HK) Ltd",
       "location": "Hong Kong Island",
@@ -64,31 +77,19 @@
       "posted_date": "2026-10-05",
       "score": 5,
       "reasons": [
-        "Posted 7 days ago (2026-10-05)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Human Resources Officer",
-      "company": "Master Communications Limited",
-      "location": "Kwai Fong, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95203939",
-      "posted_date": "2026-10-12",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-10-12)"
+        "Posted 8 days ago (2026-10-05)"
       ]
     },
     {
       "rank": 7,
-      "title": "Senior Human Resources Officer (C&B, HRIS)",
-      "company": "Kai Fu Property Services Co Ltd",
-      "location": "San Po Kong, Wong Tai Sin District",
-      "url": "https://hk.jobsdb.com/job/95199815",
+      "title": "HR Officer",
+      "company": "Hostmost Engineering Limited",
+      "location": "Wong Chuk Hang, Southern District",
+      "url": "https://hk.jobsdb.com/job/94846170",
       "posted_date": "2026-10-12",
       "score": 2,
       "reasons": [
-        "Posted today (2026-10-12)"
+        "Posted 1 day ago (2026-10-12)"
       ]
     },
     {
@@ -100,19 +101,19 @@
       "posted_date": "2026-10-07",
       "score": 2,
       "reasons": [
-        "Posted 5 days ago (2026-10-07)"
+        "Posted 6 days ago (2026-10-07)"
       ]
     },
     {
       "rank": 9,
-      "title": "HR Officer",
-      "company": "Geek Miracle HK Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/95142865",
-      "posted_date": "2026-10-08",
+      "title": "Senior Human Resources Officer (C&B, HRIS)",
+      "company": "Kai Fu Property Services Co Ltd",
+      "location": "San Po Kong, Wong Tai Sin District",
+      "url": "https://hk.jobsdb.com/job/95199815",
+      "posted_date": "2026-10-12",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-10-08)"
+        "Posted 1 day ago (2026-10-12)"
       ]
     },
     {
@@ -124,7 +125,7 @@
       "posted_date": "2026-10-09",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-10-09)"
+        "Posted 4 days ago (2026-10-09)"
       ]
     }
   ]
