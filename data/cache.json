@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T21:11:47.968229",
-  "slot": "evening",
+  "updated_at": "2026-10-13T06:09:33.866721",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -82,6 +82,30 @@
     },
     {
       "rank": 7,
+      "title": "Human Resources Officer (Compensation & Benefits)",
+      "company": "S.F. Express (Hong Kong) Ltd",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/95233740",
+      "posted_date": "2026-10-13",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-10-13)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer (Employee Relations)",
+      "company": "S.F. Express (Hong Kong) Ltd",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/95233792",
+      "posted_date": "2026-10-13",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-10-13)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "HR Officer",
       "company": "Hostmost Engineering Limited",
       "location": "Wong Chuk Hang, Southern District",
@@ -93,7 +117,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Human Resources Officer",
       "company": "TSL Jewellery (H.K.) Co. Limited",
       "location": "Hung Hom, Kowloon City District",
@@ -102,30 +126,6 @@
       "score": 2,
       "reasons": [
         "Posted 6 days ago (2026-10-07)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer (C&B, HRIS)",
-      "company": "Kai Fu Property Services Co Ltd",
-      "location": "San Po Kong, Wong Tai Sin District",
-      "url": "https://hk.jobsdb.com/job/95199815",
-      "posted_date": "2026-10-12",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-10-12)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR & Administration Officer",
-      "company": "MJ Consultants Limited",
-      "location": "Lai Chi Kok, Sham Shui Po District",
-      "url": "https://hk.jobsdb.com/job/95176050",
-      "posted_date": "2026-10-09",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-10-09)"
       ]
     }
   ]
