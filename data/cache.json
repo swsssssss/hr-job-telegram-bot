@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-10-15T03:55:05.487921",
-  "slot": "morning",
+  "updated_at": "2026-10-15T16:48:05.023748",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
-      "title": "HR Associate/Senior HR Associate, Compensation and Benefits, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95263790",
-      "posted_date": "2026-10-14",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-10-14)"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Senior HR Officer",
       "company": "Samsung Electronics HK Co Ltd",
       "location": "Wan Chai District",
@@ -25,11 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-08)"
+        "Posted 8 days ago (2026-10-08)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Senior HR Officer (Payroll)",
       "company": "KOS International Limited",
       "location": "Central and Western District",
@@ -38,11 +25,50 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-09)"
+        "Posted 7 days ago (2026-10-09)"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "HR Associate/Senior HR Associate, Compensation and Benefits, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95263790",
+      "posted_date": "2026-10-14",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-14)"
       ]
     },
     {
       "rank": 4,
+      "title": "Human Resources Officer",
+      "company": "China Life Insurance (Overseas) Company Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95293870",
+      "posted_date": "2026-10-15",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-15)"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
+      "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
+      "location": "Aberdeen, Southern District",
+      "url": "https://hk.jobsdb.com/job/95294729",
+      "posted_date": "2026-10-15",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-15)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -51,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-12)"
+        "Posted 4 days ago (2026-10-12)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -64,35 +90,23 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-09)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Human Resources Officer (Compensation & Benefits)",
-      "company": "S.F. Express (Hong Kong) Ltd",
-      "location": "Tsing Yi, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95233740",
-      "posted_date": "2026-10-13",
-      "score": 2,
-      "reasons": [
-        "Posted 2 days ago (2026-10-13)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "HR Officer",
-      "company": "Hostmost Engineering Limited",
-      "location": "Wong Chuk Hang, Southern District",
-      "url": "https://hk.jobsdb.com/job/94846170",
-      "posted_date": "2026-10-12",
-      "score": 2,
-      "reasons": [
-        "Posted 3 days ago (2026-10-12)"
+        "Posted 7 days ago (2026-10-09)"
       ]
     },
     {
       "rank": 8,
+      "title": "Senior Human Resources Officer – HR TA Project",
+      "company": "China Mobile International Limited",
+      "location": "Kwai Hing, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/95289105",
+      "posted_date": "2026-10-15",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-10-15)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Human Resources Officer",
       "company": "TSL Jewellery (H.K.) Co. Limited",
       "location": "Hung Hom, Kowloon City District",
@@ -100,31 +114,19 @@
       "posted_date": "2026-10-07",
       "score": 2,
       "reasons": [
-        "Posted 8 days ago (2026-10-07)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer",
-      "company": "AsiaWorld-Expo Management Limited",
-      "location": "Chek Lap Kok, Islands District",
-      "url": "https://hk.jobsdb.com/job/95262895",
-      "posted_date": "2026-10-14",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-10-14)"
+        "Posted 9 days ago (2026-10-07)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer (Employee Relations)",
-      "company": "S.F. Express (Hong Kong) Ltd",
-      "location": "Tsing Yi, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95233792",
-      "posted_date": "2026-10-13",
+      "title": "HR Officer",
+      "company": "Hostmost Engineering Limited",
+      "location": "Wong Chuk Hang, Southern District",
+      "url": "https://hk.jobsdb.com/job/94846170",
+      "posted_date": "2026-10-12",
       "score": 2,
       "reasons": [
-        "Posted 2 days ago (2026-10-13)"
+        "Posted 4 days ago (2026-10-12)"
       ]
     }
   ]
