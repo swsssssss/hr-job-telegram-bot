@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T16:48:05.023748",
-  "slot": "evening",
+  "updated_at": "2026-10-16T03:51:00.254825",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -95,6 +95,30 @@
     },
     {
       "rank": 8,
+      "title": "HR Officer - Stay In Store (With double pay)",
+      "company": "Aeon Stores (Hong Kong) Co Ltd",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/95304673",
+      "posted_date": "2026-10-16",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-10-16)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SENIOR HUMAN RESOURCES OFFICER (Talent Acquisition) (5-Month Contract)",
+      "company": "Harbour City Estates Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95306504",
+      "posted_date": "2026-10-16",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-10-16)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Senior Human Resources Officer – HR TA Project",
       "company": "China Mobile International Limited",
       "location": "Kwai Hing, Kwai Tsing District",
@@ -103,30 +127,6 @@
       "score": 2,
       "reasons": [
         "Posted 1 day ago (2026-10-15)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "TSL Jewellery (H.K.) Co. Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/95121381",
-      "posted_date": "2026-10-07",
-      "score": 2,
-      "reasons": [
-        "Posted 9 days ago (2026-10-07)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR Officer",
-      "company": "Hostmost Engineering Limited",
-      "location": "Wong Chuk Hang, Southern District",
-      "url": "https://hk.jobsdb.com/job/94846170",
-      "posted_date": "2026-10-12",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-10-12)"
       ]
     }
   ]
