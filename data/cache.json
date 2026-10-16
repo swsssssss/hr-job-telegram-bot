@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T03:51:00.254825",
-  "slot": "morning",
+  "updated_at": "2026-10-16T16:29:58.486187",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-08)"
+        "Posted 9 days ago (2026-10-08)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-09)"
+        "Posted 8 days ago (2026-10-09)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-14)"
+        "Posted 3 days ago (2026-10-14)"
       ]
     },
     {
@@ -51,11 +51,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-15)"
+        "Posted 2 days ago (2026-10-15)"
       ]
     },
     {
       "rank": 5,
+      "title": "Senior Administration Officer /  Senior Human Resources & Administration Officer",
+      "company": "Hong Kong Breast Cancer Foundation Limited",
+      "location": "North Point, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95321478",
+      "posted_date": "2026-10-16",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-16)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
       "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
       "location": "Aberdeen, Southern District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-15)"
+        "Posted 2 days ago (2026-10-15)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "(Senior) HR Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-12)"
+        "Posted 5 days ago (2026-10-12)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-09)"
+        "Posted 8 days ago (2026-10-09)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "HR Officer - Stay In Store (With double pay)",
       "company": "Aeon Stores (Hong Kong) Co Ltd",
       "location": "Hong Kong Island",
@@ -102,31 +115,19 @@
       "posted_date": "2026-10-16",
       "score": 2,
       "reasons": [
-        "Posted today (2026-10-16)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "SENIOR HUMAN RESOURCES OFFICER (Talent Acquisition) (5-Month Contract)",
-      "company": "Harbour City Estates Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95306504",
-      "posted_date": "2026-10-16",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-10-16)"
+        "Posted 1 day ago (2026-10-16)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer – HR TA Project",
-      "company": "China Mobile International Limited",
-      "location": "Kwai Hing, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95289105",
-      "posted_date": "2026-10-15",
+      "title": "HR and Admin Officer",
+      "company": "McQuay Air-conditioning Limited",
+      "location": "Ngau Tau Kok, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/95311043",
+      "posted_date": "2026-10-16",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-10-15)"
+        "Posted 1 day ago (2026-10-16)"
       ]
     }
   ]
