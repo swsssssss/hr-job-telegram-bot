@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T18:39:02.480464",
-  "slot": "evening",
+  "updated_at": "2026-10-20T04:09:06.572205",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -69,18 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "HR Officer - Stay In Store (With double pay)",
-      "company": "Aeon Stores (Hong Kong) Co Ltd",
-      "location": "Hong Kong Island",
-      "url": "https://hk.jobsdb.com/job/95304673",
-      "posted_date": "2026-10-16",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-10-16)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Senior Human Resources Officer – HR TA Project",
       "company": "China Mobile International Limited",
       "location": "Kwai Hing, Kwai Tsing District",
@@ -89,6 +77,18 @@
       "score": 2,
       "reasons": [
         "Posted 5 days ago (2026-10-15)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "HR Officer - Stay In Store (With double pay)",
+      "company": "Aeon Stores (Hong Kong) Co Ltd",
+      "location": "Hong Kong Island",
+      "url": "https://hk.jobsdb.com/job/95304673",
+      "posted_date": "2026-10-16",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-10-16)"
       ]
     },
     {
@@ -105,18 +105,6 @@
     },
     {
       "rank": 9,
-      "title": "HR and Admin Officer",
-      "company": "McQuay Air-conditioning Limited",
-      "location": "Ngau Tau Kok, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/95311043",
-      "posted_date": "2026-10-16",
-      "score": 2,
-      "reasons": [
-        "Posted 4 days ago (2026-10-16)"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Human Resources Officer (Compensation & Benefits)",
       "company": "S.F. Express (Hong Kong) Ltd",
       "location": "Tsing Yi, Kwai Tsing District",
@@ -125,6 +113,18 @@
       "score": 2,
       "reasons": [
         "Posted 7 days ago (2026-10-13)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "HR and Admin Officer",
+      "company": "McQuay Air-conditioning Limited",
+      "location": "Ngau Tau Kok, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/95311043",
+      "posted_date": "2026-10-16",
+      "score": 2,
+      "reasons": [
+        "Posted 4 days ago (2026-10-16)"
       ]
     }
   ]
