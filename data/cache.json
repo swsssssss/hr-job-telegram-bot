@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-10-20T16:46:06.695238",
-  "slot": "evening",
+  "updated_at": "2026-10-21T03:57:41.871466",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer (Generalist)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95396448",
+      "posted_date": "2026-10-21",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-10-21)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Human Resources Officer",
       "company": "China Life Insurance (Overseas) Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -16,7 +29,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "(Senior) HR Officer",
       "company": "Chuang's Consortium Ltd",
       "location": "Central and Western District",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
       "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
       "location": "Aberdeen, Southern District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Senior Administration Officer /  Senior Human Resources & Administration Officer",
       "company": "Hong Kong Breast Cancer Foundation Limited",
       "location": "North Point, Eastern District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Morgan Philips Hong Kong Limited",
       "location": "Kennedy Town, Central and Western District",
@@ -69,7 +82,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "HR & Administration Officer",
       "company": "Blue Place",
       "location": "Lai Chi Kok, Sham Shui Po District",
@@ -81,7 +94,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Premier Brands Group International Limited",
       "location": "Kwai Fong, Kwai Tsing District",
@@ -93,7 +106,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "HR & Admin Officer - Fintech & Financial Services",
       "company": "Furong Uptech Solution Co., Ltd",
       "location": "Tsuen Wan District",
@@ -105,7 +118,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "SENIOR ADMINISTRATIVE & HUMAN RESOURCES OFFICER",
       "company": "Henderson Land Development Company Limited",
       "location": "Others",
@@ -114,18 +127,6 @@
       "score": 2,
       "reasons": [
         "Posted 1 day ago (2026-10-20)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior Human Resources Officer – HR TA Project",
-      "company": "China Mobile International Limited",
-      "location": "Kwai Hing, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95289105",
-      "posted_date": "2026-10-15",
-      "score": 2,
-      "reasons": [
-        "Posted 6 days ago (2026-10-15)"
       ]
     }
   ]
