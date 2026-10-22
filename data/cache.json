@@ -1,9 +1,35 @@
 {
-  "updated_at": "2026-10-22T03:58:18.364943",
-  "slot": "morning",
+  "updated_at": "2026-10-22T17:01:44.285097",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer",
+      "company": "Wisers Information Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95429209",
+      "posted_date": "2026-10-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-22)"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Senior HR Officer (Payroll)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95439892",
+      "posted_date": "2026-10-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-22)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Senior HR Officer (Generalist)",
       "company": "KOS International Limited",
       "location": "Central and Western District",
@@ -12,24 +38,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-21)"
+        "Posted 2 days ago (2026-10-21)"
       ]
     },
     {
-      "rank": 2,
-      "title": "HR Associate/Senior HR Associate, Compensation and Benefits, Human Resources",
-      "company": "CITIC Securities International Company Limited",
-      "location": "Admiralty, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95263790",
-      "posted_date": "2026-10-14",
-      "score": 15,
+      "rank": 4,
+      "title": "Human Resources and Administrative Officer",
+      "company": "Top Match Talent Solutions Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95430202",
+      "posted_date": "2026-10-22",
+      "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-14)"
+        "Posted 1 day ago (2026-10-22)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
       "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
       "location": "Aberdeen, Southern District",
@@ -38,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-21)"
+        "Posted 2 days ago (2026-10-21)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Human Resources Officer",
       "company": "China Life Insurance (Overseas) Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -51,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-15)"
+        "Posted 8 days ago (2026-10-15)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Senior Administration Officer /  Senior Human Resources & Administration Officer",
       "company": "Hong Kong Breast Cancer Foundation Limited",
       "location": "North Point, Eastern District",
@@ -64,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-16)"
+        "Posted 7 days ago (2026-10-16)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "(Senior) HR Officer",
       "company": "Morgan Philips Hong Kong Limited",
       "location": "Kennedy Town, Central and Western District",
@@ -78,11 +104,23 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 2 days ago (2026-10-20)"
+        "Posted 3 days ago (2026-10-20)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "(Senior) Human Resources Officer - On Site",
+      "company": "CR Construction Company Limited",
+      "location": "North District",
+      "url": "https://hk.jobsdb.com/job/95437189",
+      "posted_date": "2026-10-22",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-10-22)"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Human Resources Officer/Specialist",
       "company": "FABCOM Limited",
       "location": "Kowloon Bay, Kwun Tong District",
@@ -90,43 +128,7 @@
       "posted_date": "2026-10-21",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-10-21)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "HR & Administration Officer",
-      "company": "Blue Place",
-      "location": "Lai Chi Kok, Sham Shui Po District",
-      "url": "https://hk.jobsdb.com/job/95382709",
-      "posted_date": "2026-10-20",
-      "score": 2,
-      "reasons": [
-        "Posted 2 days ago (2026-10-20)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer",
-      "company": "Premier Brands Group International Limited",
-      "location": "Kwai Fong, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95379565",
-      "posted_date": "2026-10-20",
-      "score": 2,
-      "reasons": [
-        "Posted 2 days ago (2026-10-20)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR Senior Officer 薪酬高級主任",
-      "company": "Sinotrans Overseas Development Limited",
-      "location": "Tsing Yi, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95401584",
-      "posted_date": "2026-10-21",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-10-21)"
+        "Posted 2 days ago (2026-10-21)"
       ]
     }
   ]
