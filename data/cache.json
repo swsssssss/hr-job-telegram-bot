@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T17:02:40.169855",
-  "slot": "evening",
+  "updated_at": "2026-10-22T03:58:18.364943",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -17,6 +17,19 @@
     },
     {
       "rank": 2,
+      "title": "HR Associate/Senior HR Associate, Compensation and Benefits, Human Resources",
+      "company": "CITIC Securities International Company Limited",
+      "location": "Admiralty, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95263790",
+      "posted_date": "2026-10-14",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 8 days ago (2026-10-14)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
       "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
       "location": "Aberdeen, Southern District",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "China Life Insurance (Overseas) Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Senior Administration Officer /  Senior Human Resources & Administration Officer",
       "company": "Hong Kong Breast Cancer Foundation Limited",
       "location": "North Point, Eastern District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "(Senior) HR Officer",
       "company": "Morgan Philips Hong Kong Limited",
       "location": "Kennedy Town, Central and Western District",
@@ -69,23 +82,11 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Human Resources Officer/Specialist",
       "company": "FABCOM Limited",
       "location": "Kowloon Bay, Kwun Tong District",
       "url": "https://hk.jobsdb.com/job/95414203",
-      "posted_date": "2026-10-21",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-10-21)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "HR Senior Officer 薪酬高級主任",
-      "company": "Sinotrans Overseas Development Limited",
-      "location": "Tsing Yi, Kwai Tsing District",
-      "url": "https://hk.jobsdb.com/job/95401584",
       "posted_date": "2026-10-21",
       "score": 2,
       "reasons": [
@@ -118,14 +119,14 @@
     },
     {
       "rank": 10,
-      "title": "HR & Admin Officer - Fintech & Financial Services",
-      "company": "Furong Uptech Solution Co., Ltd",
-      "location": "Tsuen Wan District",
-      "url": "https://hk.jobsdb.com/job/95379176",
-      "posted_date": "2026-10-20",
+      "title": "HR Senior Officer 薪酬高級主任",
+      "company": "Sinotrans Overseas Development Limited",
+      "location": "Tsing Yi, Kwai Tsing District",
+      "url": "https://hk.jobsdb.com/job/95401584",
+      "posted_date": "2026-10-21",
       "score": 2,
       "reasons": [
-        "Posted 2 days ago (2026-10-20)"
+        "Posted 1 day ago (2026-10-21)"
       ]
     }
   ]
