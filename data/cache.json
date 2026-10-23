@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T17:01:44.285097",
-  "slot": "evening",
+  "updated_at": "2026-10-23T04:01:37.128349",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -95,6 +95,20 @@
     },
     {
       "rank": 8,
+      "title": "HR/Administrator Officer",
+      "company": "AllRightsReserved Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95453755",
+      "posted_date": "2026-10-23",
+      "score": 7,
+      "reasons": [
+        "salary below target ($18,000)",
+        "preferred location",
+        "Posted today (2026-10-23)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "(Senior) HR Officer",
       "company": "Morgan Philips Hong Kong Limited",
       "location": "Kennedy Town, Central and Western District",
@@ -108,27 +122,15 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "(Senior) Human Resources Officer - On Site",
-      "company": "CR Construction Company Limited",
-      "location": "North District",
-      "url": "https://hk.jobsdb.com/job/95437189",
-      "posted_date": "2026-10-22",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-10-22)"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Human Resources Officer/Specialist",
-      "company": "FABCOM Limited",
-      "location": "Kowloon Bay, Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/95414203",
-      "posted_date": "2026-10-21",
+      "title": "Human Resources Officer (Temporary)",
+      "company": "CUHK Medical Centre Limited",
+      "location": "Sha Tin District",
+      "url": "https://hk.jobsdb.com/job/95454226",
+      "posted_date": "2026-10-23",
       "score": 2,
       "reasons": [
-        "Posted 2 days ago (2026-10-21)"
+        "Posted today (2026-10-23)"
       ]
     }
   ]
