@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T15:57:49.533322",
-  "slot": "evening",
+  "updated_at": "2026-10-26T03:59:33.445409",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-23)"
+        "Posted 3 days ago (2026-10-23)"
       ]
     },
     {
@@ -25,7 +25,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-22)"
+        "Posted 4 days ago (2026-10-22)"
       ]
     },
     {
@@ -38,7 +38,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-22)"
+        "Posted 4 days ago (2026-10-22)"
       ]
     },
     {
@@ -51,11 +51,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-21)"
+        "Posted 5 days ago (2026-10-21)"
       ]
     },
     {
       "rank": 5,
+      "title": "Human Resources and Administrative Officer",
+      "company": "LTC CPA Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95488813",
+      "posted_date": "2026-10-26",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-10-26)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Human Resources Officer (Job Code: 391)",
       "company": "Baptist Oi Kwan Social Service",
       "location": "Wan Chai District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-23)"
+        "Posted 3 days ago (2026-10-23)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Human Resources and Administrative Officer",
       "company": "Top Match Talent Solutions Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-22)"
+        "Posted 4 days ago (2026-10-22)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
       "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
       "location": "Aberdeen, Southern District",
@@ -90,20 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-21)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Senior Administration Officer /  Senior Human Resources & Administration Officer",
-      "company": "Hong Kong Breast Cancer Foundation Limited",
-      "location": "North Point, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95321478",
-      "posted_date": "2026-10-16",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-10-16)"
+        "Posted 5 days ago (2026-10-21)"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "reasons": [
         "salary below target ($18,000)",
         "preferred location",
-        "Posted 2 days ago (2026-10-23)"
+        "Posted 3 days ago (2026-10-23)"
       ]
     },
     {
@@ -131,7 +131,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 5 days ago (2026-10-20)"
+        "Posted 6 days ago (2026-10-20)"
       ]
     }
   ]
