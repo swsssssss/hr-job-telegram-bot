@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T04:20:32.596575",
-  "slot": "morning",
+  "updated_at": "2026-10-27T17:52:09.882872",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-23)"
+        "Posted 5 days ago (2026-10-23)"
       ]
     },
     {
@@ -25,24 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-22)"
+        "Posted 6 days ago (2026-10-22)"
       ]
     },
     {
       "rank": 3,
-      "title": "Senior HR Officer (Generalist)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95396448",
-      "posted_date": "2026-10-21",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-10-21)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior HR Officer (Payroll)",
       "company": "KOS International Limited",
       "location": "Central and Western District",
@@ -51,11 +38,37 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-22)"
+        "Posted 6 days ago (2026-10-22)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior HR Officer (Generalist)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95396448",
+      "posted_date": "2026-10-21",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-10-21)"
       ]
     },
     {
       "rank": 5,
+      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
+      "company": "Property Management Services Authority",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95523516",
+      "posted_date": "2026-10-27",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-27)"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Human Resources and Administrative Officer",
       "company": "LTC CPA Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-26)"
+        "Posted 2 days ago (2026-10-26)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Human Resources Officer (Job Code: 391)",
       "company": "Baptist Oi Kwan Social Service",
       "location": "Wan Chai District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-23)"
+        "Posted 5 days ago (2026-10-23)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Human Resources and Administrative Officer",
       "company": "Top Match Talent Solutions Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -90,20 +103,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-22)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Human Resources Officer【Ref： CADM-HRO-10/2026-DB 】",
-      "company": "Aberdeen Kai-Fong Welfare Association Social Service Centre",
-      "location": "Aberdeen, Southern District",
-      "url": "https://hk.jobsdb.com/job/95407893",
-      "posted_date": "2026-10-21",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-10-21)"
+        "Posted 6 days ago (2026-10-22)"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "reasons": [
         "salary below target ($18,000)",
         "preferred location",
-        "Posted 4 days ago (2026-10-23)"
+        "Posted 5 days ago (2026-10-23)"
       ]
     },
     {
@@ -131,7 +131,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 7 days ago (2026-10-20)"
+        "Posted 8 days ago (2026-10-20)"
       ]
     }
   ]
