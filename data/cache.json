@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T18:36:41.301013",
-  "slot": "evening",
+  "updated_at": "2026-10-27T04:20:32.596575",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Senior HR Officer (Payroll)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95439892",
-      "posted_date": "2026-10-22",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-10-22)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior HR Officer (Generalist)",
       "company": "KOS International Limited",
       "location": "Central and Western District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 6 days ago (2026-10-21)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior HR Officer (Payroll)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95439892",
+      "posted_date": "2026-10-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-10-22)"
       ]
     },
     {
