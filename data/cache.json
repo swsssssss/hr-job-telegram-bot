@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T18:16:41.405586",
-  "slot": "evening",
+  "updated_at": "2026-10-29T05:00:56.459982",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -30,19 +30,6 @@
     },
     {
       "rank": 3,
-      "title": "Senior HR Officer (Payroll)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95439892",
-      "posted_date": "2026-10-22",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-10-22)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Senior HR Officer (Generalist)",
       "company": "KOS International Limited",
       "location": "Central and Western District",
@@ -52,6 +39,19 @@
       "reasons": [
         "preferred location",
         "Posted 8 days ago (2026-10-21)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Senior HR Officer (Payroll)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95439892",
+      "posted_date": "2026-10-22",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-10-22)"
       ]
     },
     {
@@ -95,19 +95,6 @@
     },
     {
       "rank": 8,
-      "title": "Human Resources and Administrative Officer",
-      "company": "Top Match Talent Solutions Limited",
-      "location": "Causeway Bay, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95430202",
-      "posted_date": "2026-10-22",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-10-22)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "HR/Administrator Officer",
       "company": "AllRightsReserved Limited",
       "location": "Wan Chai District",
@@ -121,7 +108,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "(Senior) HR Officer",
       "company": "Morgan Philips Hong Kong Limited",
       "location": "Kennedy Town, Central and Western District",
@@ -132,6 +119,18 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 9 days ago (2026-10-20)"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Senior HR Officer",
+      "company": "2nd STREET HONGKONG,LIMITED",
+      "location": "Mong Kok, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95553229",
+      "posted_date": "2026-10-28",
+      "score": 5,
+      "reasons": [
+        "Posted 1 day ago (2026-10-28)"
       ]
     }
   ]
