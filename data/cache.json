@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-10-29T05:00:56.459982",
-  "slot": "morning",
+  "updated_at": "2026-10-29T18:21:55.631975",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
       "title": "Senior HR Officer",
-      "company": "Crowe (HK) CPA Limited",
+      "company": "Compass Offices",
       "location": "Causeway Bay, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95465824",
-      "posted_date": "2026-10-23",
-      "score": 15,
+      "url": "https://hk.jobsdb.com/job/95583022",
+      "posted_date": "2026-10-29",
+      "score": 21,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-23)"
+        "preferred company",
+        "Posted 1 day ago (2026-10-29)"
       ]
     },
     {
       "rank": 2,
+      "title": "Senior HR Officer",
+      "company": "Crowe (HK) CPA Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95582128",
+      "posted_date": "2026-10-29",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-29)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Senior HR Officer",
       "company": "Wisers Information Limited",
       "location": "Wan Chai District",
@@ -25,20 +39,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-22)"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Senior HR Officer (Generalist)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95396448",
-      "posted_date": "2026-10-21",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-10-21)"
+        "Posted 8 days ago (2026-10-22)"
       ]
     },
     {
@@ -51,11 +52,50 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-22)"
+        "Posted 8 days ago (2026-10-22)"
       ]
     },
     {
       "rank": 5,
+      "title": "Senior HR Officer (Generalist)",
+      "company": "KOS International Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95396448",
+      "posted_date": "2026-10-21",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-10-21)"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Human Resources Officer",
+      "company": "The American Club Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94949209",
+      "posted_date": "2026-10-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-29)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources Officer (Contract) (Ref: HR/295226)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95581954",
+      "posted_date": "2026-10-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-29)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
       "company": "Property Management Services Authority",
       "location": "Wan Chai, Wan Chai District",
@@ -64,11 +104,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-28)"
+        "Posted 2 days ago (2026-10-28)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Human Resources and Administrative Officer",
       "company": "LTC CPA Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -77,11 +117,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-26)"
+        "Posted 4 days ago (2026-10-26)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Human Resources Officer (Job Code: 391)",
       "company": "Baptist Oi Kwan Social Service",
       "location": "Wan Chai District",
@@ -90,47 +130,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-23)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "HR/Administrator Officer",
-      "company": "AllRightsReserved Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95453755",
-      "posted_date": "2026-10-23",
-      "score": 7,
-      "reasons": [
-        "salary below target ($18,000)",
-        "preferred location",
-        "Posted 6 days ago (2026-10-23)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "(Senior) HR Officer",
-      "company": "Morgan Philips Hong Kong Limited",
-      "location": "Kennedy Town, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95385098",
-      "posted_date": "2026-10-20",
-      "score": 7,
-      "reasons": [
-        "salary below target ($25,000)",
-        "preferred location",
-        "Posted 9 days ago (2026-10-20)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Senior HR Officer",
-      "company": "2nd STREET HONGKONG,LIMITED",
-      "location": "Mong Kok, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95553229",
-      "posted_date": "2026-10-28",
-      "score": 5,
-      "reasons": [
-        "Posted 1 day ago (2026-10-28)"
+        "Posted 7 days ago (2026-10-23)"
       ]
     }
   ]
