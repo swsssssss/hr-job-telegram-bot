@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T18:21:55.631975",
-  "slot": "evening",
+  "updated_at": "2026-10-30T05:00:13.588349",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -96,19 +96,6 @@
     },
     {
       "rank": 8,
-      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
-      "company": "Property Management Services Authority",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95539674",
-      "posted_date": "2026-10-28",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-28)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Human Resources and Administrative Officer",
       "company": "LTC CPA Limited",
       "location": "Causeway Bay, Wan Chai District",
@@ -118,6 +105,19 @@
       "reasons": [
         "preferred location",
         "Posted 4 days ago (2026-10-26)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
+      "company": "Property Management Services Authority",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95539674",
+      "posted_date": "2026-10-28",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-10-28)"
       ]
     },
     {
