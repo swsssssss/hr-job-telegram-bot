@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T05:00:13.588349",
-  "slot": "morning",
+  "updated_at": "2026-10-30T17:56:27.117991",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 1 day ago (2026-10-29)"
+        "Posted 2 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-29)"
+        "Posted 2 days ago (2026-10-29)"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-22)"
+        "Posted 9 days ago (2026-10-22)"
       ]
     },
     {
@@ -52,24 +52,63 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-22)"
+        "Posted 9 days ago (2026-10-22)"
       ]
     },
     {
       "rank": 5,
-      "title": "Senior HR Officer (Generalist)",
-      "company": "KOS International Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95396448",
-      "posted_date": "2026-10-21",
-      "score": 15,
+      "title": "Human Resources Officer",
+      "company": "Tai Hing Worldwide Development Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95603601",
+      "posted_date": "2026-10-30",
+      "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-10-21)"
+        "Posted 1 day ago (2026-10-30)"
       ]
     },
     {
       "rank": 6,
+      "title": "人事薪酬主任 Human Resources Officer  - Payroll / C&B",
+      "company": "China Travel Tours Transportation Services Hong Kong Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95610825",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95609581",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Human Resources Officer - Payroll/C&B Function",
+      "company": "Schindler Lifts (HK) Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95610173",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -78,11 +117,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-29)"
+        "Posted 2 days ago (2026-10-29)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Human Resources Officer (Contract) (Ref: HR/295226)",
       "company": "St. James' Settlement",
       "location": "Wan Chai District",
@@ -91,46 +130,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-10-29)"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Human Resources and Administrative Officer",
-      "company": "LTC CPA Limited",
-      "location": "Causeway Bay, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95488813",
-      "posted_date": "2026-10-26",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-10-26)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
-      "company": "Property Management Services Authority",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95539674",
-      "posted_date": "2026-10-28",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 2 days ago (2026-10-28)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer (Job Code: 391)",
-      "company": "Baptist Oi Kwan Social Service",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95456727",
-      "posted_date": "2026-10-23",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 7 days ago (2026-10-23)"
+        "Posted 2 days ago (2026-10-29)"
       ]
     }
   ]
