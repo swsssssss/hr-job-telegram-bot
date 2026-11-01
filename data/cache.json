@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T05:12:04.315487",
-  "slot": "morning",
+  "updated_at": "2026-11-01T17:51:48.173901",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 3 days ago (2026-10-29)"
+        "Posted 4 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-29)"
+        "Posted 4 days ago (2026-10-29)"
       ]
     },
     {
@@ -39,20 +39,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-30)"
+        "Posted 3 days ago (2026-10-30)"
       ]
     },
     {
       "rank": 4,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95609581",
-      "posted_date": "2026-10-30",
+      "title": "Human Resources Officer",
+      "company": "The American Club Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94949209",
+      "posted_date": "2026-10-29",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-30)"
+        "Posted 4 days ago (2026-10-29)"
       ]
     },
     {
@@ -65,20 +65,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-30)"
+        "Posted 3 days ago (2026-10-30)"
       ]
     },
     {
       "rank": 6,
-      "title": "Human Resources Officer",
-      "company": "The American Club Hong Kong",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94949209",
-      "posted_date": "2026-10-29",
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95609581",
+      "posted_date": "2026-10-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-29)"
+        "Posted 3 days ago (2026-10-30)"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-10-29)"
+        "Posted 4 days ago (2026-10-29)"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-10-30)"
+        "Posted 3 days ago (2026-10-30)"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-26)"
+        "Posted 7 days ago (2026-10-26)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-28)"
+        "Posted 5 days ago (2026-10-28)"
       ]
     }
   ]
