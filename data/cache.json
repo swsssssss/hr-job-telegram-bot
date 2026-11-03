@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T05:55:37.370873",
-  "slot": "morning",
+  "updated_at": "2026-11-03T19:24:02.255785",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 5 days ago (2026-10-29)"
+        "Posted 6 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,11 +26,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-29)"
+        "Posted 6 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 3,
+      "title": "HR Officer – People Operations",
+      "company": "Cosmic Education Group Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95661852",
+      "posted_date": "2026-11-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-03)"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
       "location": "Quarry Bay, Eastern District",
@@ -39,11 +52,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-02)"
+        "Posted 2 days ago (2026-11-02)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer",
       "company": "Tai Hing Worldwide Development Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -52,20 +65,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-30)"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95609581",
-      "posted_date": "2026-10-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-10-30)"
+        "Posted 5 days ago (2026-10-30)"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-10-30)"
+        "Posted 5 days ago (2026-10-30)"
       ]
     },
     {
@@ -91,11 +91,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-29)"
+        "Posted 6 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 8,
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95609581",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 5 days ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
       "company": "Property Management Services Authority",
       "location": "Wan Chai, Wan Chai District",
@@ -104,33 +117,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-28)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "人事薪酬主任 Human Resources Officer  - Payroll / C&B",
-      "company": "China Travel Tours Transportation Services Hong Kong Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95610825",
-      "posted_date": "2026-10-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 4 days ago (2026-10-30)"
+        "Posted 7 days ago (2026-10-28)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources and Administrative Officer",
-      "company": "LTC CPA Limited",
-      "location": "Causeway Bay, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95488813",
-      "posted_date": "2026-10-26",
+      "title": "HR Officer (Talents Admissions / Labour Imports application)",
+      "company": "Andrew Found Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95667194",
+      "posted_date": "2026-11-03",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-26)"
+        "Posted 1 day ago (2026-11-03)"
       ]
     }
   ]
