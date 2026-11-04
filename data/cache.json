@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T05:31:54.300573",
-  "slot": "morning",
+  "updated_at": "2026-11-04T19:39:25.996754",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 6 days ago (2026-10-29)"
+        "Posted 7 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,24 +26,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-29)"
+        "Posted 7 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 3,
-      "title": "HR Officer – People Operations",
-      "company": "Cosmic Education Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95661852",
-      "posted_date": "2026-11-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-11-03)"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Human Resources Officer",
       "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
       "location": "Quarry Bay, Eastern District",
@@ -52,50 +39,24 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-11-02)"
+        "Posted 3 days ago (2026-11-02)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "HR Officer – People Operations",
+      "company": "Cosmic Education Group Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95661852",
+      "posted_date": "2026-11-03",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 2 days ago (2026-11-03)"
       ]
     },
     {
       "rank": 5,
-      "title": "Human Resources Officer",
-      "company": "Tai Hing Worldwide Development Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95603601",
-      "posted_date": "2026-10-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-10-30)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Human Resources Officer",
-      "company": "The American Club Hong Kong",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/94949209",
-      "posted_date": "2026-10-29",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-10-29)"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95609581",
-      "posted_date": "2026-10-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 5 days ago (2026-10-30)"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Human Resources Officer - Payroll/C&B Function",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -104,11 +65,37 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-10-30)"
+        "Posted 6 days ago (2026-10-30)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95609581",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Human Resources Officer",
+      "company": "Tai Hing Worldwide Development Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95603601",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 6 days ago (2026-10-30)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
       "company": "Property Management Services Authority",
       "location": "Wan Chai, Wan Chai District",
@@ -117,20 +104,33 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-28)"
+        "Posted 8 days ago (2026-10-28)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources Officer",
+      "company": "The American Club Hong Kong",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/94949209",
+      "posted_date": "2026-10-29",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 10,
-      "title": "HR Officer (Talents Admissions / Labour Imports application)",
-      "company": "Andrew Found Limited",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95667194",
-      "posted_date": "2026-11-03",
+      "title": "Human Resources Officer (Contract) (Ref: HR/295226)",
+      "company": "St. James' Settlement",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95581954",
+      "posted_date": "2026-10-29",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-03)"
+        "Posted 7 days ago (2026-10-29)"
       ]
     }
   ]
