@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T05:52:19.693260",
-  "slot": "morning",
+  "updated_at": "2026-11-05T19:49:03.469394",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 7 days ago (2026-10-29)"
+        "Posted 8 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-29)"
+        "Posted 8 days ago (2026-10-29)"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-11-02)"
+        "Posted 4 days ago (2026-11-02)"
       ]
     },
     {
@@ -52,37 +52,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-11-03)"
+        "Posted 3 days ago (2026-11-03)"
       ]
     },
     {
       "rank": 5,
-      "title": "Human Resources Officer",
-      "company": "Tai Hing Worldwide Development Ltd",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95603601",
-      "posted_date": "2026-10-30",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 6 days ago (2026-10-30)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
-      "company": "Property Management Services Authority",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95539674",
-      "posted_date": "2026-10-28",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 8 days ago (2026-10-28)"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Human Resources Officer - Payroll/C&B Function",
       "company": "Schindler Lifts (HK) Ltd",
       "location": "Quarry Bay, Eastern District",
@@ -91,24 +65,37 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-30)"
+        "Posted 7 days ago (2026-10-30)"
       ]
     },
     {
-      "rank": 8,
-      "title": "Human Resources & Administration Officer",
-      "company": "Harris Fraser Corporate Services Limited",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95609581",
+      "rank": 6,
+      "title": "Human Resources Officer",
+      "company": "Tai Hing Worldwide Development Ltd",
+      "location": "Quarry Bay, Eastern District",
+      "url": "https://hk.jobsdb.com/job/95603601",
       "posted_date": "2026-10-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-30)"
+        "Posted 7 days ago (2026-10-30)"
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
+      "company": "Property Management Services Authority",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95539674",
+      "posted_date": "2026-10-28",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 9 days ago (2026-10-28)"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Human Resources Officer",
       "company": "The American Club Hong Kong",
       "location": "Central, Central and Western District",
@@ -117,7 +104,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-29)"
+        "Posted 8 days ago (2026-10-29)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Human Resources & Administration Officer",
+      "company": "Harris Fraser Corporate Services Limited",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95609581",
+      "posted_date": "2026-10-30",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 7 days ago (2026-10-30)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-10-30)"
+        "Posted 7 days ago (2026-10-30)"
       ]
     }
   ]
