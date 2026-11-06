@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T05:48:22.196119",
-  "slot": "morning",
+  "updated_at": "2026-11-06T19:14:34.101998",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
       "reasons": [
         "preferred location",
         "preferred company",
-        "Posted 8 days ago (2026-10-29)"
+        "Posted 9 days ago (2026-10-29)"
       ]
     },
     {
@@ -26,20 +26,20 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-29)"
+        "Posted 9 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 3,
-      "title": "Human Resources & Administrative Manager / Officer",
-      "company": "Inke Hongkong Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95740972",
+      "title": "Senior Human Resources Officer",
+      "company": "Hong Kong Trade Development Council",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95750154",
       "posted_date": "2026-11-06",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-11-06)"
+        "Posted 1 day ago (2026-11-06)"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-11-02)"
+        "Posted 5 days ago (2026-11-02)"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-11-03)"
+        "Posted 4 days ago (2026-11-03)"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-30)"
+        "Posted 8 days ago (2026-10-30)"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-10-30)"
+        "Posted 8 days ago (2026-10-30)"
       ]
     },
     {
@@ -104,20 +104,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-29)"
+        "Posted 9 days ago (2026-10-29)"
       ]
     },
     {
       "rank": 9,
-      "title": "Senior Officer (Human Resources) (Ref. No.: PMSA-SOHR-36/26)",
-      "company": "Property Management Services Authority",
-      "location": "Wan Chai, Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95539674",
-      "posted_date": "2026-10-28",
+      "title": "人事薪酬主任 Human Resources Officer  - Payroll / C&B",
+      "company": "China Travel Tours Transportation Services Hong Kong Limited",
+      "location": "Sheung Wan, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95610825",
+      "posted_date": "2026-10-30",
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 9 days ago (2026-10-28)"
+        "Posted 8 days ago (2026-10-30)"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-10-29)"
+        "Posted 9 days ago (2026-10-29)"
       ]
     }
   ]
