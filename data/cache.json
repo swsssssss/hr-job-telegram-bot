@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T19:14:34.101998",
-  "slot": "evening",
+  "updated_at": "2026-11-07T05:19:08.117492",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -122,15 +122,16 @@
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer (Contract) (Ref: HR/295226)",
-      "company": "St. James' Settlement",
-      "location": "Wan Chai District",
-      "url": "https://hk.jobsdb.com/job/95581954",
-      "posted_date": "2026-10-29",
-      "score": 12,
+      "title": "Human Resources Officer (25K-30K)",
+      "company": "PERSOL Hong Kong Limited",
+      "location": "Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95655791",
+      "posted_date": "2026-11-03",
+      "score": 7,
       "reasons": [
+        "salary below target ($25,000)",
         "preferred location",
-        "Posted 9 days ago (2026-10-29)"
+        "Posted 4 days ago (2026-11-03)"
       ]
     }
   ]
