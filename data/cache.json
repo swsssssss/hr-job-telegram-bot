@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T05:28:21.688632",
-  "slot": "morning",
+  "updated_at": "2026-11-09T22:13:36.569768",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted today (2026-11-09)"
+        "Posted 1 day ago (2026-11-09)"
       ]
     },
     {
       "rank": 2,
+      "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
+      "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95780834",
+      "posted_date": "2026-11-09",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-09)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Human Resources Officer",
       "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
       "location": "Quarry Bay, Eastern District",
@@ -25,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-11-02)"
+        "Posted 8 days ago (2026-11-02)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "HR Officer – People Operations",
       "company": "Cosmic Education Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-11-03)"
+        "Posted 7 days ago (2026-11-03)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -51,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-11-06)"
+        "Posted 4 days ago (2026-11-06)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Human Resources Officer (25K-30K)",
       "company": "PERSOL Hong Kong Limited",
       "location": "Central and Western District",
@@ -65,19 +78,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 6 days ago (2026-11-03)"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "(Senior)Human Resources Officer",
-      "company": "Trinity Medical Group Limited",
-      "location": "Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95769004",
-      "posted_date": "2026-11-09",
-      "score": 2,
-      "reasons": [
-        "Posted today (2026-11-09)"
+        "Posted 7 days ago (2026-11-03)"
       ]
     },
     {
@@ -89,11 +90,23 @@
       "posted_date": "2026-11-06",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-11-06)"
+        "Posted 4 days ago (2026-11-06)"
       ]
     },
     {
       "rank": 8,
+      "title": "(Senior)Human Resources Officer",
+      "company": "Trinity Medical Group Limited",
+      "location": "Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95769004",
+      "posted_date": "2026-11-09",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-11-09)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "HR Officer",
       "company": "Spiakl Tech Limited",
       "location": "Kwun Tong District",
@@ -101,31 +114,19 @@
       "posted_date": "2026-11-05",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-11-05)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Senior Human Resources Officer / Officer",
-      "company": "The Wharf Group",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95760760",
-      "posted_date": "2026-11-08",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-11-08)"
+        "Posted 5 days ago (2026-11-05)"
       ]
     },
     {
       "rank": 10,
-      "title": "Senior Human Resources Officer",
-      "company": "ECO-GREEN GROUP LIMITED",
-      "location": "Sha Tin District",
-      "url": "https://hk.jobsdb.com/job/95736890",
-      "posted_date": "2026-11-06",
+      "title": "Human Resources Officer （人事）",
+      "company": "鞍鑫科技有限公司",
+      "location": "Mong Kok, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95638905",
+      "posted_date": "2026-11-02",
       "score": 2,
       "reasons": [
-        "Posted 3 days ago (2026-11-06)"
+        "Posted 8 days ago (2026-11-02)"
       ]
     }
   ]
