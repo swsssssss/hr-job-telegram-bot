@@ -1,9 +1,22 @@
 {
-  "updated_at": "2026-11-08T17:51:49.853368",
-  "slot": "evening",
+  "updated_at": "2026-11-09T05:28:21.688632",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
+      "title": "Senior HR Officer",
+      "company": "Samsung Electronics HK Co Ltd",
+      "location": "Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95770501",
+      "posted_date": "2026-11-09",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-11-09)"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Human Resources Officer",
       "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
       "location": "Quarry Bay, Eastern District",
@@ -16,7 +29,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "HR Officer – People Operations",
       "company": "Cosmic Education Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -29,7 +42,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -42,7 +55,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Human Resources Officer (25K-30K)",
       "company": "PERSOL Hong Kong Limited",
       "location": "Central and Western District",
@@ -56,7 +69,19 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "(Senior)Human Resources Officer",
+      "company": "Trinity Medical Group Limited",
+      "location": "Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95769004",
+      "posted_date": "2026-11-09",
+      "score": 2,
+      "reasons": [
+        "Posted today (2026-11-09)"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Human Resources Officer / Senior Human Resources Officer",
       "company": "The New Medical Center Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -68,7 +93,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "HR Officer",
       "company": "Spiakl Tech Limited",
       "location": "Kwun Tong District",
@@ -80,7 +105,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Senior Human Resources Officer / Officer",
       "company": "The Wharf Group",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -92,19 +117,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Human Resources Officer （人事）",
-      "company": "鞍鑫科技有限公司",
-      "location": "Mong Kok, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95638905",
-      "posted_date": "2026-11-02",
-      "score": 2,
-      "reasons": [
-        "Posted 7 days ago (2026-11-02)"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Senior Human Resources Officer",
       "company": "ECO-GREEN GROUP LIMITED",
       "location": "Sha Tin District",
@@ -113,18 +126,6 @@
       "score": 2,
       "reasons": [
         "Posted 3 days ago (2026-11-06)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "HR Officer",
-      "company": "Geek Miracle HK Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/95640485",
-      "posted_date": "2026-11-02",
-      "score": 2,
-      "reasons": [
-        "Posted 7 days ago (2026-11-02)"
       ]
     }
   ]
