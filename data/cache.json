@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T06:39:35.087225",
-  "slot": "morning",
+  "updated_at": "2026-11-10T19:36:29.165070",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-09)"
+        "Posted 2 days ago (2026-11-09)"
       ]
     },
     {
       "rank": 2,
+      "title": "Senior HR Officer (TA)",
+      "company": "KOS International Limited",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95807058",
+      "posted_date": "2026-11-10",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-10)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
       "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -25,11 +38,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-09)"
+        "Posted 2 days ago (2026-11-09)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Human Resources Officer",
       "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
       "location": "Quarry Bay, Eastern District",
@@ -38,11 +51,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-11-02)"
+        "Posted 9 days ago (2026-11-02)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "HR Officer – People Operations",
       "company": "Cosmic Education Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -51,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 7 days ago (2026-11-03)"
+        "Posted 8 days ago (2026-11-03)"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -64,11 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 4 days ago (2026-11-06)"
+        "Posted 5 days ago (2026-11-06)"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Human Resources Officer (25K-30K)",
       "company": "PERSOL Hong Kong Limited",
       "location": "Central and Western District",
@@ -78,11 +91,23 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 7 days ago (2026-11-03)"
+        "Posted 8 days ago (2026-11-03)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Human Resources Officer",
+      "company": "TSL Jewellery (H.K.) Co. Limited",
+      "location": "Hung Hom, Kowloon City District",
+      "url": "https://hk.jobsdb.com/job/95809745",
+      "posted_date": "2026-11-10",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-11-10)"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Human Resources Officer / Senior Human Resources Officer",
       "company": "The New Medical Center Limited",
       "location": "Tsim Sha Tsui, Yau Tsim Mong District",
@@ -90,11 +115,11 @@
       "posted_date": "2026-11-06",
       "score": 2,
       "reasons": [
-        "Posted 4 days ago (2026-11-06)"
+        "Posted 5 days ago (2026-11-06)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "(Senior)Human Resources Officer",
       "company": "Trinity Medical Group Limited",
       "location": "Yau Tsim Mong District",
@@ -102,31 +127,7 @@
       "posted_date": "2026-11-09",
       "score": 2,
       "reasons": [
-        "Posted 1 day ago (2026-11-09)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "HR Officer",
-      "company": "Spiakl Tech Limited",
-      "location": "Kwun Tong District",
-      "url": "https://hk.jobsdb.com/job/95719902",
-      "posted_date": "2026-11-05",
-      "score": 2,
-      "reasons": [
-        "Posted 5 days ago (2026-11-05)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer （人事）",
-      "company": "鞍鑫科技有限公司",
-      "location": "Mong Kok, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95638905",
-      "posted_date": "2026-11-02",
-      "score": 2,
-      "reasons": [
-        "Posted 8 days ago (2026-11-02)"
+        "Posted 2 days ago (2026-11-09)"
       ]
     }
   ]
