@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T05:26:20.696740",
-  "slot": "morning",
+  "updated_at": "2026-11-11T19:29:21.136665",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,11 +12,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-11-09)"
+        "Posted 3 days ago (2026-11-09)"
       ]
     },
     {
       "rank": 2,
+      "title": "Senior HR Officer (Apac coverage)",
+      "company": "ESW HOLDINGS PTE. LTD.",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95835925",
+      "posted_date": "2026-11-11",
+      "score": 15,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-11)"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Senior HR Officer (TA)",
       "company": "KOS International Limited",
       "location": "Central, Central and Western District",
@@ -25,11 +38,24 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-10)"
+        "Posted 2 days ago (2026-11-10)"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Human Resources Officer (C&B)",
+      "company": "King Fook Holdings Ltd",
+      "location": "Central, Central and Western District",
+      "url": "https://hk.jobsdb.com/job/95834839",
+      "posted_date": "2026-11-11",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-11)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Senior Human Resources Officer",
       "company": "Forthright Financial Holdings Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -38,11 +64,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-11-11)"
+        "Posted 1 day ago (2026-11-11)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
       "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -51,24 +77,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-11-09)"
+        "Posted 3 days ago (2026-11-09)"
       ]
     },
     {
-      "rank": 5,
-      "title": "Human Resources Officer",
-      "company": "SUP Retail (Hong Kong) Limited 聯合新零售(香港)有限公司",
-      "location": "Quarry Bay, Eastern District",
-      "url": "https://hk.jobsdb.com/job/95629125",
-      "posted_date": "2026-11-02",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-11-02)"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "HR Officer – People Operations",
       "company": "Cosmic Education Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -77,11 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 8 days ago (2026-11-03)"
+        "Posted 9 days ago (2026-11-03)"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -90,11 +103,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 5 days ago (2026-11-06)"
+        "Posted 6 days ago (2026-11-06)"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Human Resources Officer (25K-30K)",
       "company": "PERSOL Hong Kong Limited",
       "location": "Central and Western District",
@@ -104,19 +117,7 @@
       "reasons": [
         "salary below target ($25,000)",
         "preferred location",
-        "Posted 8 days ago (2026-11-03)"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Human Resources Officer",
-      "company": "TSL Jewellery (H.K.) Co. Limited",
-      "location": "Hung Hom, Kowloon City District",
-      "url": "https://hk.jobsdb.com/job/95809745",
-      "posted_date": "2026-11-10",
-      "score": 2,
-      "reasons": [
-        "Posted 1 day ago (2026-11-10)"
+        "Posted 9 days ago (2026-11-03)"
       ]
     },
     {
@@ -128,7 +129,7 @@
       "posted_date": "2026-11-06",
       "score": 2,
       "reasons": [
-        "Posted 5 days ago (2026-11-06)"
+        "Posted 6 days ago (2026-11-06)"
       ]
     }
   ]
