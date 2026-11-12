@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T06:30:28.791811",
-  "slot": "morning",
+  "updated_at": "2026-11-12T19:47:39.997508",
+  "slot": "evening",
   "jobs": [
     {
       "rank": 1,
@@ -12,24 +12,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-11-09)"
+        "Posted 4 days ago (2026-11-09)"
       ]
     },
     {
       "rank": 2,
-      "title": "Senior HR Officer (Apac coverage)",
-      "company": "ESW HOLDINGS PTE. LTD.",
-      "location": "Central, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95835925",
-      "posted_date": "2026-11-11",
-      "score": 15,
-      "reasons": [
-        "preferred location",
-        "Posted 1 day ago (2026-11-11)"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Senior HR Officer (TA)",
       "company": "KOS International Limited",
       "location": "Central, Central and Western District",
@@ -38,11 +25,11 @@
       "score": 15,
       "reasons": [
         "preferred location",
-        "Posted 2 days ago (2026-11-10)"
+        "Posted 3 days ago (2026-11-10)"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Human Resources Officer",
       "company": "China Life Insurance (Overseas) Company Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -51,7 +38,20 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted today (2026-11-12)"
+        "Posted 1 day ago (2026-11-12)"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "HR & Admin Officer",
+      "company": "Pengtai Greater China Company Limited",
+      "location": "Causeway Bay, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95860858",
+      "posted_date": "2026-11-12",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted 1 day ago (2026-11-12)"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-11)"
+        "Posted 2 days ago (2026-11-11)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 1 day ago (2026-11-11)"
+        "Posted 2 days ago (2026-11-11)"
       ]
     },
     {
@@ -90,24 +90,11 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 3 days ago (2026-11-09)"
+        "Posted 4 days ago (2026-11-09)"
       ]
     },
     {
       "rank": 8,
-      "title": "HR Officer – People Operations",
-      "company": "Cosmic Education Group Limited",
-      "location": "Sheung Wan, Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95661852",
-      "posted_date": "2026-11-03",
-      "score": 12,
-      "reasons": [
-        "preferred location",
-        "Posted 9 days ago (2026-11-03)"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -116,21 +103,31 @@
       "score": 12,
       "reasons": [
         "preferred location",
-        "Posted 6 days ago (2026-11-06)"
+        "Posted 7 days ago (2026-11-06)"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "HR & Admin. Officer",
+      "company": "istyle Retail (Hong Kong) Co., Limited",
+      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
+      "url": "https://hk.jobsdb.com/job/95856676",
+      "posted_date": "2026-11-12",
+      "score": 2,
+      "reasons": [
+        "Posted 1 day ago (2026-11-12)"
       ]
     },
     {
       "rank": 10,
-      "title": "Human Resources Officer (25K-30K)",
-      "company": "PERSOL Hong Kong Limited",
-      "location": "Central and Western District",
-      "url": "https://hk.jobsdb.com/job/95655791",
-      "posted_date": "2026-11-03",
-      "score": 7,
+      "title": "Officer, HR Operations",
+      "company": "BUPA Asia Limited",
+      "location": "Kowloon Bay, Kwun Tong District",
+      "url": "https://hk.jobsdb.com/job/95861297",
+      "posted_date": "2026-11-12",
+      "score": 2,
       "reasons": [
-        "salary below target ($25,000)",
-        "preferred location",
-        "Posted 9 days ago (2026-11-03)"
+        "Posted 1 day ago (2026-11-12)"
       ]
     }
   ]
