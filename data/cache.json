@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T19:29:21.136665",
-  "slot": "evening",
+  "updated_at": "2026-11-12T06:30:28.791811",
+  "slot": "morning",
   "jobs": [
     {
       "rank": 1,
@@ -43,6 +43,19 @@
     },
     {
       "rank": 4,
+      "title": "Human Resources Officer",
+      "company": "China Life Insurance (Overseas) Company Limited",
+      "location": "Wan Chai, Wan Chai District",
+      "url": "https://hk.jobsdb.com/job/95843661",
+      "posted_date": "2026-11-12",
+      "score": 12,
+      "reasons": [
+        "preferred location",
+        "Posted today (2026-11-12)"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Human Resources Officer (C&B)",
       "company": "King Fook Holdings Ltd",
       "location": "Central, Central and Western District",
@@ -55,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Senior Human Resources Officer",
       "company": "Forthright Financial Holdings Company Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -68,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Senior Officer / Officer - Human Resources (Talent Acquisition Focus)",
       "company": "Xin Xiamen Capital Management (Hong Kong) Pte Limited",
       "location": "Wan Chai, Wan Chai District",
@@ -81,7 +94,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "HR Officer – People Operations",
       "company": "Cosmic Education Group Limited",
       "location": "Sheung Wan, Central and Western District",
@@ -94,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Senior Human Resources Officer",
       "company": "Hong Kong Trade Development Council",
       "location": "Wan Chai District",
@@ -107,7 +120,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Human Resources Officer (25K-30K)",
       "company": "PERSOL Hong Kong Limited",
       "location": "Central and Western District",
@@ -118,18 +131,6 @@
         "salary below target ($25,000)",
         "preferred location",
         "Posted 9 days ago (2026-11-03)"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Human Resources Officer / Senior Human Resources Officer",
-      "company": "The New Medical Center Limited",
-      "location": "Tsim Sha Tsui, Yau Tsim Mong District",
-      "url": "https://hk.jobsdb.com/job/95749956",
-      "posted_date": "2026-11-06",
-      "score": 2,
-      "reasons": [
-        "Posted 6 days ago (2026-11-06)"
       ]
     }
   ]
